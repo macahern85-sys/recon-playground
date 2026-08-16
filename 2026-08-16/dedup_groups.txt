@@ -1,165 +1,149 @@
-[DEDUP] https://admin-bpost4me-st1.bpost.cloud represents 28 duplicates [403][919][ERROR: The request could not be satisfied]:
-  ↳ https://admin-bpost4me-ac1.bpost.cloud
-  ↳ https://admin-bpost4me.bpost.cloud
-  ↳ https://career-st2.bpost.cloud
-  ↳ https://career-ac2.bpost.cloud
-  ↳ https://career-ac1.bpost.cloud
-  ↳ https://cfp-dv.bpost.cloud
-  ↳ https://crp.bpost.cloud
-  ↳ https://digitaltwin.bpost.cloud
-  ↳ https://eho-ac2.bpost.cloud
-  ↳ https://eho-ac1.bpost.cloud
-  ↳ https://eho-st2.bpost.cloud
-  ↳ https://eho.bpost.cloud
-  ↳ https://mhs-connector-ac1.bpost.cloud
-  ↳ https://nco-ac1.bpost.cloud
-  ↳ https://nbw-ac1.bpost.cloud
-  ↳ https://nbw-st2.bpost.cloud
-  ↳ https://nco-st2.bpost.cloud
-  ↳ https://nco.bpost.cloud
-  ↳ https://nco-uat.bpost.cloud
-  ↳ https://odp-ac2.bpost.cloud
-  ↳ https://odp-ac1.bpost.cloud
-  ↳ https://odp-st2.bpost.cloud
-  ↳ https://odp.bpost.cloud
-  ↳ https://protoswat.bpost.cloud
-  ↳ https://sds-dv2.bpost.cloud
-  ↳ https://sds-st2.bpost.cloud
-  ↳ https://sds-ac2.bpost.cloud
-  ↳ https://sds-pr.bpost.cloud
-[DEDUP] http://0g.citymesh.com:8443 represents 23 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
-  ↳ http://5gsense.citymesh.com:8443
-  ↳ http://assets.citymesh.com:8443
-  ↳ http://auth.citymesh.com:8443
-  ↳ http://bmcc.citymesh.com:8443
-  ↳ http://chat.citymesh.com:8443
-  ↳ http://dashboard.citymesh.com:8443
-  ↳ http://ethan.citymesh.com:8443
-  ↳ http://go.citymesh.com:8443
-  ↳ http://internet.citymesh.com:8443
-  ↳ http://kinepolisnederland.citymesh.com:8443
-  ↳ http://knokke-heist.citymesh.com:8443
-  ↳ http://kortrijkxpo.citymesh.com:8443
-  ↳ http://logout.citymesh.com:8443
-  ↳ http://maintenance.citymesh.com:8443
-  ↳ http://matexpo.citymesh.com:8443
-  ↳ http://micx.citymesh.com:8443
-  ↳ http://namurexpo.citymesh.com:8443
-  ↳ http://nekkerhalbrusselsnorth.citymesh.com:8443
-  ↳ http://privacy.citymesh.com:8443
-  ↳ http://support.0g.citymesh.com:8443
-  ↳ http://wijnegemshopping.citymesh.com:8443
-  ↳ http://wintercircus.citymesh.com:8443
-  ↳ http://www.5gjump.citymesh.com:8443
-[DEDUP] http://5gjump.citymesh.com:8443 represents 37 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
-  ↳ http://aalst.citymesh.com:8443
-  ↳ http://antwerpexpo.citymesh.com:8443
-  ↳ http://api-gateway.citymesh.com:8443
-  ↳ http://auth-tst.citymesh.com:8443
-  ↳ http://auth-staging.citymesh.com:8443
-  ↳ http://bauhuis.citymesh.com:8443
-  ↳ http://busworld.citymesh.com:8443
-  ↳ http://cabmanager.citymesh.com:8443
-  ↳ http://development.citymesh.com:8443
-  ↳ http://drones.citymesh.com:8443
-  ↳ http://exhibition.citymesh.com:8443
-  ↳ http://exhibitions.citymesh.com:8443
-  ↳ http://expohasselt.citymesh.com:8443
-  ↳ http://extra.citymesh.com:8443
-  ↳ http://ffai-alerts.citymesh.com:8443
-  ↳ http://ffai-summary.citymesh.com:8443
-  ↳ http://ffai.citymesh.com:8443
-  ↳ http://flandersexpo.citymesh.com:8443
-  ↳ http://flex.citymesh.com:8443
-  ↳ http://helpdesk.citymesh.com:8443
-  ↳ http://iot.citymesh.com:8443
-  ↳ http://kinepolisbelgie.citymesh.com:8443
-  ↳ http://kmda.citymesh.com:8443
-  ↳ http://knokke-heist-private.citymesh.com:8443
-  ↳ http://livechat.citymesh.com:8443
-  ↳ http://my.citymesh.com:8443
-  ↳ http://notulen.citymesh.com:8443
-  ↳ http://odoo.citymesh.com:8443
-  ↳ http://order.citymesh.com:8443
-  ↳ http://status.citymesh.com:8443
-  ↳ http://stop.citymesh.com:8443
-  ↳ http://supernova.citymesh.com:8443
-  ↳ http://support.citymesh.com:8443
-  ↳ http://thingsboard.citymesh.com:8443
-  ↳ http://trixxoarena.citymesh.com:8443
-  ↳ http://wakanda.citymesh.com:8443
-  ↳ http://www.citymesh.com:8443
-[DEDUP] http://account-legacy.bitvavo.com:8443 represents 51 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+[DEDUP] http://account-kinder.bitvavo.com:8443 represents 53 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
   ↳ http://account.bitvavo.com:8443
+  ↳ http://account-legacy.bitvavo.com:8443
   ↳ http://api-primary.eu-central-1.bitvavo.com:8443
+  ↳ http://api-secondary.eu-central-1.bitvavo.com:8443
   ↳ http://api-tmp.bitvavo.com:8443
   ↳ http://api-wl6hqlwf32zvzd77dxr4ebbxs1wkv6mm.bitvavo.com:8443
   ↳ http://api.bitvavo.com:8443
   ↳ http://api.learn.bitvavo.com:8443
   ↳ http://apps-central.bitvavo.com:8443
   ↳ http://assets.bitvavo.com:8443
-  ↳ http://beta.account.bitvavo.com:8443
+  ↳ http://apps-ireland.bitvavo.com:8443
+  ↳ http://auth-provider-api.bitvavo.com:8443
+  ↳ http://beta.assets.bitvavo.com:8443
   ↳ http://beta.bitvavo.com:8443
   ↳ http://beta.login.bitvavo.com:8443
-  ↳ http://blog-test.bitvavo.com:8443
+  ↳ http://beta.edge.bitvavo.com:8443
   ↳ http://blog.bitvavo.com:8443
   ↳ http://brand.bitvavo.com:8443
-  ↳ http://copper.bitvavo.com:8443
+  ↳ http://clicks.bitvavo.com:8443
   ↳ http://disable-api-primary.bitvavo.com:8443
-  ↳ http://disable-api-secondary.bitvavo.com:8443
-  ↳ http://disable-ws-primary.bitvavo.com:8443
   ↳ http://disable-ws-secondary.bitvavo.com:8443
-  ↳ http://docs-bck.bitvavo.com:8443
+  ↳ http://docs.bitvavo.com:8443
+  ↳ http://edge.bitvavo.com:8443
+  ↳ http://email.bitvavo.com:8443
   ↳ http://faq.bitvavo.com:8443
-  ↳ http://frontend-strapi-app.bitvavo.com:8443
   ↳ http://gateway-api.bitvavo.com:8443
-  ↳ http://internal.eu-central-1.bitvavo.com:8443
+  ↳ http://icons.bitvavo.com:8443
   ↳ http://jobs.bitvavo.com:8443
   ↳ http://landing.bitvavo.com:8443
+  ↳ http://learn.bitvavo.com:8443
   ↳ http://landingpage.bitvavo.com:8443
-  ↳ http://legacy-docs.bitvavo.com:8443
-  ↳ http://manage-panel-api.bitvavo.com:8443
   ↳ http://manage-panel-fe.bitvavo.com:8443
+  ↳ http://manage-panel-api.bitvavo.com:8443
   ↳ http://networks.bitvavo.com:8443
   ↳ http://okta.bitvavo.com:8443
   ↳ http://omni.bitvavo.com:8443
+  ↳ http://preview.bitvavo.com:8443
   ↳ http://public.bitvavo.com:8443
   ↳ http://retail.bitvavo.com:8443
-  ↳ http://sentry.monitoring.bitvavo.com:8443
+  ↳ http://sgtm.bitvavo.com:8443
   ↳ http://staging.api.learn.bitvavo.com:8443
-  ↳ http://staging.wordpress.learn.bitvavo.com:8443
   ↳ http://support.bitvavo.com:8443
   ↳ http://support2.bitvavo.com:8443
-  ↳ http://terraform.bitvavo.com:8443
   ↳ http://wildcard.eu-central-1.bitvavo.com:8443
-  ↳ http://wildcard.eu-central-1.internal.bitvavo.com:8443
   ↳ http://wildcard.internal.eu-central-1.bitvavo.com:8443
-  ↳ http://wildcard.monitoring.bitvavo.com:8443
   ↳ http://wildcard.r2.bitvavo.com:8443
+  ↳ http://wildcard.monitoring.bitvavo.com:8443
   ↳ http://wildcard.r2.internal.bitvavo.com:8443
   ↳ http://ws-primary.eu-central-1.bitvavo.com:8443
+  ↳ http://ws-mdpro.bitvavo.com:8443
   ↳ http://ws-secondary.eu-central-1.bitvavo.com:8443
   ↳ http://ws.bitvavo.com:8443
   ↳ http://www.bitvavo.com:8443
-[DEDUP] http://account-legacy.bitvavo.com:8080 represents 67 duplicates [301][520][301 Moved Permanently]:
-  ↳ http://account-kinder.bitvavo.com:8080
+[DEDUP] http://5gjump.citymesh.com:8443 represents 37 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://5gsense.citymesh.com:8443
+  ↳ http://0g.citymesh.com:8443
+  ↳ http://aalst.citymesh.com:8443
+  ↳ http://api-gateway.citymesh.com:8443
+  ↳ http://auth-tst.citymesh.com:8443
+  ↳ http://auth.citymesh.com:8443
+  ↳ http://bauhuis.citymesh.com:8443
+  ↳ http://bmcc.citymesh.com:8443
+  ↳ http://dashboard.citymesh.com:8443
+  ↳ http://development.citymesh.com:8443
+  ↳ http://exhibitions.citymesh.com:8443
+  ↳ http://expohasselt.citymesh.com:8443
+  ↳ http://ffai-alerts.citymesh.com:8443
+  ↳ http://ffai.citymesh.com:8443
+  ↳ http://flandersexpo.citymesh.com:8443
+  ↳ http://flex.citymesh.com:8443
+  ↳ http://go.citymesh.com:8443
+  ↳ http://internet.citymesh.com:8443
+  ↳ http://kmda.citymesh.com:8443
+  ↳ http://knokke-heist-private.citymesh.com:8443
+  ↳ http://knokke-heist.citymesh.com:8443
+  ↳ http://kortrijkxpo.citymesh.com:8443
+  ↳ http://kinepolisnederland.citymesh.com:8443
+  ↳ http://kinepolisbelgie.citymesh.com:8443
+  ↳ http://maintenance.citymesh.com:8443
+  ↳ http://matexpo.citymesh.com:8443
+  ↳ http://micx.citymesh.com:8443
+  ↳ http://odoo.citymesh.com:8443
+  ↳ http://privacy.citymesh.com:8443
+  ↳ http://status.citymesh.com:8443
+  ↳ http://stop.citymesh.com:8443
+  ↳ http://supernova.citymesh.com:8443
+  ↳ http://support.0g.citymesh.com:8443
+  ↳ http://thingsboard.citymesh.com:8443
+  ↳ http://wakanda.citymesh.com:8443
+  ↳ http://wijnegemshopping.citymesh.com:8443
+  ↳ http://wintercircus.citymesh.com:8443
+[DEDUP] https://admin-bpost4me.bpost.cloud represents 28 duplicates [403][919][ERROR: The request could not be satisfied]:
+  ↳ https://admin-bpost4me-st1.bpost.cloud
+  ↳ https://admin-bpost4me-ac1.bpost.cloud
+  ↳ https://career-ac2.bpost.cloud
+  ↳ https://career-ac1.bpost.cloud
+  ↳ https://career-st2.bpost.cloud
+  ↳ https://cfp-dv.bpost.cloud
+  ↳ https://crp.bpost.cloud
+  ↳ https://digitaltwin.bpost.cloud
+  ↳ https://eho-ac2.bpost.cloud
+  ↳ https://eho-st2.bpost.cloud
+  ↳ https://eho.bpost.cloud
+  ↳ https://eho-ac1.bpost.cloud
+  ↳ https://mhs-connector-ac1.bpost.cloud
+  ↳ https://nbw-ac1.bpost.cloud
+  ↳ https://nco-st2.bpost.cloud
+  ↳ https://nco-ac1.bpost.cloud
+  ↳ https://nco-uat.bpost.cloud
+  ↳ https://nco.bpost.cloud
+  ↳ https://nbw-st2.bpost.cloud
+  ↳ https://odp-ac2.bpost.cloud
+  ↳ https://odp-ac1.bpost.cloud
+  ↳ https://odp-st2.bpost.cloud
+  ↳ https://odp.bpost.cloud
+  ↳ https://protoswat.bpost.cloud
+  ↳ https://sds-pr.bpost.cloud
+  ↳ https://sds-ac2.bpost.cloud
+  ↳ https://sds-dv2.bpost.cloud
+  ↳ https://sds-st2.bpost.cloud
+[DEDUP] http://5gjump.citymesh.com:8080 represents 2 duplicates [403][4550][Attention Required! | Cloudflare]:
+  ↳ http://5gsense.citymesh.com:8080
+  ↳ http://www.5gjump.citymesh.com:8080
+[DEDUP] https://abt-ac2.bpost.cloud represents 2 duplicates [200][678][Announcement Backend Tool]:
+  ↳ https://abt.bpost.cloud
+  ↳ https://abt-st2.bpost.cloud
+[DEDUP] http://account-kinder.bitvavo.com:8080 represents 67 duplicates [301][520][301 Moved Permanently]:
   ↳ http://account.bitvavo.com:8080
+  ↳ http://account-legacy.bitvavo.com:8080
   ↳ http://api-primary.eu-central-1.bitvavo.com:8080
   ↳ http://api-secondary.eu-central-1.bitvavo.com:8080
   ↳ http://api-tmp.bitvavo.com:8080
   ↳ http://api-wl6hqlwf32zvzd77dxr4ebbxs1wkv6mm.bitvavo.com:8080
   ↳ http://api.bitvavo.com:8080
   ↳ http://api.learn.bitvavo.com:8080
-  ↳ http://apps-ireland.bitvavo.com:8080
   ↳ http://apps-central.bitvavo.com:8080
   ↳ http://assets.bitvavo.com:8080
+  ↳ http://apps-ireland.bitvavo.com:8080
   ↳ http://auth-provider-api.bitvavo.com:8080
   ↳ http://beta.account.bitvavo.com:8080
   ↳ http://beta.assets.bitvavo.com:8080
   ↳ http://beta.bitvavo.com:8080
   ↳ http://beta.braze.bitvavo.com:8080
-  ↳ http://beta.edge.bitvavo.com:8080
   ↳ http://beta.login.bitvavo.com:8080
+  ↳ http://beta.edge.bitvavo.com:8080
   ↳ http://clicks.bitvavo.com:8080
   ↳ http://copper.bitvavo.com:8080
   ↳ http://data.bitvavo.com:8080
@@ -178,80 +162,57 @@
   ↳ http://internal.eu-central-1.bitvavo.com:8080
   ↳ http://jobs.bitvavo.com:8080
   ↳ http://landing.bitvavo.com:8080
-  ↳ http://learn.bitvavo.com:8080
   ↳ http://legacy-docs.bitvavo.com:8080
-  ↳ http://manage-panel-api.bitvavo.com:8080
+  ↳ http://learn.bitvavo.com:8080
   ↳ http://manage-panel-fe.bitvavo.com:8080
+  ↳ http://manage-panel-api.bitvavo.com:8080
   ↳ http://networks.bitvavo.com:8080
   ↳ http://okta.bitvavo.com:8080
   ↳ http://open.bitvavo.com:8080
   ↳ http://preview.bitvavo.com:8080
   ↳ http://public.bitvavo.com:8080
   ↳ http://retail.bitvavo.com:8080
-  ↳ http://docs-bck.bitvavo.com
   ↳ http://sentry.monitoring.bitvavo.com:8080
   ↳ http://sgtm.bitvavo.com:8080
+  ↳ http://docs-bck.bitvavo.com
   ↳ http://staging.api.learn.bitvavo.com:8080
   ↳ http://staging.learn.bitvavo.com:8080
   ↳ http://staging.wordpress.learn.bitvavo.com:8080
   ↳ http://terraform.bitvavo.com:8080
   ↳ http://wallets.bitvavo.com:8080
-  ↳ http://wildcard.eu-central-1.bitvavo.com:8080
   ↳ http://wildcard.eu-central-1.internal.bitvavo.com:8080
   ↳ http://wildcard.internal.eu-central-1.bitvavo.com:8080
-  ↳ http://wildcard.monitoring.bitvavo.com:8080
-  ↳ http://wildcard.r2.bitvavo.com:8080
   ↳ http://wildcard.internal.eu-central-1.bitvavo.com
+  ↳ http://wildcard.eu-central-1.bitvavo.com:8080
+  ↳ http://wildcard.monitoring.bitvavo.com:8080
   ↳ http://wildcard.r2.internal.bitvavo.com:8080
-  ↳ http://ws-primary.eu-central-1.bitvavo.com:8080
+  ↳ http://wildcard.r2.bitvavo.com:8080
   ↳ http://ws-mdpro.bitvavo.com:8080
+  ↳ http://ws-primary.eu-central-1.bitvavo.com:8080
   ↳ http://ws-secondary.eu-central-1.bitvavo.com:8080
   ↳ http://ws.bitvavo.com:8080
   ↳ http://www.bitvavo.com:8080
   ↳ http://terraform.bitvavo.com
-[DEDUP] http://account-kinder.bitvavo.com:8443 represents 19 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
-  ↳ http://api-secondary.eu-central-1.bitvavo.com:8443
-  ↳ http://apps-ireland.bitvavo.com:8443
-  ↳ http://auth-provider-api.bitvavo.com:8443
-  ↳ http://beta.assets.bitvavo.com:8443
-  ↳ http://beta.braze.bitvavo.com:8443
-  ↳ http://beta.edge.bitvavo.com:8443
-  ↳ http://clicks.bitvavo.com:8443
-  ↳ http://data.bitvavo.com:8443
-  ↳ http://docs.bitvavo.com:8443
-  ↳ http://edge.bitvavo.com:8443
-  ↳ http://email.bitvavo.com:8443
-  ↳ http://icons.bitvavo.com:8443
-  ↳ http://learn.bitvavo.com:8443
-  ↳ http://open.bitvavo.com:8443
-  ↳ http://preview.bitvavo.com:8443
-  ↳ http://sgtm.bitvavo.com:8443
-  ↳ http://staging.learn.bitvavo.com:8443
-  ↳ http://wallets.bitvavo.com:8443
-  ↳ http://ws-mdpro.bitvavo.com:8443
-[DEDUP] http://5gsense.citymesh.com:8080 represents 2 duplicates [403][4549][Attention Required! | Cloudflare]:
-  ↳ http://5gjump.citymesh.com:8080
-  ↳ http://www.5gjump.citymesh.com:8080
 [DEDUP] http://abp-st2.bpost.cloud represents 29 duplicates [403][915][ERROR: The request could not be satisfied]:
-  ↳ http://bcu-ac2.bpost.cloud
-  ↳ http://bcu-dv1.bpost.cloud
   ↳ http://bcu-dv2.bpost.cloud
-  ↳ http://bcu-st2.bpost.cloud
+  ↳ http://bcu-dv1.bpost.cloud
+  ↳ http://bcu-ac2.bpost.cloud
   ↳ http://bcu-st1.bpost.cloud
-  ↳ http://bgu.bpost.cloud
+  ↳ http://bcu-st2.bpost.cloud
   ↳ http://bgu-st01.bpost.cloud
+  ↳ http://bgu.bpost.cloud
   ↳ http://bgu-ac01.bpost.cloud
   ↳ http://cmp-ac01.bpost.cloud
-  ↳ http://crp-st2.bpost.cloud
   ↳ http://crp-ac2.bpost.cloud
-  ↳ http://das-ac2.bpost.cloud
+  ↳ http://crp-st2.bpost.cloud
   ↳ http://das.bpost.cloud
+  ↳ http://das-ac2.bpost.cloud
+  ↳ http://dmmo-ac2.bpost.cloud
   ↳ http://dmmo-st2.bpost.cloud
   ↳ http://dmo.bpost.cloud
-  ↳ http://dmmo-ac2.bpost.cloud
   ↳ http://dtswat.bpost.cloud
-  ↳ http://just-on-web-ac1.bpost.cloud
   ↳ http://just-on-web-ac2.bpost.cloud
+  ↳ http://just-on-web-ac1.bpost.cloud
   ↳ http://justonweb-ac1.bpost.cloud
   ↳ http://mailboxdrop-ac2.bpost.cloud
   ↳ http://mailboxdrop-st2.bpost.cloud
@@ -262,9 +223,41 @@
   ↳ http://trackcb-ac.bpost.cloud
   ↳ http://vdl.bpost.cloud
   ↳ http://www.justonweb-ac1.bpost.cloud
-[DEDUP] https://abt-st2.bpost.cloud represents 2 duplicates [200][678][Announcement Backend Tool]:
-  ↳ https://abt-ac2.bpost.cloud
-  ↳ https://abt.bpost.cloud
+[DEDUP] http://0g.citymesh.com:8080 represents 27 duplicates [302][496][302 Found]:
+  ↳ https://0g.citymesh.com
+  ↳ http://chat.citymesh.com:8080
+  ↳ https://chat.citymesh.com
+  ↳ http://dashboard.citymesh.com:8080
+  ↳ https://dashboard.citymesh.com
+  ↳ http://drones.citymesh.com:8080
+  ↳ https://drones.citymesh.com
+  ↳ http://exhibition.citymesh.com:8080
+  ↳ https://exhibition.citymesh.com
+  ↳ http://expohasselt.citymesh.com:8080
+  ↳ https://expohasselt.citymesh.com
+  ↳ http://helpdesk.citymesh.com:8080
+  ↳ https://helpdesk.citymesh.com
+  ↳ http://internet.citymesh.com:8080
+  ↳ https://internet.citymesh.com
+  ↳ http://logout.citymesh.com:8080
+  ↳ https://logout.citymesh.com
+  ↳ http://notulen.citymesh.com:8080
+  ↳ https://notulen.citymesh.com
+  ↳ http://privacy.citymesh.com:8080
+  ↳ https://privacy.citymesh.com
+  ↳ http://stop.citymesh.com:8080
+  ↳ https://stop.citymesh.com
+  ↳ http://support.0g.citymesh.com:8080
+  ↳ https://support.0g.citymesh.com
+  ↳ http://support.citymesh.com:8080
+  ↳ https://support.citymesh.com
+[DEDUP] https://acd-npd.canadapost-postescanada.ca represents 6 duplicates [403][179][403 Forbidden]:
+  ↳ https://acd.canadapost-postescanada.ca
+  ↳ https://stg-geo.canadapost-postescanada.ca
+  ↳ https://trends-npd.canadapost-postescanada.ca
+  ↳ https://trends.canadapost-postescanada.ca
+  ↳ https://vcma.canadapost-postescanada.ca
+  ↳ https://vcma-npd.canadapost-postescanada.ca
 [DEDUP] http://aalst.citymesh.com:8080 represents 41 duplicates [301][520][301 Moved Permanently]:
   ↳ http://antwerpexpo.citymesh.com:8080
   ↳ http://api-gateway.citymesh.com:8080
@@ -283,12 +276,12 @@
   ↳ http://flandersexpo.citymesh.com:8080
   ↳ http://go.citymesh.com:8080
   ↳ http://iot.citymesh.com:8080
-  ↳ http://kinepolisbelgie.citymesh.com:8080
-  ↳ http://kinepolisnederland.citymesh.com:8080
   ↳ http://kmda.citymesh.com:8080
-  ↳ http://knokke-heist.citymesh.com:8080
   ↳ http://knokke-heist-private.citymesh.com:8080
+  ↳ http://knokke-heist.citymesh.com:8080
   ↳ http://kortrijkxpo.citymesh.com:8080
+  ↳ http://kinepolisnederland.citymesh.com:8080
+  ↳ http://kinepolisbelgie.citymesh.com:8080
   ↳ http://livechat.citymesh.com:8080
   ↳ http://maintenance.citymesh.com:8080
   ↳ http://matexpo.citymesh.com:8080
@@ -307,43 +300,48 @@
   ↳ http://wijnegemshopping.citymesh.com:8080
   ↳ http://wintercircus.citymesh.com:8080
   ↳ http://www.citymesh.com:8080
-[DEDUP] https://0g.citymesh.com represents 27 duplicates [302][496][302 Found]:
-  ↳ http://0g.citymesh.com:8080
-  ↳ https://chat.citymesh.com
-  ↳ http://chat.citymesh.com:8080
-  ↳ http://dashboard.citymesh.com:8080
-  ↳ https://dashboard.citymesh.com
-  ↳ http://drones.citymesh.com:8080
-  ↳ https://drones.citymesh.com
-  ↳ https://exhibition.citymesh.com
-  ↳ http://exhibition.citymesh.com:8080
-  ↳ http://expohasselt.citymesh.com:8080
-  ↳ https://expohasselt.citymesh.com
-  ↳ http://helpdesk.citymesh.com:8080
-  ↳ https://helpdesk.citymesh.com
-  ↳ https://internet.citymesh.com
-  ↳ http://internet.citymesh.com:8080
-  ↳ https://logout.citymesh.com
-  ↳ http://logout.citymesh.com:8080
-  ↳ http://notulen.citymesh.com:8080
-  ↳ https://notulen.citymesh.com
-  ↳ http://privacy.citymesh.com:8080
-  ↳ https://privacy.citymesh.com
-  ↳ http://stop.citymesh.com:8080
-  ↳ https://stop.citymesh.com
-  ↳ http://support.0g.citymesh.com:8080
-  ↳ https://support.0g.citymesh.com
-  ↳ http://support.citymesh.com:8080
-  ↳ https://support.citymesh.com
-[DEDUP] https://amendesroutieres-ac2.bpost.cloud represents 30 duplicates [200][59907][]:
-  ↳ https://amendesroutieres-st2.bpost.cloud
+[DEDUP] http://antwerpexpo.citymesh.com:8443 represents 23 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://assets.citymesh.com:8443
+  ↳ http://auth-staging.citymesh.com:8443
+  ↳ http://busworld.citymesh.com:8443
+  ↳ http://cabmanager.citymesh.com:8443
+  ↳ http://chat.citymesh.com:8443
+  ↳ http://drones.citymesh.com:8443
+  ↳ http://ethan.citymesh.com:8443
+  ↳ http://exhibition.citymesh.com:8443
+  ↳ http://extra.citymesh.com:8443
+  ↳ http://ffai-summary.citymesh.com:8443
+  ↳ http://helpdesk.citymesh.com:8443
+  ↳ http://iot.citymesh.com:8443
+  ↳ http://livechat.citymesh.com:8443
+  ↳ http://logout.citymesh.com:8443
+  ↳ http://my.citymesh.com:8443
+  ↳ http://namurexpo.citymesh.com:8443
+  ↳ http://nekkerhalbrusselsnorth.citymesh.com:8443
+  ↳ http://notulen.citymesh.com:8443
+  ↳ http://order.citymesh.com:8443
+  ↳ http://support.citymesh.com:8443
+  ↳ http://trixxoarena.citymesh.com:8443
+  ↳ http://www.5gjump.citymesh.com:8443
+  ↳ http://www.citymesh.com:8443
+[DEDUP] https://amendesroutieres-ac1.bpost.cloud represents 8 duplicates [200][2634][JustOnWeb]:
+  ↳ https://ihrestrafe-ac1.bpost.cloud
+  ↳ https://trafficfines-ac1.bpost.cloud
+  ↳ https://uwboete-ac1.bpost.cloud
+  ↳ https://verkeersboetes-ac1.bpost.cloud
+  ↳ https://verkehrsstrafen-ac1.bpost.cloud
+  ↳ https://verkeersboeten-ac1.bpost.cloud
+  ↳ https://votreamende-ac1.bpost.cloud
+  ↳ https://yourfine-ac1.bpost.cloud
+[DEDUP] https://amendesroutieres-st2.bpost.cloud represents 30 duplicates [200][59907][]:
+  ↳ https://amendesroutieres-ac2.bpost.cloud
   ↳ https://digital-dossier-ac2.bpost.cloud
   ↳ https://fines-ac2.bpost.cloud
-  ↳ https://ihrestrafe-st2.bpost.cloud
   ↳ https://ihrestrafe-ac2.bpost.cloud
+  ↳ https://ihrestrafe-st2.bpost.cloud
   ↳ https://justonweb-ac2.bpost.cloud
-  ↳ https://justonweb-st2.bpost.cloud
   ↳ https://justonweb-st1.bpost.cloud
+  ↳ https://justonweb-st2.bpost.cloud
   ↳ https://meine-busse-st2.bpost.cloud
   ↳ https://mijn-boete-st2.bpost.cloud
   ↳ https://mon-amende-st2.bpost.cloud
@@ -353,42 +351,33 @@
   ↳ https://uwboete-ac2.bpost.cloud
   ↳ https://uwboete-st2.bpost.cloud
   ↳ https://verkeersboeten-ac2.bpost.cloud
-  ↳ https://verkeersboeten-st2.bpost.cloud
   ↳ https://verkeersboeten-st1.bpost.cloud
-  ↳ https://verkeersboetes-st2.bpost.cloud
-  ↳ https://verkeersboetes-ac2.bpost.cloud
   ↳ https://verkehrsstrafen-ac2.bpost.cloud
   ↳ https://verkehrsstrafen-st2.bpost.cloud
-  ↳ https://votreamende-ac2.bpost.cloud
+  ↳ https://verkeersboetes-st2.bpost.cloud
+  ↳ https://verkeersboetes-ac2.bpost.cloud
+  ↳ https://verkeersboeten-st2.bpost.cloud
   ↳ https://votreamende-st2.bpost.cloud
-  ↳ https://www.justonweb-ac2.bpost.cloud
+  ↳ https://votreamende-ac2.bpost.cloud
   ↳ https://www.justonweb-st1.bpost.cloud
   ↳ https://www.justonweb-st2.bpost.cloud
+  ↳ https://www.justonweb-ac2.bpost.cloud
   ↳ https://yourfine-ac2.bpost.cloud
   ↳ https://yourfine-st2.bpost.cloud
-[DEDUP] https://amendesroutieres-ac1.bpost.cloud represents 8 duplicates [200][2634][JustOnWeb]:
-  ↳ https://ihrestrafe-ac1.bpost.cloud
-  ↳ https://trafficfines-ac1.bpost.cloud
-  ↳ https://uwboete-ac1.bpost.cloud
-  ↳ https://verkeersboeten-ac1.bpost.cloud
-  ↳ https://verkehrsstrafen-ac1.bpost.cloud
-  ↳ https://verkeersboetes-ac1.bpost.cloud
-  ↳ https://votreamende-ac1.bpost.cloud
-  ↳ https://yourfine-ac1.bpost.cloud
 [DEDUP] https://account-legacy.bitvavo.com represents 28 duplicates [404][0][]:
   ↳ https://api-primary.eu-central-1.bitvavo.com
   ↳ https://api-secondary.eu-central-1.bitvavo.com
   ↳ https://api-tmp.bitvavo.com
   ↳ https://api.bitvavo.com
   ↳ https://apps-central.bitvavo.com
-  ↳ https://auth-provider-api.bitvavo.com
   ↳ https://apps-ireland.bitvavo.com
+  ↳ https://auth-provider-api.bitvavo.com
   ↳ https://copper.bitvavo.com
   ↳ https://data.bitvavo.com
   ↳ https://edge.bitvavo.com
   ↳ https://faq.bitvavo.com
-  ↳ https://frontend-strapi-app.bitvavo.com
   ↳ https://gateway-api.bitvavo.com
+  ↳ https://frontend-strapi-app.bitvavo.com
   ↳ https://internal.eu-central-1.bitvavo.com
   ↳ https://manage-panel-api.bitvavo.com
   ↳ https://manage-panel-fe.bitvavo.com
@@ -396,35 +385,16 @@
   ↳ https://public.bitvavo.com
   ↳ https://retail.bitvavo.com
   ↳ https://sentry.monitoring.bitvavo.com
+  ↳ https://wallets.bitvavo.com
   ↳ https://wildcard.eu-central-1.bitvavo.com
   ↳ https://wildcard.monitoring.bitvavo.com
   ↳ https://wildcard.r2.bitvavo.com
   ↳ https://ws-primary.eu-central-1.bitvavo.com
-  ↳ https://ws-secondary.eu-central-1.bitvavo.com
-  ↳ https://ws.bitvavo.com
-  ↳ https://wallets.bitvavo.com
   ↳ https://ws-mdpro.bitvavo.com
-[DEDUP] https://acd.canadapost-postescanada.ca represents 2 duplicates [403][581][403 Forbidden]:
-  ↳ https://trends.canadapost-postescanada.ca
-  ↳ https://vcma.canadapost-postescanada.ca
-[DEDUP] https://acd-npd.canadapost-postescanada.ca represents 3 duplicates [403][179][403 Forbidden]:
-  ↳ https://stg-geo.canadapost-postescanada.ca
-  ↳ https://trends-npd.canadapost-postescanada.ca
-  ↳ https://vcma-npd.canadapost-postescanada.ca
-[DEDUP] https://ai.bpost.be represents 10 duplicates [403][42][]:
-  ↳ https://api-ext-track.bpost.be
-  ↳ https://api-track.bpost.be
-  ↳ https://api.hyp.bpost.be
-  ↳ https://bcc-st1.bpost.be
-  ↳ https://bcc-ac1.bpost.be
-  ↳ https://bcc-pr.bpost.be
-  ↳ https://bcc-dv1.bpost.be
-  ↳ https://businesscustomersupport-api.bpost.be
-  ↳ https://sen.bpost.be
-  ↳ https://sso-preferences.bpost.be
-[DEDUP] https://admin-bpost4me-st1-test.bpost.cloud represents 14 duplicates [403][111][]:
+  ↳ https://ws.bitvavo.com
+  ↳ https://ws-secondary.eu-central-1.bitvavo.com
+[DEDUP] https://admin-bpost4me-st1-test.bpost.cloud represents 13 duplicates [403][111][]:
   ↳ https://bcb-ac2.bpost.cloud
-  ↳ https://counter-dv1.bpost.cloud
   ↳ https://dmc-ac2.bpost.cloud
   ↳ https://dmc.bpost.cloud
   ↳ https://doperformance.dv1.bpost.cloud
@@ -437,379 +407,191 @@
   ↳ https://trackcb-ac2.bpost.cloud
   ↳ https://trackcb-dv2.bpost.cloud
   ↳ https://trucke.uat.bpost.cloud
-[DEDUP] https://1d508a03-bd91-4baa-b1d4-e761494e87c7.bpost.cloud represents 17 duplicates [403][520][403 Forbidden]:
-  ↳ https://alb-spp.bpost.cloud
-  ↳ https://alb-spp-np.bpost.cloud
+[DEDUP] https://Rdgwpubgcp.bpost.cloud represents 1 duplicates [404][145][]:
+  ↳ https://rdgwpubgcp.bpost.cloud
+[DEDUP] https://ai.bpost.be represents 10 duplicates [403][42][]:
+  ↳ https://api-ext-track.bpost.be
+  ↳ https://api-track.bpost.be
+  ↳ https://api.hyp.bpost.be
+  ↳ https://bcc-ac1.bpost.be
+  ↳ https://bcc-pr.bpost.be
+  ↳ https://bcc-dv1.bpost.be
+  ↳ https://bcc-st1.bpost.be
+  ↳ https://businesscustomersupport-api.bpost.be
+  ↳ https://sen.bpost.be
+  ↳ https://sso-preferences.bpost.be
+[DEDUP] https://1d508a03-bd91-4baa-b1d4-e761494e87c7.bpost.cloud represents 15 duplicates [403][520][403 Forbidden]:
   ↳ https://alb-bcc-pr.bpost.cloud
+  ↳ https://alb-spp-np.bpost.cloud
+  ↳ https://alb-spp.bpost.cloud
+  ↳ https://cbo-content-pr.bpost.cloud
   ↳ https://chk-st.bpost.cloud
-  ↳ https://esh-st1.bpost.cloud
   ↳ https://esh-ac2.bpost.cloud
   ↳ https://faq.bpost.cloud
   ↳ https://findmytruck-dv.bpost.cloud
-  ↳ https://fmi-b2b-ac2.bpost.cloud
   ↳ https://fmi-st2.bpost.cloud
-  ↳ https://fmt-ac1.bpost.cloud
-  ↳ https://hom-st2.bpost.cloud
-  ↳ https://ppo.bpost.cloud
-  ↳ https://rzv-st1.bpost.cloud
-  ↳ https://sum-ac2.bpost.cloud
-  ↳ http://ubu-graf-np.bpost.cloud
-  ↳ http://ubu-ui-np.bpost.cloud
-[DEDUP] https://api-abt-np.bpost.cloud represents 126 duplicates [403][23][]:
-  ↳ https://api-bpost4me-st1-test.bpost.cloud
-  ↳ https://api-cbf-ext.bpost.cloud
-  ↳ https://api-cad-ext-pr.bpost.cloud
-  ↳ https://api-cad-ext-np.bpost.cloud
-  ↳ https://api-cbo-backend-ext-pr.bpost.cloud
-  ↳ https://api-cbf-ext-ac2.bpost.cloud
-  ↳ https://api-cbo-backend-ext-ac2.bpost.cloud
-  ↳ https://api-cbo-backend-ext-st1.bpost.cloud
-  ↳ https://api-cbo-content-ext-pr.bpost.cloud
-  ↳ https://api-cbo-backend-ext-st2.bpost.cloud
-  ↳ https://api-bpost4me.bpost.cloud
-  ↳ https://api-cbocontent-ac2.bpost.cloud
-  ↳ https://api-cbocontent-ac1.bpost.cloud
-  ↳ https://api-cds-sel-ac02.bpost.cloud
-  ↳ https://api-cmc-ds01.bpost.cloud
-  ↳ https://api-cds-pr-selectiontool2.bpost.cloud
-  ↳ https://api-cds-sel-dv01.bpost.cloud
-  ↳ https://api-cds-sel-st01.bpost.cloud
-  ↳ https://api-cnt-pvt-ac01.bpost.cloud
-  ↳ https://api-cnt-ac01.bpost.cloud
-  ↳ https://api-cross-border-ai-hscode-validator-ds01.bpost.cloud
-  ↳ https://api-cross-border-ai-hscode-validator-st01.bpost.cloud
-  ↳ https://api-cross-border-ai-events-mapping-ds01.bpost.cloud
-  ↳ https://api-cross-border-ai-hscode-validator.bpost.cloud
-  ↳ https://api-cross-border-ai-hscode-validator-ac01.bpost.cloud
-  ↳ https://api-cross-border-ml-walle-parcel-prediction-ds.bpost.cloud
-  ↳ https://api-ctb-ac01.bpost.cloud
-  ↳ https://api-ctb.bpost.cloud
-  ↳ https://api-cyv.pr.bpost.cloud
-  ↳ https://api-cyv.ac01.bpost.cloud
-  ↳ https://api-dmo-ac2.bpost.cloud
-  ↳ https://api-dmo.bpost.cloud
-  ↳ https://api-dmo-st2.bpost.cloud
-  ↳ https://api-eho-getcatalogue-pr.bpost.cloud
-  ↳ https://api-etracker.bpost.cloud
-  ↳ https://api-emcauto-ext-ac2.bpost.cloud
-  ↳ https://api-etr-ac1.bpost.cloud
-  ↳ https://api-etr-st2.bpost.cloud
-  ↳ https://api-etr-ac2.bpost.cloud
-  ↳ https://api-health-ac.bpost.cloud
-  ↳ https://api-health.bpost.cloud
-  ↳ https://api-hos-track.bpost.cloud
-  ↳ https://api-hos-track-np.bpost.cloud
-  ↳ https://api-international-ext.pr.bpost.cloud
-  ↳ https://api-international-ext.st2.bpost.cloud
-  ↳ https://api-international-ext.ac2.bpost.cloud
-  ↳ https://api-jow-backend.bpost.cloud
-  ↳ https://api-jow-content.bpost.cloud
-  ↳ https://api-jow-content-st1.bpost.cloud
-  ↳ https://api-mas-dv2.bpost.cloud
-  ↳ https://api-mas-ac2.bpost.cloud
-  ↳ https://api-lgn-int.np.bpost.cloud
-  ↳ https://api-mas.bpost.cloud
-  ↳ https://api-mtp-ext-np.bpost.cloud
-  ↳ https://api-mtp-ext-pr.bpost.cloud
-  ↳ https://api-msp.bpost.cloud
-  ↳ https://api-msp-np.bpost.cloud
-  ↳ https://api-nra-ext-np.bpost.cloud
-  ↳ https://api-nra-ext-pr.bpost.cloud
-  ↳ https://api-np.mobile-postcard.bpost.cloud
-  ↳ https://api-nrc-ext-np.bpost.cloud
-  ↳ https://api-nrc-ext-pr.bpost.cloud
-  ↳ https://api-oea-dv.bpost.cloud
-  ↳ https://api-oea-pr.bpost.cloud
-  ↳ https://api-oea-st.bpost.cloud
-  ↳ https://api-overforecast.bpost.cloud
-  ↳ https://api-prm-np.bpost.cloud
-  ↳ https://api-protoswat-overforecast.bpost.cloud
-  ↳ https://api-prm.bpost.cloud
-  ↳ https://api-pub-abt-ac2.bpost.cloud
-  ↳ https://api-pub-abt-portal.bpost.cloud
-  ↳ https://api-pub-abt-portal-st2.bpost.cloud
-  ↳ https://api-pub-abt-portal-ac2.bpost.cloud
-  ↳ https://api-rqa.bpost.cloud
-  ↳ https://api-rqa-st1.bpost.cloud
-  ↳ https://api-pub-abt-st2.bpost.cloud
-  ↳ https://api-pub-abt.bpost.cloud
-  ↳ https://api-rqa-ac1.bpost.cloud
-  ↳ https://api-spp-np.bpost.cloud
-  ↳ https://api-spp.bpost.cloud
-  ↳ https://api-wle-ext-ac2.bpost.cloud
-  ↳ https://api-wle-ext-pr.bpost.cloud
-  ↳ https://api-xb-ai-ivm-st01.bpost.cloud
-  ↳ https://api-xb-ai-ivm-ac01.bpost.cloud
-  ↳ https://api.bop.ac2.bpost.cloud
-  ↳ https://api-wle-ext-np-1.bpost.cloud
-  ↳ https://api.bop.llp.st2.bpost.cloud
-  ↳ https://api.bop.st2.bpost.cloud
-  ↳ https://api.cim-np.bpost.cloud
-  ↳ https://api.cim.bpost.cloud
-  ↳ https://api.dds-pr.bpost.cloud
-  ↳ https://api.dds-ac2.bpost.cloud
-  ↳ https://api.dmo.bpost.cloud
-  ↳ https://api.mailops-np.bpost.cloud
-  ↳ https://api.mailops.bpost.cloud
-  ↳ https://api.mdm-np.bpost.cloud
-  ↳ https://api.mdm.bpost.cloud
-  ↳ https://api.mobile-postcard.bpost.cloud
-  ↳ https://api.sfa-np-soap.bpost.cloud
-  ↳ https://api.tmi-ac1.bpost.cloud
-  ↳ https://api.tmi-ac2.bpost.cloud
-  ↳ https://api.tmi-ext-st2.bpost.cloud
-  ↳ https://api.tmi-ext-ac2.bpost.cloud
-  ↳ https://api.tmi-st2.bpost.cloud
-  ↳ https://apicatalogue-eho-ac1.bpost.cloud
-  ↳ https://apicatalogue-eho-st1.bpost.cloud
-  ↳ https://apicatalogue-eho-ac2.bpost.cloud
-  ↳ https://apicatalogue-eho-st2.bpost.cloud
-  ↳ https://counter-api-ac2.bpost.cloud
-  ↳ https://counter-api2-np.bpost.cloud
-  ↳ https://counter-api2-pr.bpost.cloud
-  ↳ https://gdn-api-dv1.octopus.bpost.cloud
-  ↳ https://lgn-api.bpost.cloud
-  ↳ https://mybpost.bpost.cloud
-  ↳ https://mybpost-ac.bpost.cloud
-  ↳ https://sen.bpost.cloud
-  ↳ https://signforme-api-ac2.bpost.cloud
-  ↳ https://signforme-api.bpost.cloud
-  ↳ https://signforme-api-dv2.bpost.cloud
-  ↳ https://signforme-api-st2.bpost.cloud
-  ↳ https://sso-ac2.parcel.bpost.cloud
-  ↳ https://trackapi-ac1.bpost.cloud
-  ↳ https://trackapi-dv2.bpost.cloud
-  ↳ https://trackapi.bpost.cloud
-  ↳ https://trackapi-ac2.bpost.cloud
-  ↳ https://trackapi-st2.bpost.cloud
-[DEDUP] https://alb-bcc-st1.bpost.cloud represents 1 duplicates [404][63][]:
-  ↳ https://alb-bcc-ac1.bpost.cloud
-[DEDUP] https://alb-bpost4me.bpost.cloud represents 26 duplicates [403][118][403 Forbidden]:
-  ↳ https://api-nrc-svc-ext-prd.bpost.cloud
-  ↳ https://api-nrc-svc-ext-pr.bpost.cloud
-  ↳ https://cbo-content-st1.bpost.cloud
-  ↳ https://cbo-content-pr.bpost.cloud
-  ↳ https://cca.bpost.cloud
-  ↳ https://chk-ac.bpost.cloud
-  ↳ https://chk-dv.bpost.cloud
-  ↳ https://esh-st2.bpost.cloud
-  ↳ https://esh.bpost.cloud
-  ↳ https://esc.bpost.cloud
-  ↳ https://faq-st2.bpost.cloud
-  ↳ https://faq-ac2.bpost.cloud
-  ↳ https://fmi-ac1.bpost.cloud
-  ↳ https://fmi-ac2.bpost.cloud
-  ↳ https://fmi-b2b-pr.bpost.cloud
-  ↳ https://fmi-b2b-st2.bpost.cloud
   ↳ https://fmi-pr.bpost.cloud
   ↳ https://fmt-pr.bpost.cloud
-  ↳ https://hom-ac2.bpost.cloud
-  ↳ https://lpo.bpost.cloud
-  ↳ https://oea-pr.bpost.cloud
-  ↳ https://proto-apps-np.bpost.cloud
   ↳ https://rzv-ac1.bpost.cloud
   ↳ https://rzv-np.bpost.cloud
   ↳ http://ubu-np.bpost.cloud
   ↳ https://wss-parcellockers-ac1.bpost.cloud
-[DEDUP] https://alb-bcc-dv1.bpost.cloud represents 28 duplicates [503][162][503 Service Temporarily Unavailable]:
-  ↳ https://api-cbo-st2.bpost.cloud
-  ↳ https://api-jow-bosa-ac1.bpost.cloud
-  ↳ https://api-nrc-svc-ext-ac2.bpost.cloud
-  ↳ https://api-nrc-svc-ext-ac2b.bpost.cloud
-  ↳ https://api-nrc-svc-ext-dv1.bpost.cloud
-  ↳ https://cca-ac2.bpost.cloud
-  ↳ https://cca-st2.bpost.cloud
-  ↳ https://distripostsimulation-ac1.bpost.cloud
-  ↳ https://esc-ac2.bpost.cloud
-  ↳ https://flw-ac2.bpost.cloud
-  ↳ https://flw-ac1.bpost.cloud
-  ↳ https://hn-dv2-adminconsole.bpost.cloud
-  ↳ https://irn-ac1.bpost.cloud
-  ↳ https://irn-st2.bpost.cloud
-  ↳ https://irn-ac2.bpost.cloud
-  ↳ https://lpo-ac2.bpost.cloud
-  ↳ https://lpo-st1.bpost.cloud
-  ↳ https://mystock.bpost.cloud
-  ↳ https://npa-ac.bpost.cloud
-  ↳ https://npa-ds.bpost.cloud
-  ↳ https://oea-dv.bpost.cloud
-  ↳ https://osp-alb-st1.bpost.cloud
-  ↳ https://rdgwpubaw.bpost.cloud
-  ↳ https://shm-ac1.bpost.cloud
-  ↳ https://shm-ac2.bpost.cloud
-  ↳ https://shm-rest-ac1.bpost.cloud
-  ↳ https://shm-rest-st2.bpost.cloud
-  ↳ https://shm-st2.bpost.cloud
-[DEDUP] https://alb.das-st2.bpost.cloud represents 7 duplicates [403][52][]:
-  ↳ https://alb.das-ac1.bpost.cloud
-  ↳ https://alb.das.bpost.cloud
-  ↳ https://alb.das-ac2.bpost.cloud
-  ↳ https://api-bis-ac2.bpost.cloud
-  ↳ https://api-bis-st2.bpost.cloud
-  ↳ https://api.bis-st2.bpost.cloud
-  ↳ https://api.bis-ac2.bpost.cloud
+[DEDUP] https://alb-bcc-ac1.bpost.cloud represents 1 duplicates [404][63][]:
+  ↳ https://alb-bcc-st1.bpost.cloud
 [DEDUP] https://api-bcb-ac2.bpost.cloud represents 131 duplicates [403][42][]:
-  ↳ https://api-bcb-dv2.bpost.cloud
   ↳ https://api-bcb-st2.bpost.cloud
-  ↳ https://api-bis-dasboard-ext-ac2.bpost.cloud
-  ↳ https://api-bpost4me-st1.bpost.cloud
-  ↳ https://api-ac2.parcel.bpost.cloud
+  ↳ https://api-bcb-dv2.bpost.cloud
   ↳ https://api-bis-dasboard-ext-pr.bpost.cloud
+  ↳ https://api-bis-dasboard-ext-ac2.bpost.cloud
+  ↳ https://api-ac2.parcel.bpost.cloud
   ↳ https://api-bis-dasboard-ext-st2.bpost.cloud
   ↳ https://api-bpb.bpost.cloud
+  ↳ https://api-bpost4me-web-ac1.bpost.cloud
+  ↳ https://api-bpost4me-st1.bpost.cloud
   ↳ https://api-bpost4me-web.bpost.cloud
   ↳ https://api-bpost4me-web-st1.bpost.cloud
-  ↳ https://api-bpost4me-web-ac1.bpost.cloud
   ↳ https://api-bpost4me-ac1.bpost.cloud
-  ↳ https://api-cbocontent-st1.bpost.cloud
-  ↳ https://api-cds-pr-contact.bpost.cloud
-  ↳ https://api-cmp-st01.bpost.cloud
-  ↳ https://api-cmp-dv01.bpost.cloud
   ↳ https://api-cbo-backend-ext-np.bpost.cloud
-  ↳ https://api-cps-ac2.bpost.cloud
-  ↳ https://api-cnt-dv01.bpost.cloud
+  ↳ https://api-cbocontent-st1.bpost.cloud
+  ↳ https://api-cmp-st01.bpost.cloud
+  ↳ https://api-cds-pr-contact.bpost.cloud
   ↳ https://api-cnt-st01.bpost.cloud
+  ↳ https://api-cps-ac2.bpost.cloud
+  ↳ https://api-cmp-dv01.bpost.cloud
+  ↳ https://api-cnt-dv01.bpost.cloud
   ↳ https://api-cps-st2.bpost.cloud
   ↳ https://api-crp-st2.bpost.cloud
-  ↳ https://api-dis-ac2.bpost.cloud
   ↳ https://api-cyv.st01.bpost.cloud
   ↳ https://api-dis.bpost.cloud
   ↳ https://api-dis-st2.bpost.cloud
+  ↳ https://api-dis-ac2.bpost.cloud
+  ↳ https://api-external.esh-ds01.bpost.cloud
+  ↳ https://api-epf-ecompartner-pr.bpost.cloud
+  ↳ https://api-fmi.st1.bpost.cloud
   ↳ https://api-epf-ecompartner-ac2.bpost.cloud
   ↳ https://api-epf-ecompartner-dv2.bpost.cloud
-  ↳ https://api-external.esh-ds01.bpost.cloud
-  ↳ https://api-fmi.st1.bpost.cloud
-  ↳ https://api-epf-ecompartner-pr.bpost.cloud
-  ↳ https://api-hri.ac01.bpost.cloud
   ↳ https://api-hri.bpost.cloud
+  ↳ https://api-hri.ac01.bpost.cloud
   ↳ https://api-hri.st01.bpost.cloud
-  ↳ https://api-irn-ext.bpost.cloud
   ↳ https://api-irn-ext-ac2.bpost.cloud
+  ↳ https://api-irn-ext.bpost.cloud
   ↳ https://api-jow-ext-ac1.bpost.cloud
-  ↳ https://api-mpp-np.bpost.cloud
-  ↳ https://api-mpp.bpost.cloud
   ↳ https://api-mve-ac2.bpost.cloud
-  ↳ https://api-mve-dv2.bpost.cloud
   ↳ https://api-mve-pr.bpost.cloud
+  ↳ https://api-mpp-np.bpost.cloud
   ↳ https://api-mve-st2.bpost.cloud
-  ↳ https://api-otp-st1.bpost.cloud
+  ↳ https://api-mve-dv2.bpost.cloud
+  ↳ https://api-mpp.bpost.cloud
   ↳ https://api-otp.bpost.cloud
-  ↳ https://api-ppo-ext-ac1.bpost.cloud
+  ↳ https://api-otp-st1.bpost.cloud
   ↳ https://api-ppo-ext.bpost.cloud
-  ↳ https://api-psb-ac1.bpost.cloud
+  ↳ https://api-ppo-ext-ac1.bpost.cloud
+  ↳ https://api-psb-dv2.bpost.cloud
   ↳ https://api-psb-ac2.bpost.cloud
+  ↳ https://api-psb-ac1.bpost.cloud
   ↳ https://api-psb-pr.bpost.cloud
   ↳ https://api-psb-st2.bpost.cloud
-  ↳ https://api-psb-dv2.bpost.cloud
-  ↳ https://api-smc-ac2.bpost.cloud
-  ↳ https://api-smc-st2.bpost.cloud
   ↳ https://api-sml-ac1.bpost.cloud
+  ↳ https://api-smc-ac2.bpost.cloud
   ↳ https://api-sml-ac2.bpost.cloud
-  ↳ https://api-sml-st2.bpost.cloud
   ↳ https://api-sml-dv2.bpost.cloud
+  ↳ https://api-smc-st2.bpost.cloud
   ↳ https://api-sml-pr.bpost.cloud
+  ↳ https://api-sml-st2.bpost.cloud
   ↳ https://api-tms-ac2.bpost.cloud
   ↳ https://api-tms.bpost.cloud
   ↳ https://api.bop.llp.ac2.bpost.cloud
   ↳ https://api.bop.bpost.cloud
   ↳ https://api.das-ac1.bpost.cloud
-  ↳ https://api.das-ac2.bpost.cloud
-  ↳ https://api.das-ext.bpost.cloud
   ↳ https://api.das-ext-ac1.bpost.cloud
-  ↳ https://api.das-ext-ac2.bpost.cloud
   ↳ https://api.das-ext-st2.bpost.cloud
+  ↳ https://api.das-ac2.bpost.cloud
   ↳ https://api.das-st2.bpost.cloud
-  ↳ https://api.das.bpost.cloud
+  ↳ https://api.das-ext.bpost.cloud
+  ↳ https://api.das-ext-ac2.bpost.cloud
   ↳ https://api.dds-st2.bpost.cloud
+  ↳ https://api.das.bpost.cloud
+  ↳ https://api.los-pr.bpost.cloud
   ↳ https://api.hyp-non-prod.bpost.cloud
   ↳ https://api.los-ac2.bpost.cloud
   ↳ https://api.los-st2.bpost.cloud
-  ↳ https://api.los-pr.bpost.cloud
-  ↳ https://api.lrs-st2.bpost.cloud
-  ↳ https://api.lrs-ac2.bpost.cloud
   ↳ https://api.lrs-pr.bpost.cloud
-  ↳ https://api.odp-ac2.bpost.cloud
-  ↳ https://api.odp-st2.bpost.cloud
-  ↳ https://api.odp-ac1.bpost.cloud
-  ↳ https://api.sfa-ac2-rest.bpost.cloud
-  ↳ https://api.sfa-ac1-rest.bpost.cloud
+  ↳ https://api.lrs-ac2.bpost.cloud
+  ↳ https://api.lrs-st2.bpost.cloud
   ↳ https://api.odp.bpost.cloud
+  ↳ https://api.odp-ac2.bpost.cloud
+  ↳ https://api.odp-ac1.bpost.cloud
+  ↳ https://api.sfa-ac1-rest.bpost.cloud
   ↳ https://api.sfa-ac2-soap.bpost.cloud
   ↳ https://api.sfa-ac1-soap.bpost.cloud
-  ↳ https://api.sfa-pr-soap.bpost.cloud
   ↳ https://api.sfa-pr-rest.bpost.cloud
+  ↳ https://api.sfa-pr-soap.bpost.cloud
+  ↳ https://api.odp-st2.bpost.cloud
+  ↳ https://api.sfa-ac2-rest.bpost.cloud
   ↳ https://api.sfa-st2-rest.bpost.cloud
-  ↳ https://api.sfa-st2-soap.bpost.cloud
   ↳ https://api.parcel.bpost.cloud
+  ↳ https://api.sfa-st2-soap.bpost.cloud
   ↳ https://api.tmi.bpost.cloud
-  ↳ https://apicatalogue-nbw-ac2.bpost.cloud
   ↳ https://apicatalogue-nbw-ds2.bpost.cloud
+  ↳ https://apicatalogue-nbw-ac2.bpost.cloud
   ↳ https://apicatalogue-nbw.bpost.cloud
-  ↳ https://baums.ui-ac2.bpost.cloud
   ↳ https://baums.ui-st2.bpost.cloud
-  ↳ https://bt-api.bpost.cloud
+  ↳ https://baums.ui-ac2.bpost.cloud
   ↳ https://bt-api-pr.bpost.cloud
+  ↳ https://bt-api.bpost.cloud
   ↳ https://businesscustomersupport-api-dv2.bpost.cloud
   ↳ https://businesscustomersupport-api-ac2.bpost.cloud
   ↳ https://dmcapi-ac2.bpost.cloud
   ↳ https://dmcapi.bpost.cloud
   ↳ https://gdn-api-dv2.bpost.cloud
   ↳ https://gdn-api-dv1.bpost.cloud
-  ↳ https://knowledgebase-api.bpost.cloud
-  ↳ https://knowledgebase-api-st2.bpost.cloud
-  ↳ https://knowledgebase-api-ac2.bpost.cloud
-  ↳ https://knowledgebase-api-ac1.bpost.cloud
   ↳ https://international-pr.bpost.cloud
+  ↳ https://knowledgebase-api-ac1.bpost.cloud
+  ↳ https://knowledgebase-api.bpost.cloud
+  ↳ https://knowledgebase-api-ac2.bpost.cloud
   ↳ https://international-st2.bpost.cloud
+  ↳ https://knowledgebase-api-st2.bpost.cloud
   ↳ https://international-ac2.bpost.cloud
   ↳ https://lnbcbapi-ac2.bpost.cloud
   ↳ https://lpcapi.bpost.cloud
   ↳ https://mappi-ac2.bpost.cloud
-  ↳ https://mappi-dv1.bpost.cloud
   ↳ https://mappi-st1.bpost.cloud
+  ↳ https://mappi-dv1.bpost.cloud
   ↳ https://mycampaign-ac2.api.bpost.cloud
   ↳ https://otp-st1.bpost.cloud
   ↳ https://otp.bpost.cloud
   ↳ https://sen-ac2.bpost.cloud
-  ↳ https://sso-ac1.parcel.bpost.cloud
   ↳ https://sso-st2.parcel.bpost.cloud
   ↳ https://sso.parcel.bpost.cloud
+  ↳ https://sso-ac1.parcel.bpost.cloud
   ↳ https://subco-api-ac1.bpost.cloud
   ↳ https://subco-api-pr.bpost.cloud
+  ↳ https://trackcbapi-dv2.bpost.cloud
   ↳ https://trackcbapi-ac2.bpost.cloud
   ↳ https://trackcbapi-pr.bpost.cloud
-  ↳ https://trackcbapi-dv2.bpost.cloud
   ↳ https://uam.ui.bpost.cloud
-[DEDUP] https://admin.demo.buhlergroup.io represents 5 duplicates [302][145][302 Found]:
-  ↳ https://admin.buhlergroup.io
-  ↳ https://admin.dev.buhlergroup.io
-  ↳ https://admin.prep.buhlergroup.io
-  ↳ https://admin.uat.buhlergroup.io
-  ↳ https://admin.systest.buhlergroup.io
-[DEDUP] https://a12.dev.apps.buhlergroup.com represents 96 duplicates [302][0][]:
-  ↳ https://abm1.dev.apps.buhlergroup.com
+[DEDUP] https://abm1.dev.apps.buhlergroup.com represents 94 duplicates [302][0][]:
+  ↳ https://a12.dev.apps.buhlergroup.com
   ↳ https://apex.prep.apps.buhlergroup.com
   ↳ https://author65-dev.buhlergroup.com
+  ↳ https://cbm.dev.apps.buhlergroup.com
   ↳ https://cbm.apps.buhlergroup.com
   ↳ https://cbm.demo.apps.buhlergroup.com
-  ↳ https://cbm.dev.apps.buhlergroup.com
-  ↳ https://cbm.prep.apps.buhlergroup.com
   ↳ https://cbm.uat.apps.buhlergroup.com
-  ↳ https://buhler-github-copilot-metrics.alm.buhlergroup.com
+  ↳ https://cbm.prep.apps.buhlergroup.com
   ↳ https://companionplus.apps.buhlergroup.com
-  ↳ https://companionplus.prep.apps.buhlergroup.com
   ↳ https://companionplus.uat.apps.buhlergroup.com
-  ↳ https://cubic.dev.apps.buhlergroup.com
+  ↳ https://companionplus.prep.apps.buhlergroup.com
   ↳ https://cubic.uat.apps.buhlergroup.com
+  ↳ https://cubic.dev.apps.buhlergroup.com
   ↳ https://data-lineage.apps.buhlergroup.com
   ↳ https://dc-data-upload-app.uat.apps.buhlergroup.com
-  ↳ https://dc-data-upload-app.dev.apps.buhlergroup.com
-  ↳ https://demo-embedded-dev.playone.buhlergroup.com
   ↳ https://demo-dev.playone.buhlergroup.com
   ↳ https://demo-embedded-uat.playone.buhlergroup.com
+  ↳ https://dc-data-upload-app.dev.apps.buhlergroup.com
   ↳ https://demo-pr01.playone.buhlergroup.com
-  ↳ https://demo-pr02.playone.buhlergroup.com
   ↳ https://demo.playone.buhlergroup.com
+  ↳ https://demo-pr02.playone.buhlergroup.com
   ↳ https://dev.identity.buhlergroup.com
   ↳ https://dgtest.dev.apps.buhlergroup.com
   ↳ https://dms.apps.buhlergroup.com
@@ -819,156 +601,352 @@
   ↳ https://dynpass.playone.buhlergroup.com
   ↳ https://edgecrew.dev.apps.buhlergroup.com
   ↳ https://feedbacktest2.prep.apps.buhlergroup.com
-  ↳ https://finefilmlabellingtool.uat.apps.buhlergroup.com
   ↳ https://finefilmlabellingtool.apps.buhlergroup.com
+  ↳ https://finefilmlabellingtool.uat.apps.buhlergroup.com
   ↳ https://fse.skills-management.buhlergroup.com
   ↳ https://gitlab-feedback-collector.dev.apps.buhlergroup.com
-  ↳ https://htest3.uat.apps.buhlergroup.com
-  ↳ https://htest5.dev.apps.buhlergroup.com
   ↳ https://htest2.uat.apps.buhlergroup.com
-  ↳ https://htst1.dev.apps.buhlergroup.com
+  ↳ https://htest5.dev.apps.buhlergroup.com
+  ↳ https://htest3.uat.apps.buhlergroup.com
   ↳ https://htest4.dev.apps.buhlergroup.com
-  ↳ https://identity.buhlergroup.com
+  ↳ https://htst1.dev.apps.buhlergroup.com
   ↳ https://insights-chat.uat.apps.buhlergroup.com
   ↳ https://insights-devs.docs.alm.buhlergroup.com
-  ↳ https://localhost.dev.apps.buhlergroup.com
   ↳ https://login.apps.buhlergroup.com
-  ↳ https://login.dev.apps.buhlergroup.com
-  ↳ https://login.prep.apps.buhlergroup.com
   ↳ https://login.demo.apps.buhlergroup.com
-  ↳ https://login.systest.apps.buhlergroup.com
+  ↳ https://localhost.dev.apps.buhlergroup.com
+  ↳ https://login.prep.apps.buhlergroup.com
   ↳ https://login.uat.apps.buhlergroup.com
-  ↳ https://manage.dev.apps.buhlergroup.com
+  ↳ https://login.systest.apps.buhlergroup.com
+  ↳ https://login.dev.apps.buhlergroup.com
+  ↳ https://manoj.uat.apps.buhlergroup.com
   ↳ https://manage.uat.apps.buhlergroup.com
   ↳ https://manage.systest.apps.buhlergroup.com
   ↳ https://manojtest.dev.apps.buhlergroup.com
-  ↳ https://manoj.uat.apps.buhlergroup.com
   ↳ https://marimo-test.prep.apps.buhlergroup.com
   ↳ https://mailpit.dpcs.buhlergroup.com
+  ↳ https://manage.dev.apps.buhlergroup.com
   ↳ https://monkey.dev.apps.buhlergroup.com
   ↳ https://partnerprogram.dev.apps.buhlergroup.com
   ↳ https://plant-topology.prep.apps.buhlergroup.com
   ↳ https://puml.devops.buhlergroup.com
-  ↳ https://replay.apps.buhlergroup.com
-  ↳ https://replay.dev.apps.buhlergroup.com
-  ↳ https://replay.demo.apps.buhlergroup.com
-  ↳ https://replay.uat.apps.buhlergroup.com
-  ↳ https://replay.prep.apps.buhlergroup.com
-  ↳ https://scheduler-test.dev.apps.buhlergroup.com
   ↳ https://portal-test.virtualworld.buhlergroup.com
+  ↳ https://replay.apps.buhlergroup.com
+  ↳ https://replay.demo.apps.buhlergroup.com
+  ↳ https://replay.prep.apps.buhlergroup.com
+  ↳ https://replay.dev.apps.buhlergroup.com
+  ↳ https://replay.uat.apps.buhlergroup.com
+  ↳ https://scheduler-test.dev.apps.buhlergroup.com
   ↳ https://sfts.buhlergroup.com
   ↳ https://smartchocolateline.apps.buhlergroup.com
   ↳ https://smartchocolateline.prep.apps.buhlergroup.com
   ↳ https://smartmillaggregationengine.apps.buhlergroup.com
-  ↳ https://smartmillaggregationengine.uat.apps.buhlergroup.com
   ↳ https://smartmillaggregationengine.prep.apps.buhlergroup.com
+  ↳ https://smartmillaggregationengine.uat.apps.buhlergroup.com
   ↳ https://sortex.prep.apps.buhlergroup.com
   ↳ https://sortex.uat.apps.buhlergroup.com
   ↳ https://sortex.dev.apps.buhlergroup.com
+  ↳ https://stage2.identity.buhlergroup.com
   ↳ https://stage1.identity.buhlergroup.com
-  ↳ https://test.identity.buhlergroup.com
   ↳ https://testapp.uat.apps.buhlergroup.com
-  ↳ https://testharshit.dev.apps.buhlergroup.com
-  ↳ https://testextingressapp2.dev.apps.buhlergroup.com
   ↳ https://testextingressapp.dev.apps.buhlergroup.com
-  ↳ https://testssssss.dev.apps.buhlergroup.com
+  ↳ https://testextingressapp2.dev.apps.buhlergroup.com
+  ↳ https://testharshit.dev.apps.buhlergroup.com
+  ↳ https://test.identity.buhlergroup.com
   ↳ https://testtriggerbyvishal.dev.apps.buhlergroup.com
+  ↳ https://testssssss.dev.apps.buhlergroup.com
   ↳ https://translate.buhlergroup.com
   ↳ https://uniq1.buhlergroup.com.dev.apps.buhlergroup.com
   ↳ https://uniq1.dev.apps.buhlergroup.com
-  ↳ https://uniq31.dev.apps.buhlergroup.com
   ↳ https://uniq31.buhlergroup.com.dev.apps.buhlergroup.com
+  ↳ https://uniq31.dev.apps.buhlergroup.com
   ↳ https://virtualworld-portal.buhlergroup.com
-  ↳ https://yieldmonitoring.apps.buhlergroup.com
   ↳ https://yieldmonitoring.dev.apps.buhlergroup.com
-  ↳ https://yieldmonitoring.prep.apps.buhlergroup.com
   ↳ https://yieldmonitoring.uat.apps.buhlergroup.com
-[DEDUP] https://antwerpexpo.citymesh.com represents 3 duplicates [200][12034][Citymesh]:
-  ↳ https://kortrijkxpo.citymesh.com
-  ↳ https://namurexpo.citymesh.com
-  ↳ https://nekkerhalbrusselsnorth.citymesh.com
-[DEDUP] https://api-afs-cc-crginternalcsv01-ac2.bpost.cloud represents 1 duplicates [401][32][]:
-  ↳ https://api-afs-cc-cre-ac2.bpost.cloud
+  ↳ https://yieldmonitoring.apps.buhlergroup.com
+  ↳ https://yieldmonitoring.prep.apps.buhlergroup.com
+[DEDUP] https://admin.systest.buhlergroup.io represents 5 duplicates [302][145][302 Found]:
+  ↳ https://admin.demo.buhlergroup.io
+  ↳ https://admin.uat.buhlergroup.io
+  ↳ https://admin.dev.buhlergroup.io
+  ↳ https://admin.prep.buhlergroup.io
+  ↳ https://admin.buhlergroup.io
+[DEDUP] https://alb.das-ac1.bpost.cloud represents 7 duplicates [403][52][]:
+  ↳ https://alb.das-ac2.bpost.cloud
+  ↳ https://alb.das.bpost.cloud
+  ↳ https://api-bis-ac2.bpost.cloud
+  ↳ https://alb.das-st2.bpost.cloud
+  ↳ https://api-bis-st2.bpost.cloud
+  ↳ https://api.bis-ac2.bpost.cloud
+  ↳ https://api.bis-st2.bpost.cloud
+[DEDUP] https://api-abt-np.bpost.cloud represents 126 duplicates [403][23][]:
+  ↳ https://api-bpost4me-st1-test.bpost.cloud
+  ↳ https://api-bpost4me.bpost.cloud
+  ↳ https://api-cad-ext-np.bpost.cloud
+  ↳ https://api-cbo-backend-ext-pr.bpost.cloud
+  ↳ https://api-cad-ext-pr.bpost.cloud
+  ↳ https://api-cbo-backend-ext-st1.bpost.cloud
+  ↳ https://api-cbo-backend-ext-st2.bpost.cloud
+  ↳ https://api-cbo-content-ext-pr.bpost.cloud
+  ↳ https://api-cbo-backend-ext-ac2.bpost.cloud
+  ↳ https://api-cbf-ext.bpost.cloud
+  ↳ https://api-cbocontent-ac2.bpost.cloud
+  ↳ https://api-cds-sel-ac02.bpost.cloud
+  ↳ https://api-cds-pr-selectiontool2.bpost.cloud
+  ↳ https://api-cbocontent-ac1.bpost.cloud
+  ↳ https://api-cds-sel-st01.bpost.cloud
+  ↳ https://api-cmc-ds01.bpost.cloud
+  ↳ https://api-cds-sel-dv01.bpost.cloud
+  ↳ https://api-cnt-pvt-ac01.bpost.cloud
+  ↳ https://api-cnt-ac01.bpost.cloud
+  ↳ https://api-cross-border-ai-events-mapping-ds01.bpost.cloud
+  ↳ https://api-cross-border-ai-hscode-validator-ac01.bpost.cloud
+  ↳ https://api-cross-border-ai-hscode-validator.bpost.cloud
+  ↳ https://api-cross-border-ai-hscode-validator-ds01.bpost.cloud
+  ↳ https://api-cyv.ac01.bpost.cloud
+  ↳ https://api-ctb.bpost.cloud
+  ↳ https://api-cross-border-ml-walle-parcel-prediction-ds.bpost.cloud
+  ↳ https://api-dmo-ac2.bpost.cloud
+  ↳ https://api-cross-border-ai-hscode-validator-st01.bpost.cloud
+  ↳ https://api-dmo.bpost.cloud
+  ↳ https://api-cyv.pr.bpost.cloud
+  ↳ https://api-dmo-st2.bpost.cloud
+  ↳ https://api-ctb-ac01.bpost.cloud
+  ↳ https://api-etr-ac2.bpost.cloud
+  ↳ https://api-etr-st2.bpost.cloud
+  ↳ https://api-emcauto-ext-ac2.bpost.cloud
+  ↳ https://api-hos-track-np.bpost.cloud
+  ↳ https://api-health.bpost.cloud
+  ↳ https://api-hos-track.bpost.cloud
+  ↳ https://api-etr-ac1.bpost.cloud
+  ↳ https://api-etracker.bpost.cloud
+  ↳ https://api-eho-getcatalogue-pr.bpost.cloud
+  ↳ https://api-health-ac.bpost.cloud
+  ↳ https://api-international-ext.ac2.bpost.cloud
+  ↳ https://api-international-ext.pr.bpost.cloud
+  ↳ https://api-jow-backend.bpost.cloud
+  ↳ https://api-international-ext.st2.bpost.cloud
+  ↳ https://api-jow-content-st1.bpost.cloud
+  ↳ https://api-jow-content.bpost.cloud
+  ↳ https://api-mas.bpost.cloud
+  ↳ https://api-msp.bpost.cloud
+  ↳ https://api-lgn-int.np.bpost.cloud
+  ↳ https://api-mas-ac2.bpost.cloud
+  ↳ https://api-mas-dv2.bpost.cloud
+  ↳ https://api-nra-ext-np.bpost.cloud
+  ↳ https://api-np.mobile-postcard.bpost.cloud
+  ↳ https://api-nrc-ext-np.bpost.cloud
+  ↳ https://api-mtp-ext-np.bpost.cloud
+  ↳ https://api-mtp-ext-pr.bpost.cloud
+  ↳ https://api-msp-np.bpost.cloud
+  ↳ https://api-nra-ext-pr.bpost.cloud
+  ↳ https://api-nrc-ext-pr.bpost.cloud
+  ↳ https://api-oea-st.bpost.cloud
+  ↳ https://api-cbf-ext-ac2.bpost.cloud
+  ↳ https://api-oea-dv.bpost.cloud
+  ↳ https://api-overforecast.bpost.cloud
+  ↳ https://api-oea-pr.bpost.cloud
+  ↳ https://api-prm-np.bpost.cloud
+  ↳ https://api-pub-abt-ac2.bpost.cloud
+  ↳ https://api-prm.bpost.cloud
+  ↳ https://api-protoswat-overforecast.bpost.cloud
+  ↳ https://api-pub-abt-portal.bpost.cloud
+  ↳ https://api-pub-abt-st2.bpost.cloud
+  ↳ https://api-pub-abt.bpost.cloud
+  ↳ https://api-pub-abt-portal-ac2.bpost.cloud
+  ↳ https://api-pub-abt-portal-st2.bpost.cloud
+  ↳ https://api-rqa-ac1.bpost.cloud
+  ↳ https://api-rqa-st1.bpost.cloud
+  ↳ https://api-rqa.bpost.cloud
+  ↳ https://api-spp-np.bpost.cloud
+  ↳ https://api-spp.bpost.cloud
+  ↳ https://api-wle-ext-np-1.bpost.cloud
+  ↳ https://api-wle-ext-ac2.bpost.cloud
+  ↳ https://api-xb-ai-ivm-st01.bpost.cloud
+  ↳ https://api-wle-ext-pr.bpost.cloud
+  ↳ https://api-xb-ai-ivm-ac01.bpost.cloud
+  ↳ https://api.bop.ac2.bpost.cloud
+  ↳ https://api.bop.st2.bpost.cloud
+  ↳ https://api.bop.llp.st2.bpost.cloud
+  ↳ https://api.cim-np.bpost.cloud
+  ↳ https://api.cim.bpost.cloud
+  ↳ https://api.dds-ac2.bpost.cloud
+  ↳ https://api.dmo.bpost.cloud
+  ↳ https://api.dds-pr.bpost.cloud
+  ↳ https://api.mailops.bpost.cloud
+  ↳ https://api.mailops-np.bpost.cloud
+  ↳ https://api.mdm-np.bpost.cloud
+  ↳ https://api.mdm.bpost.cloud
+  ↳ https://api.mobile-postcard.bpost.cloud
+  ↳ https://api.sfa-np-soap.bpost.cloud
+  ↳ https://api.tmi-ac2.bpost.cloud
+  ↳ https://api.tmi-ac1.bpost.cloud
+  ↳ https://api.tmi-ext-ac2.bpost.cloud
+  ↳ https://api.tmi-ext-st2.bpost.cloud
+  ↳ https://api.tmi-st2.bpost.cloud
+  ↳ https://apicatalogue-eho-ac2.bpost.cloud
+  ↳ https://apicatalogue-eho-st1.bpost.cloud
+  ↳ https://apicatalogue-eho-st2.bpost.cloud
+  ↳ https://apicatalogue-eho-ac1.bpost.cloud
+  ↳ https://counter-api-ac2.bpost.cloud
+  ↳ https://counter-api2-pr.bpost.cloud
+  ↳ https://counter-api2-np.bpost.cloud
+  ↳ https://gdn-api-dv1.octopus.bpost.cloud
+  ↳ https://lgn-api.bpost.cloud
+  ↳ https://mybpost.bpost.cloud
+  ↳ https://mybpost-ac.bpost.cloud
+  ↳ https://sen.bpost.cloud
+  ↳ https://signforme-api-ac2.bpost.cloud
+  ↳ https://signforme-api-st2.bpost.cloud
+  ↳ https://signforme-api.bpost.cloud
+  ↳ https://signforme-api-dv2.bpost.cloud
+  ↳ https://sso-ac2.parcel.bpost.cloud
+  ↳ https://trackapi-ac2.bpost.cloud
+  ↳ https://trackapi-ac1.bpost.cloud
+  ↳ https://trackapi-st2.bpost.cloud
+  ↳ https://trackapi-dv2.bpost.cloud
+  ↳ https://trackapi.bpost.cloud
+[DEDUP] https://alb-bcc-dv1.bpost.cloud represents 31 duplicates [503][162][503 Service Temporarily Unavailable]:
+  ↳ https://api-cbo-ac2.bpost.cloud
+  ↳ https://api-nrc-svc-ext-ac2.bpost.cloud
+  ↳ https://api-nrc-svc-ext-ac2b.bpost.cloud
+  ↳ https://api-nrc-svc-ext-dv1.bpost.cloud
+  ↳ https://api-nrc-svc-ext-st1.bpost.cloud
+  ↳ https://cca-ac1.bpost.cloud
+  ↳ https://cca-ac2.bpost.cloud
+  ↳ https://distripostsimulation-ac2.bpost.cloud
+  ↳ https://distripostsimulation-ac1.bpost.cloud
+  ↳ https://esc-ac2.bpost.cloud
+  ↳ https://faq-ac1.bpost.cloud
+  ↳ https://flw-ac2.bpost.cloud
+  ↳ https://flw-ac1.bpost.cloud
+  ↳ https://hn-dv2-adminconsole.bpost.cloud
+  ↳ https://irn-ac2.bpost.cloud
+  ↳ https://irn-ac1.bpost.cloud
+  ↳ https://irn-onl-ac1.bpost.cloud
+  ↳ https://lpo-ac1.bpost.cloud
+  ↳ https://lpo-st2.bpost.cloud
+  ↳ https://lpo-st1.bpost.cloud
+  ↳ https://lpo-ac2.bpost.cloud
+  ↳ https://medattest-st2.bpost.cloud
+  ↳ https://mystock.bpost.cloud
+  ↳ https://npa-ac.bpost.cloud
+  ↳ https://osp-ac1.bpost.cloud
+  ↳ https://osp-alb-st1.bpost.cloud
+  ↳ https://rdgwpubaw.bpost.cloud
+  ↳ https://shm-ac2.bpost.cloud
+  ↳ https://shm-rest-ac1.bpost.cloud
+  ↳ https://shm-rest-st2.bpost.cloud
+  ↳ https://shm-st2.bpost.cloud
+[DEDUP] https://alb-bpost4me.bpost.cloud represents 28 duplicates [403][118][403 Forbidden]:
+  ↳ https://api-nrc-svc-ext-pr.bpost.cloud
+  ↳ https://api-nrc-svc-ext-prd.bpost.cloud
+  ↳ https://cbo-content-st1.bpost.cloud
+  ↳ https://cca.bpost.cloud
+  ↳ https://chk-ac.bpost.cloud
+  ↳ https://chk-dv.bpost.cloud
+  ↳ https://esc.bpost.cloud
+  ↳ https://esh-st2.bpost.cloud
+  ↳ https://esh.bpost.cloud
+  ↳ https://esh-st1.bpost.cloud
+  ↳ https://faq-ac2.bpost.cloud
+  ↳ https://faq-st2.bpost.cloud
+  ↳ https://fmi-ac1.bpost.cloud
+  ↳ https://fmi-ac2.bpost.cloud
+  ↳ https://fmi-b2b-st2.bpost.cloud
+  ↳ https://fmi-b2b-ac2.bpost.cloud
+  ↳ https://fmi-b2b-pr.bpost.cloud
+  ↳ https://fmt-ac1.bpost.cloud
+  ↳ https://hom-st2.bpost.cloud
+  ↳ https://hom-ac2.bpost.cloud
+  ↳ https://lpo.bpost.cloud
+  ↳ https://oea-pr.bpost.cloud
+  ↳ https://ppo.bpost.cloud
+  ↳ https://proto-apps-np.bpost.cloud
+  ↳ https://rzv-st1.bpost.cloud
+  ↳ https://sum-ac2.bpost.cloud
+  ↳ http://ubu-graf-np.bpost.cloud
+  ↳ http://ubu-ui-np.bpost.cloud
 [DEDUP] https://a12.apps.dev.buhlergroup.io represents 91 duplicates [302][0][]:
   ↳ https://apex.apps.prep.buhlergroup.io
+  ↳ https://cbm.apps.demo.buhlergroup.io
+  ↳ https://cbm.dev.buhlergroup.io
   ↳ https://cbm.apps.buhlergroup.io
   ↳ https://cbm.apps.prep.buhlergroup.io
   ↳ https://cbm.apps.dev.buhlergroup.io
-  ↳ https://cbm.apps.demo.buhlergroup.io
-  ↳ https://cbm.dev.buhlergroup.io
   ↳ https://companionplus.apps.prep.buhlergroup.io
   ↳ https://companionplus.apps.buhlergroup.io
-  ↳ https://companionplus.apps.demo.buhlergroup.io
   ↳ https://companionplus.apps.uat.buhlergroup.io
-  ↳ https://cubic.apps.dev.buhlergroup.io
+  ↳ https://companionplus.apps.demo.buhlergroup.io
   ↳ https://cubic.apps.uat.buhlergroup.io
+  ↳ https://cubic.apps.dev.buhlergroup.io
   ↳ https://cubic.dev.buhlergroup.io
-  ↳ https://dc-data-upload-app.apps.dev.buhlergroup.io
   ↳ https://data-lineage.apps.buhlergroup.io
+  ↳ https://dc-data-upload-app.apps.dev.buhlergroup.io
   ↳ https://dc-data-upload-app.apps.uat.buhlergroup.io
   ↳ https://demo-identity.apps.dev.buhlergroup.io
   ↳ https://dgtest.apps.dev.buhlergroup.io
   ↳ https://dgtest.dev.buhlergroup.io
+  ↳ https://dms.apps.prep.buhlergroup.io
   ↳ https://dms.apps.buhlergroup.io
   ↳ https://dms.apps.uat.buhlergroup.io
-  ↳ https://dms.apps.prep.buhlergroup.io
-  ↳ https://edgecrew.apps.uat.buhlergroup.io.dev.buhlergroup.io
-  ↳ https://edgecrew.apps.dev.buhlergroup.io
   ↳ https://edgecrew.dev.buhlergroup.io
+  ↳ https://edgecrew.apps.dev.buhlergroup.io
+  ↳ https://edgecrew.apps.uat.buhlergroup.io.dev.buhlergroup.io
   ↳ https://feedbacktest2.apps.prep.buhlergroup.io
-  ↳ https://finefilmlabellingtool.apps.uat.buhlergroup.io
-  ↳ https://finefilmlabellingtool.apps.buhlergroup.io
   ↳ https://finefilmlabellingtool.buhlergroup.io
+  ↳ https://finefilmlabellingtool.apps.buhlergroup.io
+  ↳ https://finefilmlabellingtool.apps.uat.buhlergroup.io
   ↳ https://gitlab-feedback-collector.apps.dev.buhlergroup.io
-  ↳ https://htest5.apps.dev.buhlergroup.io
   ↳ https://htest2.apps.uat.buhlergroup.io
-  ↳ https://htst1.apps.dev.buhlergroup.io
   ↳ https://htest3.apps.uat.buhlergroup.io
   ↳ https://htest4.apps.dev.buhlergroup.io
+  ↳ https://htst1.apps.dev.buhlergroup.io
+  ↳ https://htest5.apps.dev.buhlergroup.io
   ↳ https://insights-chat.apps.uat.buhlergroup.io
   ↳ https://jktestapp.apps.dev.buhlergroup.io
-  ↳ https://login.apps.demo.buhlergroup.io
-  ↳ https://login.apps.buhlergroup.io
-  ↳ https://localhost.dev.buhlergroup.io
   ↳ https://login.apps.prep.buhlergroup.io
   ↳ https://login.apps.dev.buhlergroup.io
+  ↳ https://localhost.dev.buhlergroup.io
   ↳ https://login.apps.uat.buhlergroup.io
+  ↳ https://login.apps.buhlergroup.io
+  ↳ https://login.apps.demo.buhlergroup.io
   ↳ https://login.apps.systest.buhlergroup.io
-  ↳ https://manage.apps.buhlergroup.io
-  ↳ https://manoj.apps.uat.buhlergroup.io
-  ↳ https://manage.apps.prep.buhlergroup.io
   ↳ https://manage.apps.dev.buhlergroup.io
-  ↳ https://manage.apps.uat.buhlergroup.io
-  ↳ https://manojtest.apps.dev.buhlergroup.io
-  ↳ https://manage.apps.demo.buhlergroup.io
+  ↳ https://manage.apps.buhlergroup.io
+  ↳ https://manage.apps.prep.buhlergroup.io
   ↳ https://manage.apps.systest.buhlergroup.io
+  ↳ https://manage.apps.demo.buhlergroup.io
   ↳ https://manage.dev.buhlergroup.io
+  ↳ https://manojtest.apps.dev.buhlergroup.io
   ↳ https://marimo-test.apps.prep.buhlergroup.io
-  ↳ https://maurinx.dev.apps.buhlergroup.io.dev.buhlergroup.io
+  ↳ https://manage.apps.uat.buhlergroup.io
+  ↳ https://manoj.apps.uat.buhlergroup.io
   ↳ https://maurin.dev.apps.buhlergroup.io.dev.buhlergroup.io
+  ↳ https://maurinx.dev.apps.buhlergroup.io.dev.buhlergroup.io
   ↳ https://monkey.apps.dev.buhlergroup.io
   ↳ https://partnerprogram.apps.dev.buhlergroup.io
   ↳ https://platinum.dev.buhlergroup.io
   ↳ https://plant-topology.apps.prep.buhlergroup.io
   ↳ https://replay.apps.demo.buhlergroup.io
-  ↳ https://replay.apps.dev.buhlergroup.io
   ↳ https://replay.apps.buhlergroup.io
+  ↳ https://replay.apps.dev.buhlergroup.io
   ↳ https://replay.apps.prep.buhlergroup.io
   ↳ https://replay.apps.uat.buhlergroup.io
   ↳ https://scheduler-test.apps.dev.buhlergroup.io
-  ↳ https://smartchocolateline.apps.buhlergroup.io
-  ↳ https://smartchocolateline.apps.prep.buhlergroup.io
-  ↳ https://smartmillaggregationengine.apps.uat.buhlergroup.io
-  ↳ https://smartmillaggregationengine.apps.buhlergroup.io
   ↳ https://smartmillaggregationengine.apps.prep.buhlergroup.io
+  ↳ https://smartmillaggregationengine.apps.buhlergroup.io
+  ↳ https://smartmillaggregationengine.apps.uat.buhlergroup.io
+  ↳ https://smartchocolateline.apps.prep.buhlergroup.io
+  ↳ https://smartchocolateline.apps.buhlergroup.io
   ↳ https://sortex.apps.prep.buhlergroup.io
   ↳ https://sortex.apps.uat.buhlergroup.io
   ↳ https://sortex.apps.dev.buhlergroup.io
   ↳ https://testextingressapp.apps.dev.buhlergroup.io
-  ↳ https://testextingressapp2.apps.dev.buhlergroup.io
   ↳ https://testextingressapp.dev.buhlergroup.io
-  ↳ https://testharshit.apps.dev.buhlergroup.io
   ↳ https://testinggg.apps.dev.buhlergroup.io
+  ↳ https://testextingressapp2.apps.dev.buhlergroup.io
+  ↳ https://testharshit.apps.dev.buhlergroup.io
   ↳ https://testssssss.apps.dev.buhlergroup.io
   ↳ https://testtriggerbyvishal.apps.dev.buhlergroup.io
   ↳ https://uniq1.apps.dev.buhlergroup.io
@@ -976,11 +954,17 @@
   ↳ https://uniq3.buhlergroup.com.dev.buhlergroup.io
   ↳ https://uniq31.buhlergroup.com.dev.buhlergroup.io
   ↳ https://uniq31.apps.dev.buhlergroup.io
-  ↳ https://yieldmonitoring.apps.uat.buhlergroup.io
   ↳ https://yieldmonitoring.apps.dev.buhlergroup.io
+  ↳ https://yieldmonitoring.apps.prep.buhlergroup.io
+  ↳ https://yieldmonitoring.apps.uat.buhlergroup.io
   ↳ https://yieldmonitoring.apps.buhlergroup.io
   ↳ https://yieldmonitoring.dev.buhlergroup.io
-  ↳ https://yieldmonitoring.apps.prep.buhlergroup.io
+[DEDUP] https://antwerpexpo.citymesh.com represents 3 duplicates [200][12034][Citymesh]:
+  ↳ https://kortrijkxpo.citymesh.com
+  ↳ https://namurexpo.citymesh.com
+  ↳ https://nekkerhalbrusselsnorth.citymesh.com
+[DEDUP] https://api-afs-cc-cre-ac2.bpost.cloud represents 1 duplicates [401][32][]:
+  ↳ https://api-afs-cc-crginternalcsv01-ac2.bpost.cloud
 [DEDUP] https://account.bpost.be represents 26 duplicates [302][0][]:
   ↳ https://bookmarks.bpost.be
   ↳ https://bpack247.bpost.be
@@ -990,12 +974,12 @@
   ↳ http://gct.bpost.be
   ↳ https://intranet.bpost.be
   ↳ http://login-2.bpost.be
-  ↳ https://macarte.bpost.be
-  ↳ https://mailingmakerd2d.bpost.be
   ↳ https://m.bpost.be
-  ↳ http://lynclswebext.bpost.be
   ↳ http://lyncdirwebext.bpost.be
   ↳ http://lyncdiscover.bpost.be
+  ↳ https://mailingmakerd2d.bpost.be
+  ↳ https://macarte.bpost.be
+  ↳ http://lynclswebext.bpost.be
   ↳ https://mappi.bpost.be
   ↳ https://mijnkaart.bpost.be
   ↳ http://meet.bpost.be
@@ -1005,250 +989,272 @@
   ↳ https://subsidiaries.bpost.be
   ↳ https://track-test-orange.bpost.be
   ↳ https://tracktest1.bpost.be
-  ↳ https://vdi.bpost.be
   ↳ https://vdi-new.bpost.be
+  ↳ https://vdi.bpost.be
   ↳ http://pass.bpost.be
-[DEDUP] https://api-cbo-ac2.bpost.cloud represents 13 duplicates [503][564][503 Service Temporarily Unavailable]:
-  ↳ https://api-cbo-ac1.bpost.cloud
+[DEDUP] https://api-cbo-ac1.bpost.cloud represents 11 duplicates [503][564][503 Service Temporarily Unavailable]:
   ↳ https://api-cbo-st1.bpost.cloud
+  ↳ https://api-cbo-st2.bpost.cloud
+  ↳ https://api-jow-bosa-ac1.bpost.cloud
   ↳ https://api-jow-bosa-st2.bpost.cloud
-  ↳ https://api-nrc-svc-ext-st1.bpost.cloud
-  ↳ https://cca-ac1.bpost.cloud
-  ↳ https://distripostsimulation-ac2.bpost.cloud
-  ↳ https://faq-ac1.bpost.cloud
+  ↳ https://cca-st2.bpost.cloud
   ↳ https://flw-st1.bpost.cloud
-  ↳ https://irn-onl-ac1.bpost.cloud
-  ↳ https://lpo-ac1.bpost.cloud
-  ↳ https://lpo-st2.bpost.cloud
-  ↳ https://osp-ac1.bpost.cloud
+  ↳ https://irn-st2.bpost.cloud
+  ↳ https://npa-ds.bpost.cloud
+  ↳ https://oea-dv.bpost.cloud
+  ↳ https://shm-ac1.bpost.cloud
   ↳ https://ssociam-st.bpost.cloud
-[DEDUP] https://Rdgwpubgcp.bpost.cloud represents 1 duplicates [404][145][]:
-  ↳ https://rdgwpubgcp.bpost.cloud
 [DEDUP] https://api-cbo-bosa-ext-pr.bpost.cloud represents 1 duplicates [404][139][Error]:
   ↳ https://api-jow-bosa.bpost.cloud
 [DEDUP] https://api-cds-pr-selectiontool.bpost.cloud represents 2 duplicates [403][27][]:
-  ↳ https://api-cds-sel-ac01.bpost.cloud
   ↳ https://api-cmp-ac01.bpost.cloud
-[DEDUP] https://api-hn-ext.ac1.bpost.cloud represents 10 duplicates [403][82][]:
+  ↳ https://api-cds-sel-ac01.bpost.cloud
+[DEDUP] https://api-hn-shiptrack-dv2.bpost.cloud represents 10 duplicates [403][82][]:
   ↳ https://api-hn-ext.ac2.bpost.cloud
   ↳ https://api-hn-dv2.bpost.cloud
-  ↳ https://api-hn-shiptrack-dv2.bpost.cloud
+  ↳ https://api-hn-ext.ac1.bpost.cloud
   ↳ https://api-hn-ext.st1.bpost.cloud
+  ↳ https://hn-api-dv1.bpost.cloud
+  ↳ https://hn-api-st1.bpost.cloud
   ↳ https://hn-api.bpost.cloud
   ↳ https://hn-api-ac1.bpost.cloud
-  ↳ https://hn-api-st1.bpost.cloud
-  ↳ https://hn-api-dv1.bpost.cloud
   ↳ https://hn-api-pr.bpost.cloud
   ↳ https://hn-pr-api.bpost.cloud
 [DEDUP] https://api-hn-shiptrack-ac2.bpost.cloud represents 3 duplicates [403][47][]:
   ↳ https://api-hn-shiptrack-ac1.bpost.cloud
   ↳ https://api-hn-shiptrack.bpost.cloud
   ↳ https://api-hn-shiptrack-st2.bpost.cloud
+[DEDUP] https://api-hn-ext.pr.bpost.cloud represents 1 duplicates [503][14][]:
+  ↳ https://hn-pr-search-outbound.bpost.cloud
 [DEDUP] https://api-epf-ext-pr.bpost.cloud represents 4 duplicates [404][0][]:
   ↳ https://distripostsimulation.bpost.cloud
   ↳ https://flw-pr.bpost.cloud
   ↳ https://irn.bpost.cloud
   ↳ https://shm.bpost.cloud
-[DEDUP] https://api-hn-ext.pr.bpost.cloud represents 1 duplicates [503][14][]:
-  ↳ https://hn-pr-search-outbound.bpost.cloud
 [DEDUP] https://api-mel-dev.biarrinetworks.com represents 2 duplicates [403][42][]:
   ↳ https://api-syd-dev.biarrinetworks.com
   ↳ https://orca-v2.biarrinetworks.com
 [DEDUP] https://api-mel-prod.biarrinetworks.com represents 4 duplicates [403][23][]:
   ↳ https://api-mel-stg.biarrinetworks.com
-  ↳ https://api-syd-stg.biarrinetworks.com
   ↳ https://api-syd-prod.biarrinetworks.com
+  ↳ https://api-syd-stg.biarrinetworks.com
   ↳ https://orca.biarrinetworks.com
 [DEDUP] https://api-parcel.bpost.be represents 2 duplicates [404][54][]:
   ↳ https://mdy.api.bpost.be
   ↳ https://webservices-pub.bpost.be
-[DEDUP] https://api.buhlergroup.com represents 2 duplicates [301][0][]:
-  ↳ http://autodiscover.buhlergroup.com
-  ↳ https://dev.api.buhlergroup.com
-[DEDUP] https://api.citymesh.io represents 1 duplicates [200][12][]:
-  ↳ http://api.citymesh.io:8080
-[DEDUP] https://api-xbcsa-chat-ac01.bpost.cloud represents 1 duplicates [426][0][]:
-  ↳ https://api-xbcsa-chat-ds01.bpost.cloud
+[DEDUP] http://api.citymesh.io:8443 represents 1 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://tech-radar.citymesh.io:8443
+[DEDUP] https://api.buhlergroup.com represents 3 duplicates [406][1986][Service unavailable]:
+  ↳ https://demo.api.buhlergroup.com
+  ↳ https://identity.buhlergroup.com
+  ↳ https://prep.insights.buhlergroup.com
 [DEDUP] https://api.canadapost-postescanada.ca represents 1 duplicates [503][2503][]:
   ↳ https://test-alb.captest-dev.aws.canadapost-postescanada.ca
-[DEDUP] https://api.bpost.be represents 2 duplicates [404][65][]:
-  ↳ https://t.ac1.bpost.be
-  ↳ https://test2api.bpost.be
+[DEDUP] https://api-xbcsa-chat-ac01.bpost.cloud represents 1 duplicates [426][0][]:
+  ↳ https://api-xbcsa-chat-ds01.bpost.cloud
+[DEDUP] https://api.citymesh.io represents 1 duplicates [200][12][]:
+  ↳ http://api.citymesh.io:8080
 [DEDUP] https://api.buhlergroup.io represents 5 duplicates [404][54][]:
-  ↳ https://api.dev.buhlergroup.io
   ↳ https://api.demo.buhlergroup.io
+  ↳ https://api.dev.buhlergroup.io
   ↳ https://api.prep.buhlergroup.io
   ↳ https://api.systest.buhlergroup.io
   ↳ https://api.uat.buhlergroup.io
+[DEDUP] https://api.bpost.be represents 2 duplicates [404][65][]:
+  ↳ https://t.ac1.bpost.be
+  ↳ https://test2api.bpost.be
 [DEDUP] http://auth-tst.citymesh.com:8080 represents 5 duplicates [404][155][]:
-  ↳ https://auth-tst.citymesh.com
-  ↳ http://auth-staging.citymesh.com:8080
-  ↳ https://auth-staging.citymesh.com
   ↳ http://auth.citymesh.com:8080
+  ↳ https://auth-tst.citymesh.com
   ↳ https://auth.citymesh.com
-[DEDUP] http://autodiscover.capitalinvestment.dk represents 2 duplicates [301][0][]:
-  ↳ https://mail.capitalinvestment.dk
-  ↳ https://www.capitalinvestment.dk
-[DEDUP] https://auth-np.mappi.bpost.cloud represents 1 duplicates [200][0][]:
-  ↳ https://authmappi.bpost.cloud
+  ↳ https://auth-staging.citymesh.com
+  ↳ http://auth-staging.citymesh.com:8080
+[DEDUP] http://autodiscover.buhlergroup.com represents 2 duplicates [301][0][]:
+  ↳ https://dev.api.buhlergroup.com
+  ↳ http://buhler-github-copilot-metrics.alm.buhlergroup.com
 [DEDUP] https://baums-ac2.bpost.cloud represents 2 duplicates [200][697][Accounts & Users Management]:
   ↳ https://baums-st2.bpost.cloud
   ↳ https://uam.bpost.cloud
-[DEDUP] https://assets.bitvavo.com represents 1 duplicates [403][111][]:
-  ↳ https://icons.bitvavo.com
-[DEDUP] https://apply.bpost.be represents 1 duplicates [200][4502][Bpost]:
-  ↳ https://bewerben.bpost.be
 [DEDUP] https://app.ambassador.bpost.be represents 1 duplicates [200][4232][Employee Advocacy Community]:
   ↳ https://landing-app.ambassador.bpost.be
-[DEDUP] https://bcu-dv1.bpost.be represents 2 duplicates [403][919][ERROR: The request could not be satisfied]:
-  ↳ https://nbw.bpost.be
-  ↳ https://ncw.bpost.be
-[DEDUP] https://bcu-st1.bpost.be represents 2 duplicates [200][918][bpost Central Calendar]:
+[DEDUP] https://auth-np.mappi.bpost.cloud represents 1 duplicates [200][0][]:
+  ↳ https://authmappi.bpost.cloud
+[DEDUP] https://assets.bitvavo.com represents 1 duplicates [403][111][]:
+  ↳ https://icons.bitvavo.com
+[DEDUP] https://auth.communicationhub.bpost.be represents 1 duplicates [200][0][]:
+  ↳ https://auth.mappi.bpost.be
+[DEDUP] http://autodiscover.capitalinvestment.dk represents 2 duplicates [301][0][]:
+  ↳ https://mail.capitalinvestment.dk
+  ↳ https://www.capitalinvestment.dk
+[DEDUP] https://apply.bpost.be represents 1 duplicates [200][4502][Bpost]:
+  ↳ https://bewerben.bpost.be
+[DEDUP] http://beta.account.bitvavo.com:8443 represents 17 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://beta.braze.bitvavo.com:8443
+  ↳ http://blog-test.bitvavo.com:8443
+  ↳ http://copper.bitvavo.com:8443
+  ↳ http://data.bitvavo.com:8443
+  ↳ http://disable-api-secondary.bitvavo.com:8443
+  ↳ http://disable-ws-primary.bitvavo.com:8443
+  ↳ http://docs-bck.bitvavo.com:8443
+  ↳ http://frontend-strapi-app.bitvavo.com:8443
+  ↳ http://internal.eu-central-1.bitvavo.com:8443
+  ↳ http://legacy-docs.bitvavo.com:8443
+  ↳ http://open.bitvavo.com:8443
+  ↳ http://sentry.monitoring.bitvavo.com:8443
+  ↳ http://staging.learn.bitvavo.com:8443
+  ↳ http://staging.wordpress.learn.bitvavo.com:8443
+  ↳ http://terraform.bitvavo.com:8443
+  ↳ http://wallets.bitvavo.com:8443
+  ↳ http://wildcard.eu-central-1.internal.bitvavo.com:8443
+[DEDUP] https://bcu-ac1.bpost.be represents 2 duplicates [200][918][bpost Central Calendar]:
   ↳ https://bcu-pr.bpost.be
-  ↳ https://bcu-ac1.bpost.be
-[DEDUP] https://auth.fond-dev.biarrinetworks.com represents 2 duplicates [200][0][]:
-  ↳ https://auth.fond-staging.biarrinetworks.com
-  ↳ https://auth.fond.biarrinetworks.com
-[DEDUP] https://auth.mappi.bpost.be represents 1 duplicates [200][0][]:
-  ↳ https://auth.communicationhub.bpost.be
+  ↳ https://bcu-st1.bpost.be
 [DEDUP] https://beta.assets.bitvavo.com represents 4 duplicates [403][34][]:
-  ↳ https://beta.bitvavo.com
   ↳ https://beta.braze.bitvavo.com
+  ↳ https://beta.bitvavo.com
   ↳ https://beta.login.bitvavo.com
   ↳ https://beta.edge.bitvavo.com
+[DEDUP] https://bcu-dv1.bpost.be represents 2 duplicates [403][919][ERROR: The request could not be satisfied]:
+  ↳ https://ncw.bpost.be
+  ↳ https://nbw.bpost.be
+[DEDUP] https://auth.fond-staging.biarrinetworks.com represents 2 duplicates [200][0][]:
+  ↳ https://auth.fond-dev.biarrinetworks.com
+  ↳ https://auth.fond.biarrinetworks.com
+[DEDUP] http://blog.bitvavo.com:8080 represents 6 duplicates [301][167][301 Moved Permanently]:
+  ↳ https://blog.bitvavo.com
+  ↳ http://blog-test.bitvavo.com:8080
+  ↳ https://blog-test.bitvavo.com
+  ↳ http://brand.bitvavo.com:8080
+  ↳ http://landingpage.bitvavo.com:8080
+  ↳ http://support.bitvavo.com:8080
 [DEDUP] https://beta.canadapost-postescanada.ca represents 19 duplicates [302][0][]:
   ↳ https://devrt.canadapost-postescanada.ca
   ↳ https://est-oee.canadapost-postescanada.ca
-  ↳ https://mysite-monsite-qas.canadapost-postescanada.ca
   ↳ https://mysite-monsite-dev.canadapost-postescanada.ca
   ↳ https://mysite-monsite.canadapost-postescanada.ca
   ↳ https://mysite-monsite-stg.canadapost-postescanada.ca
-  ↳ https://prd11.canadapost-postescanada.ca
+  ↳ https://mysite-monsite-qas.canadapost-postescanada.ca
   ↳ https://prd10.canadapost-postescanada.ca
+  ↳ https://prd11.canadapost-postescanada.ca
   ↳ https://prdrt.canadapost-postescanada.ca
   ↳ https://qasrt.canadapost-postescanada.ca
   ↳ https://sandbox.captest-dev.aws.canadapost-postescanada.ca
   ↳ https://stg-dashboardpilot.canadapost-postescanada.ca
-  ↳ https://stg-partnerhub-carrefourpartenaires.canadapost-postescanada.ca
   ↳ https://stg10.est-oee.canadapost-postescanada.ca
   ↳ https://stg11.est-oee.canadapost-postescanada.ca
   ↳ https://stg13.est-oee.canadapost-postescanada.ca
   ↳ https://stgrt.canadapost-postescanada.ca
+  ↳ https://stg-partnerhub-carrefourpartenaires.canadapost-postescanada.ca
   ↳ https://ux.canadapost-postescanada.ca
   ↳ https://www.canadapost-postescanada.ca
-[DEDUP] http://blog-test.bitvavo.com:8080 represents 6 duplicates [301][167][301 Moved Permanently]:
-  ↳ https://blog-test.bitvavo.com
-  ↳ http://blog.bitvavo.com:8080
-  ↳ https://blog.bitvavo.com
-  ↳ http://brand.bitvavo.com:8080
-  ↳ http://landingpage.bitvavo.com:8080
-  ↳ http://support.bitvavo.com:8080
 [DEDUP] https://b-connected.buhlergroup.com represents 13 duplicates [200][345][]:
-  ↳ https://bmobile-nam.global.buhlergroup.com
   ↳ https://bmobile-nam.buhlergroup.com
+  ↳ https://bmobile-nam.global.buhlergroup.com
   ↳ https://bmobile.buhlergroup.com
+  ↳ https://bmobile.global.buhlergroup.com
   ↳ https://bmobile-emea.buhlergroup.com
   ↳ https://bmobile-dr.buhlergroup.com
-  ↳ https://bmobile.global.buhlergroup.com
-  ↳ https://bmobile-mel.buhlergroup.com
-  ↳ https://bmobile-sam2.global.buhlergroup.com
   ↳ https://bmobile-sam2.buhlergroup.com
+  ↳ https://bmobile-sam2.global.buhlergroup.com
   ↳ https://bmobile-sin.buhlergroup.com
-  ↳ https://bmobile-jhb.buhlergroup.com
-  ↳ https://bmobile-soa2.buhlergroup.com
+  ↳ https://bmobile-mel.buhlergroup.com
   ↳ https://bmobile-soa2.global.buhlergroup.com
-[DEDUP] https://bgt-np.bpost.be represents 2 duplicates [503][162][503 Service Temporarily Unavailable]:
-  ↳ https://testshippingmanager.bpost.be
-  ↳ https://test2.bpost.be
-[DEDUP] https://bis-dasboard-st2.bpost.cloud represents 1 duplicates [403][243][]:
+  ↳ https://bmobile-soa2.buhlergroup.com
+  ↳ https://bmobile-jhb.buhlergroup.com
+[DEDUP] https://bis-dasboard-st2.bpost.cloud represents 4 duplicates [403][263][]:
   ↳ https://crl.subordinate.bpost.cloud
+  ↳ https://counter-ac1.bpost.cloud
+  ↳ https://counter-st1.bpost.cloud
+  ↳ https://counter-ac2.bpost.cloud
+[DEDUP] https://bgt-np.bpost.be represents 1 duplicates [503][162][503 Service Temporarily Unavailable]:
+  ↳ https://testshippingmanager.bpost.be
 [DEDUP] https://bgs-ac01.bpost.cloud represents 2 duplicates [404][316][Error 404]:
-  ↳ https://bgs.bpost.cloud
   ↳ https://bgs-st01.bpost.cloud
+  ↳ https://bgs.bpost.cloud
 [DEDUP] https://bgs-ac1.bpost.be represents 2 duplicates [404][316][Error 404]:
-  ↳ https://bgs.bpost.be
   ↳ https://bgs-st1.bpost.be
-[DEDUP] https://botadmin-qa.nmpsc-test.aws.canadapost-postescanada.ca represents 8 duplicates [403][919][ERROR: The request could not be satisfied]:
+  ↳ https://bgs.bpost.be
+[DEDUP] https://botadmin-dit.nmpsc-dev.aws.canadapost-postescanada.ca represents 8 duplicates [403][919][ERROR: The request could not be satisfied]:
   ↳ https://botadmn-bit01.genaifoundation-dev.aws.canadapost-postescanada.ca
-  ↳ https://botadmin-dit.nmpsc-dev.aws.canadapost-postescanada.ca
+  ↳ https://botadmin-qa.nmpsc-test.aws.canadapost-postescanada.ca
   ↳ https://mpechat-bit01.genaifoundation-dev.aws.canadapost-postescanada.ca
   ↳ https://mpechat-dit.nmpsc-dev.aws.canadapost-postescanada.ca
   ↳ https://mpechat-qa.nmpsc-test.aws.canadapost-postescanada.ca
   ↳ https://sandboxtest.captest-dev.aws.canadapost-postescanada.ca
   ↳ https://technia.canadapost-postescanada.ca
   ↳ https://techniabotadmin.canadapost-postescanada.ca
+[DEDUP] http://boutique.canadapost-postescanada.ca:8443 represents 2 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://partnerhub-carrefourpartenaires.canadapost-postescanada.ca:8443
+  ↳ http://store.canadapost-postescanada.ca:8443
 [DEDUP] http://boutique.canadapost-postescanada.ca:8080 represents 5 duplicates [301][167][301 Moved Permanently]:
   ↳ http://boutiquescanadiennes.canadapost-postescanada.ca:8080
   ↳ http://canadashops.canadapost-postescanada.ca:8080
   ↳ http://partnerhub-carrefourpartenaires.canadapost-postescanada.ca:8080
   ↳ http://stg-partnerhub-carrefourpartenaires.canadapost-postescanada.ca:8080
   ↳ http://store.canadapost-postescanada.ca:8080
-[DEDUP] http://boutique.canadapost-postescanada.ca:8443 represents 3 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+[DEDUP] http://boutiquescanadiennes.canadapost-postescanada.ca:8443 represents 2 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
   ↳ http://canadashops.canadapost-postescanada.ca:8443
-  ↳ http://partnerhub-carrefourpartenaires.canadapost-postescanada.ca:8443
   ↳ http://stg-partnerhub-carrefourpartenaires.canadapost-postescanada.ca:8443
-[DEDUP] http://boutiquescanadiennes.canadapost-postescanada.ca:8443 represents 1 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
-  ↳ http://store.canadapost-postescanada.ca:8443
+[DEDUP] https://boutiquescanadiennes.canadapost-postescanada.ca represents 2 duplicates [301][0][]:
+  ↳ https://canadashops.canadapost-postescanada.ca
+  ↳ https://partnerhub-carrefourpartenaires.canadapost-postescanada.ca
 [DEDUP] https://brand.bitvavo.com represents 3 duplicates [302][0][]:
   ↳ https://mail.bitvavo.com
   ↳ https://okta.bitvavo.com
   ↳ https://support.bitvavo.com
-[DEDUP] https://bmobile-gcr2.buhlergroup.cn represents 3 duplicates [200][345][]:
-  ↳ https://bmobile-gcr.buhlergroup.cn
-  ↳ https://bmobile.global.buhlergroup.cn
-  ↳ https://bmobile.buhlergroup.cn
-[DEDUP] https://boutiquescanadiennes.canadapost-postescanada.ca represents 2 duplicates [301][0][]:
-  ↳ https://canadashops.canadapost-postescanada.ca
-  ↳ https://partnerhub-carrefourpartenaires.canadapost-postescanada.ca
-[DEDUP] https://broker-mqtt.flex.citymesh.net represents 2 duplicates [404][19][]:
-  ↳ https://mqtt-iot-production.citymesh.net
-  ↳ https://mqtt-iot-staging.citymesh.net
+[DEDUP] https://bop.llp.st2.bpost.cloud represents 2 duplicates [200][1095][LockerForge — Asset Management]:
+  ↳ https://bop.llp.ac2.bpost.cloud
+  ↳ https://bop.llp.bpost.cloud
 [DEDUP] https://businesscustomersupport-ac2.bpost.cloud represents 1 duplicates [200][1460][Customer support tool]:
   ↳ https://businesscustomersupport-dv2.bpost.cloud
-[DEDUP] https://btube.buhlergroup.com represents 1 duplicates [200][391][]:
-  ↳ https://btube-api.buhlergroup.com
-[DEDUP] https://bop.llp.st2.bpost.cloud represents 2 duplicates [200][1095][LockerForge — Asset Management]:
-  ↳ https://bop.llp.bpost.cloud
-  ↳ https://bop.llp.ac2.bpost.cloud
-[DEDUP] https://cad-st1.bpost.cloud represents 1 duplicates [200][49456][CashDifferenceTool]:
-  ↳ https://cad-ac1.bpost.cloud
+[DEDUP] https://btube-api.buhlergroup.com represents 1 duplicates [200][391][]:
+  ↳ https://btube.buhlergroup.com
+[DEDUP] https://bmobile.buhlergroup.cn represents 3 duplicates [200][345][]:
+  ↳ https://bmobile-gcr.buhlergroup.cn
+  ↳ https://bmobile.global.buhlergroup.cn
+  ↳ https://bmobile-gcr2.buhlergroup.cn
+[DEDUP] https://broker-mqtt.flex.citymesh.net represents 2 duplicates [404][19][]:
+  ↳ https://mqtt-iot-staging.citymesh.net
+  ↳ https://mqtt-iot-production.citymesh.net
+[DEDUP] https://cad-ac1.bpost.cloud represents 1 duplicates [200][49456][CashDifferenceTool]:
+  ↳ https://cad-st1.bpost.cloud
 [DEDUP] https://buehler01.heydo.buhlergroup.com represents 1 duplicates [301][290][301 Moved Permanently]:
   ↳ https://origin65-stage.buhlergroup.com
 [DEDUP] https://buhler-carbon-calculator.buhler-datascience.ch represents 1 duplicates [200][15192][Bühler Environmental Impact Calculator |]:
   ↳ https://demo-buhler-carbon-calculator.buhler-datascience.ch
 [DEDUP] https://buhlerphoton-portal.sortex.buhlergroup.io represents 7 duplicates [404][22][]:
-  ↳ https://dev.dmp.sortex.buhlergroup.io
   ↳ https://dev.model-server.sortex.buhlergroup.io
+  ↳ https://dev.dmp.sortex.buhlergroup.io
   ↳ https://dmp.sortex.buhlergroup.io
   ↳ https://model-server.sortex.buhlergroup.io
-  ↳ https://staging.buhlerphoton-portal.sortex.buhlergroup.io
   ↳ https://staging.dmp.sortex.buhlergroup.io
   ↳ https://staging.model-server.sortex.buhlergroup.io
+  ↳ https://staging.buhlerphoton-portal.sortex.buhlergroup.io
+[DEDUP] https://busworld.citymesh.com represents 2 duplicates [200][11689][Citymesh]:
+  ↳ https://cabmanager.citymesh.com
+  ↳ https://exhibitions.citymesh.com
 [DEDUP] https://campusinsight.citymesh.com represents 1 duplicates [302][0][]:
   ↳ https://cloudcampus.citymesh.com
 [DEDUP] https://ccp-ac2.bpost.cloud represents 1 duplicates [200][1241][AdvisorPortal]:
   ↳ https://ccp.bpost.cloud
-[DEDUP] https://busworld.citymesh.com represents 2 duplicates [200][11689][Citymesh]:
-  ↳ https://cabmanager.citymesh.com
-  ↳ https://exhibitions.citymesh.com
 [DEDUP] https://carbon-calculator.buhler-datascience.ch represents 2 duplicates [302][0][]:
   ↳ https://impact-calculator-early-access.buhler-datascience.ch
   ↳ https://impact-calculator.buhler-datascience.ch
-[DEDUP] https://cdn.wms-np.bpost.cloud represents 16 duplicates [403][986][ERROR: The request could not be satisfied]:
-  ↳ https://cdn.wms.bpost.cloud
+[DEDUP] https://cdn.wms.bpost.cloud represents 16 duplicates [403][986][ERROR: The request could not be satisfied]:
+  ↳ https://cdn.wms-np.bpost.cloud
   ↳ https://ecu-ac1.bpost.cloud
-  ↳ https://ecu-pr.bpost.cloud
   ↳ https://ecu-ac2.bpost.cloud
+  ↳ https://ecu-pr.bpost.cloud
   ↳ https://ecu-st1.bpost.cloud
   ↳ https://ecu-st2.bpost.cloud
-  ↳ https://eou-pr.bpost.cloud
   ↳ https://eou-st2.bpost.cloud
-  ↳ https://eou-ac2.bpost.cloud
+  ↳ https://eou-pr.bpost.cloud
   ↳ https://eou-ac1.bpost.cloud
+  ↳ https://eou-ac2.bpost.cloud
   ↳ https://eou-st1.bpost.cloud
   ↳ https://nbw-ac2.bpost.cloud
-  ↳ https://vdl-st2.bpost.cloud
   ↳ https://vdl-ac2.bpost.cloud
+  ↳ https://vdl-st2.bpost.cloud
   ↳ https://xbcsa-chat-ac01.bpost.cloud
   ↳ https://xbcsa-chat-ds01.bpost.cloud
 [DEDUP] https://cds-admin-ds1.bpost.be represents 2 duplicates [403][1892][!! Access Denied !!]:
@@ -1257,110 +1263,108 @@
 [DEDUP] https://cds-admin-ac1.bpost.cloud represents 10 duplicates [403][1892][!! Access Denied !!]:
   ↳ https://cds-admin-ds1.bpost.cloud
   ↳ https://cds-admin-st1.bpost.cloud
-  ↳ https://cds-admin.bpost.cloud
   ↳ https://cds-campaign.bpost.cloud
   ↳ https://cds-contact.bpost.cloud
-  ↳ https://cds-web-ac01.bpost.cloud
-  ↳ https://cds-web-st01.bpost.cloud
-  ↳ https://cds-web-dv2.bpost.cloud
+  ↳ https://cds-admin.bpost.cloud
   ↳ https://cds-selectiontool.bpost.cloud
   ↳ https://cds-web-dv1.bpost.cloud
-[DEDUP] https://cds-cmp-st01.bpost.cloud represents 4 duplicates [403][1889][Site Maintenance]:
-  ↳ https://cds-cmp-dv01.bpost.cloud
-  ↳ https://cds-cmp-ac01.bpost.cloud
-  ↳ https://cds-cnt-dv01.bpost.cloud
+  ↳ https://cds-web-ac01.bpost.cloud
+  ↳ https://cds-web-dv2.bpost.cloud
+  ↳ https://cds-web-st01.bpost.cloud
+[DEDUP] https://cds-cmp-ac01.bpost.cloud represents 4 duplicates [403][1889][Site Maintenance]:
   ↳ https://cds-cnt-st01.bpost.cloud
-[DEDUP] https://click-clic.stg-solutions.canadapost-postescanada.ca represents 3 duplicates [403][1233][403 - Forbidden: Access is denied.]:
-  ↳ https://click-clic.stg-transactions.canadapost-postescanada.ca
-  ↳ https://click.stg-solutions.canadapost-postescanada.ca
-  ↳ https://click.solutions.canadapost-postescanada.ca
+  ↳ https://cds-cnt-dv01.bpost.cloud
+  ↳ https://cds-cmp-st01.bpost.cloud
+  ↳ https://cds-cmp-dv01.bpost.cloud
 [DEDUP] https://channel.buhlergroup.com represents 1 duplicates [404][315][Not Found]:
   ↳ https://testscript2.buhlergroup.com
-[DEDUP] https://cdn.assets.bpost.be represents 1 duplicates [404][321][WebContentNotFound]:
-  ↳ https://cdn.assets-dev.bpost.be
-[DEDUP] https://cds-sel-st01.bpost.cloud represents 2 duplicates [403][14167][Selectiontool]:
-  ↳ https://cds-sel-ac01.bpost.cloud
+[DEDUP] https://cdn.assets-dev.bpost.be represents 1 duplicates [404][321][WebContentNotFound]:
+  ↳ https://cdn.assets.bpost.be
+[DEDUP] https://cds-sel-ac01.bpost.cloud represents 2 duplicates [403][14167][Selectiontool]:
   ↳ https://cds-sel-dv01.bpost.cloud
-[DEDUP] https://cdn.web-design-system.bpost.be represents 4 duplicates [403][111][]:
-  ↳ https://cds-admin.bpost.be
-  ↳ https://counter.bpost.be
+  ↳ https://cds-sel-st01.bpost.cloud
+[DEDUP] https://click-clic.stg-transactions.canadapost-postescanada.ca represents 3 duplicates [403][1233][403 - Forbidden: Access is denied.]:
+  ↳ https://click.solutions.canadapost-postescanada.ca
+  ↳ https://click-clic.stg-solutions.canadapost-postescanada.ca
+  ↳ https://click.stg-solutions.canadapost-postescanada.ca
+[DEDUP] https://cds-admin.bpost.be represents 3 duplicates [403][111][]:
+  ↳ https://cdn.web-design-system.bpost.be
   ↳ https://mybpost.hyp.bpost.be
   ↳ https://trackcb.bpost.be
-[DEDUP] https://cloud.solutions.canadapost-postescanada.ca represents 4 duplicates [404][9][]:
+[DEDUP] https://cloud.stg-solutions.canadapost-postescanada.ca represents 4 duplicates [404][9][]:
   ↳ https://cloud.transactions.canadapost-postescanada.ca
-  ↳ https://cloud.stg-solutions.canadapost-postescanada.ca
-  ↳ https://incloud-ennuage.solutions.canadapost-postescanada.ca
+  ↳ https://cloud.solutions.canadapost-postescanada.ca
   ↳ https://incloud-ennuage.stg-solutions.canadapost-postescanada.ca
-[DEDUP] https://communicationhub.bpost.be represents 1 duplicates [403][23][]:
-  ↳ https://counter-api.bpost.be
+  ↳ https://incloud-ennuage.solutions.canadapost-postescanada.ca
 [DEDUP] https://conception.canadapost-postescanada.ca represents 2 duplicates [301][134][301 Moved Permanently]:
   ↳ https://design.canadapost-postescanada.ca
   ↳ https://sellonline-cybervente.canadapost-postescanada.ca
-[DEDUP] http://corporate.bpost.be:8080 represents 1 duplicates [409][16][]:
-  ↳ http://corporate.bpost.be
+[DEDUP] https://communicationhub.bpost.be represents 1 duplicates [403][23][]:
+  ↳ https://counter-api.bpost.be
+[DEDUP] https://confluence.devops.buhlergroup.com represents 1 duplicates [301][169][301 Moved Permanently]:
+  ↳ https://jira.devops.buhlergroup.com
 [DEDUP] https://cm.docs.alm.buhlergroup.com represents 3 duplicates [302][514][Document Moved]:
   ↳ https://gq.docs.alm.buhlergroup.com
   ↳ https://mercury.docs.alm.buhlergroup.com
   ↳ https://vn.docs.alm.buhlergroup.com
-[DEDUP] https://confluence.devops.buhlergroup.com represents 1 duplicates [301][169][301 Moved Permanently]:
-  ↳ https://jira.devops.buhlergroup.com
 [DEDUP] https://companionplus.demo.apps.buhlergroup.com represents 1 duplicates [404][2667][Microsoft Azure Web App - Error 404]:
   ↳ https://manage.demo.apps.buhlergroup.com
-[DEDUP] https://crl.root.bpost.cloud represents 3 duplicates [403][263][]:
-  ↳ https://counter-st1.bpost.cloud
-  ↳ https://counter-ac1.bpost.cloud
-  ↳ https://counter-ac2.bpost.cloud
+[DEDUP] http://corporate.bpost.be:8443 represents 1 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://press.bpost.be:8443
+[DEDUP] http://corporate.bpost.be:8080 represents 1 duplicates [409][16][]:
+  ↳ http://corporate.bpost.be
+[DEDUP] https://crl.root.bpost.cloud represents 1 duplicates [403][243][]:
+  ↳ https://counter-dv1.bpost.cloud
 [DEDUP] https://crt-ac1.bpost.cloud represents 1 duplicates [402][2570][Access Denied]:
   ↳ https://crt-st1.bpost.cloud
-[DEDUP] https://cross-border-ai-hscode-validator-ac01.bpost.cloud represents 3 duplicates [200][1212][CrossMinds AI]:
+[DEDUP] https://cross-border-ai-hscode-validator-ds01.bpost.cloud represents 3 duplicates [200][1212][CrossMinds AI]:
   ↳ https://cross-border-ai-hscode-validator-st01.bpost.cloud
-  ↳ https://cross-border-ai-hscode-validator-ds01.bpost.cloud
   ↳ https://cross-border-ai-hscode-validator.bpost.cloud
-[DEDUP] https://crmpull-stage.buhleralm.azure.buhlergroup.com represents 1 duplicates [200][150093][Your Azure Function App is up and running.]:
-  ↳ https://crmpull-prod.buhleralm.azure.buhlergroup.com
+  ↳ https://cross-border-ai-hscode-validator-ac01.bpost.cloud
 [DEDUP] https://crt-cloudac.bpost.cloud represents 1 duplicates [403][1892][Web App - Unavailable]:
   ↳ https://crtweb-cloudac.bpost.cloud
+[DEDUP] https://crmpull-prod.buhleralm.azure.buhlergroup.com represents 1 duplicates [200][150093][Your Azure Function App is up and running.]:
+  ↳ https://crmpull-stage.buhleralm.azure.buhlergroup.com
 [DEDUP] https://csa-prod.buhlergroup.com represents 1 duplicates [200][642][Ivanti(R) Cloud Services Application]:
   ↳ https://csa-test.buhlergroup.com
+[DEDUP] https://csd.ac1.bpost.cloud represents 2 duplicates [200][1519][Access Denied]:
+  ↳ https://csd.bpost.cloud
+  ↳ https://csd.st1.bpost.cloud
+[DEDUP] https://counter.bpost.be represents 1 duplicates [403][263][]:
+  ↳ https://vhrcf.bpost.be
 [DEDUP] https://dam-dev-int.buhlertest.ch represents 1 duplicates [403][919][ERROR: The request could not be satisfied]:
   ↳ https://dam-test-int.buhlertest.ch
-[DEDUP] https://csd.ac1.bpost.cloud represents 2 duplicates [200][1519][Access Denied]:
-  ↳ https://csd.st1.bpost.cloud
-  ↳ https://csd.bpost.cloud
+[DEDUP] https://dam-dev.buhlertest.ch represents 1 duplicates [403][111][]:
+  ↳ https://dam-test.buhlertest.ch
 [DEDUP] http://dashboard-netbird.citymesh.net:8443 represents 3 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
-  ↳ http://drone-reporting.citymesh.net:8443
   ↳ http://msg-viewer.citymesh.net:8443
   ↳ http://netbird.citymesh.net:8443
+  ↳ http://www.citymesh.net:8443
 [DEDUP] http://dashboard-netbird.citymesh.net:8080 represents 3 duplicates [301][520][301 Moved Permanently]:
   ↳ http://drone-reporting.citymesh.net:8080
   ↳ http://msg-viewer.citymesh.net:8080
   ↳ http://netbird.citymesh.net:8080
-[DEDUP] https://dashboard-netbird.citymesh.net represents 2 duplicates [403][38142][Error ・ Cloudflare Access]:
+[DEDUP] https://dashboard-netbird.citymesh.net represents 2 duplicates [403][38143][Error ・ Cloudflare Access]:
   ↳ https://drone-reporting.citymesh.net
   ↳ https://msg-viewer.citymesh.net
-[DEDUP] https://dam-test.buhlertest.ch represents 1 duplicates [403][111][]:
-  ↳ https://dam-dev.buhlertest.ch
-[DEDUP] https://cyv-ac01.bpost.cloud represents 2 duplicates [200][3212][Site Visit]:
-  ↳ https://cyv-st01.bpost.cloud
+[DEDUP] https://cyv-st01.bpost.cloud represents 2 duplicates [200][3212][Site Visit]:
+  ↳ https://cyv-ac01.bpost.cloud
   ↳ https://cyv.bpost.cloud
-[DEDUP] https://demo.api.buhlergroup.com represents 5 duplicates [404][266389][Page not found]:
-  ↳ https://dev.dpcs.buhlergroup.com
-  ↳ https://stage.dpcs.buhlergroup.com
-  ↳ https://stage.api.buhlergroup.com
-  ↳ https://test.api.buhlergroup.com
-  ↳ https://test.dpcs.buhlergroup.com
-[DEDUP] https://demo-lca-calculator.buhlergroup.ai represents 1 duplicates [200][12912][Buhler Alpha α]:
-  ↳ https://lca-calculator.buhlergroup.ai
-[DEDUP] https://dev.321-service.canadapost-postescanada.ca represents 1 duplicates [404][23][]:
-  ↳ https://perf.321-service.canadapost-postescanada.ca
-[DEDUP] http://dev-shinkai.buhler-datascience.ch represents 1 duplicates [301][373][301 Moved Permanently]:
-  ↳ http://staging-cpa.buhler-datascience.ch
+[DEDUP] https://demo-embedded-dev.playone.buhlergroup.com represents 1 duplicates [401][0][]:
+  ↳ https://dev.cra360.buhlergroup.com
 [DEDUP] https://dependency-track.alm.buhlergroup.com represents 1 duplicates [200][6950][Dependency-Track]:
   ↳ https://sandbox-dependency-track.alm.buhlergroup.com
-[DEDUP] https://developer-developpeur-stg.canadapost-postescanada.ca represents 1 duplicates [403][118][403 Forbidden]:
-  ↳ https://developer-developpeur.canadapost-postescanada.ca
-[DEDUP] https://dev.capitalbolig.dk represents 1 duplicates [301][0][]:
-  ↳ https://www.capitalbolig.dk
+[DEDUP] https://dev.321-service.canadapost-postescanada.ca represents 1 duplicates [404][23][]:
+  ↳ https://perf.321-service.canadapost-postescanada.ca
+[DEDUP] https://demo-lca-calculator.buhlergroup.ai represents 1 duplicates [200][12912][Buhler Alpha α]:
+  ↳ https://lca-calculator.buhlergroup.ai
+[DEDUP] http://dev-shinkai.buhler-datascience.ch represents 1 duplicates [301][373][301 Moved Permanently]:
+  ↳ http://staging-cpa.buhler-datascience.ch
+[DEDUP] https://dev.dpcs.buhlergroup.com represents 4 duplicates [404][266389][Page not found]:
+  ↳ https://stage.api.buhlergroup.com
+  ↳ https://stage.dpcs.buhlergroup.com
+  ↳ https://test.dpcs.buhlergroup.com
+  ↳ https://test.api.buhlergroup.com
 [DEDUP] https://dev.mode-assist.sortex.buhlergroup.io represents 2 duplicates [401][30][]:
   ↳ https://mode-assist.sortex.buhlergroup.io
   ↳ https://staging.mode-assist.sortex.buhlergroup.io
@@ -1371,243 +1375,244 @@
   ↳ https://staging.sonar-v2.biarrinetworks.com
   ↳ https://v1.sonar-v2.biarrinetworks.com
   ↳ https://v1-mel.sonar-v2.biarrinetworks.com
-[DEDUP] https://dev.insights.buhlergroup.com represents 4 duplicates [200][46827][Bühler Insights]:
+[DEDUP] https://dev.insights.buhlergroup.com represents 3 duplicates [200][46827][Bühler Insights]:
   ↳ https://insights.buhlergroup.com
-  ↳ https://prep.insights.buhlergroup.com
   ↳ https://systest.insights.buhlergroup.com
   ↳ https://uat.insights.buhlergroup.com
-[DEDUP] https://dmm-ac1.bpost.cloud represents 9 duplicates [403][0][]:
-  ↳ https://dmm-ac2.bpost.cloud
-  ↳ https://dmm-st1.bpost.cloud
-  ↳ https://dmm-st2.bpost.cloud
-  ↳ https://dmm.bpost.cloud
-  ↳ https://lgn.ac.bpost.cloud
-  ↳ https://lgn.st.bpost.cloud
-  ↳ https://lgn.ds.bpost.cloud
-  ↳ https://shm-rest-ac2.bpost.cloud
-  ↳ https://shm-rest.bpost.cloud
 [DEDUP] https://distripostsimulation.bpost.be represents 8 duplicates [301][0][]:
   ↳ https://maxiresponse.bpost.be
   ↳ https://my.bpost.be
   ↳ https://mylogin-stg.bpost.be
-  ↳ https://mylogin-dev.bpost.be
   ↳ https://mylogin.bpost.be
+  ↳ https://mylogin-dev.bpost.be
   ↳ https://procuration.bpost.be
   ↳ https://register.bpost.be
   ↳ https://track.bpost.be
+[DEDUP] https://dmm-ac2.bpost.cloud represents 9 duplicates [403][0][]:
+  ↳ https://dmm-ac1.bpost.cloud
+  ↳ https://dmm-st1.bpost.cloud
+  ↳ https://dmm-st2.bpost.cloud
+  ↳ https://dmm.bpost.cloud
+  ↳ https://lgn.ds.bpost.cloud
+  ↳ https://lgn.ac.bpost.cloud
+  ↳ https://lgn.st.bpost.cloud
+  ↳ https://shm-rest-ac2.bpost.cloud
+  ↳ https://shm-rest.bpost.cloud
+[DEDUP] https://dev.capitalbolig.dk represents 1 duplicates [301][0][]:
+  ↳ https://www.capitalbolig.dk
 [DEDUP] https://dtca-dev.playone.buhlergroup.com represents 7 duplicates [502][2643][502 Bad Gateway]:
   ↳ https://dtca.playone.buhlergroup.com
-  ↳ https://skre-pr01.playone.buhlergroup.com
   ↳ https://skre-dev.playone.buhlergroup.com
+  ↳ https://skre-pr01.playone.buhlergroup.com
   ↳ https://skre.playone.buhlergroup.com
   ↳ https://srxa-dev.playone.buhlergroup.com
   ↳ https://srxa.playone.buhlergroup.com
   ↳ https://srxa-pr01.playone.buhlergroup.com
 [DEDUP] https://dpcs.docs.alm.buhlergroup.com represents 1 duplicates [302][516][Document Moved]:
   ↳ https://lace.docs.alm.buhlergroup.com
-[DEDUP] https://email-courriel.stg-transactions.canadapost-postescanada.ca represents 3 duplicates [302][128][Object moved]:
-  ↳ https://email-courriel.stg-solutions.canadapost-postescanada.ca
-  ↳ https://view.stg-solutions.canadapost-postescanada.ca
+[DEDUP] https://email-courriel.stg-solutions.canadapost-postescanada.ca represents 3 duplicates [302][128][Object moved]:
+  ↳ https://email-courriel.stg-transactions.canadapost-postescanada.ca
   ↳ https://view.solutions.canadapost-postescanada.ca
-[DEDUP] https://etracker-ac2.bpost.cloud represents 3 duplicates [200][4237][ETrackerWeb]:
+  ↳ https://view.stg-solutions.canadapost-postescanada.ca
+[DEDUP] https://etracker.bpost.cloud represents 3 duplicates [200][4237][ETrackerWeb]:
   ↳ https://etracker-ac1.bpost.cloud
   ↳ https://etracker-st2.bpost.cloud
-  ↳ https://etracker.bpost.cloud
-[DEDUP] https://dmo-st2.bpost.cloud represents 1 duplicates [200][1323][DoMyMove Online]:
-  ↳ https://dmo-ac2.bpost.cloud
-[DEDUP] https://esc.bpost.be represents 3 duplicates [403][118][403 Forbidden]:
-  ↳ https://parcellocker-partner.bpost.be
-  ↳ https://plnarrowcasting.bpost.be
-  ↳ https://ppo.bpost.be
+  ↳ https://etracker-ac2.bpost.cloud
 [DEDUP] https://event.buhlergroup.com represents 1 duplicates [301][192][Document Moved]:
   ↳ https://www.event.buhlergroup.com
+[DEDUP] https://esc.bpost.be represents 3 duplicates [403][520][403 Forbidden]:
+  ↳ https://parcellockers.bpost.be
+  ↳ https://plterminal.bpost.be
+  ↳ https://plnarrowcasting.bpost.be
 [DEDUP] http://flex.citymesh.com:8080 represents 1 duplicates [302][502][302 Found]:
   ↳ https://flex.citymesh.com
-[DEDUP] https://fleet.dev.buhlergroup.io represents 5 duplicates [301][162][301 Moved Permanently]:
-  ↳ https://fleet.buhlergroup.io
+[DEDUP] https://dmo-ac2.bpost.cloud represents 1 duplicates [200][1323][DoMyMove Online]:
+  ↳ https://dmo-st2.bpost.cloud
+[DEDUP] https://fleet.buhlergroup.io represents 5 duplicates [301][162][301 Moved Permanently]:
+  ↳ https://fleet.dev.buhlergroup.io
+  ↳ https://fleet.systest.buhlergroup.io
   ↳ https://fleet.prep.buhlergroup.io
   ↳ https://fleet.demo.buhlergroup.io
-  ↳ https://fleet.systest.buhlergroup.io
   ↳ https://fleet.uat.buhlergroup.io
 [DEDUP] http://fondhelp.biarrinetworks.com:8443 represents 3 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
   ↳ http://newsite.biarrinetworks.com:8443
   ↳ http://redesign.biarrinetworks.com:8443
   ↳ http://www.biarrinetworks.com:8443
-[DEDUP] http://fondhelp.biarrinetworks.com:8080 represents 1 duplicates [403][2823][Actions blocked]:
+[DEDUP] http://fondhelp.biarrinetworks.com:8080 represents 1 duplicates [403][2824][Actions blocked]:
   ↳ http://www.biarrinetworks.com:8080
-[DEDUP] https://fond-demo.biarrinetworks.com represents 5 duplicates [200][3152][FOND | Fiber Optic Network Design Simplified]:
-  ↳ https://fond-preprod.biarrinetworks.com
-  ↳ https://fond.biarrinetworks.com
-  ↳ https://fond-dev.biarrinetworks.com
-  ↳ https://fond-staging.biarrinetworks.com
-  ↳ https://magnum-prod.biarrinetworks.com
 [DEDUP] https://former.buhlergroup.com represents 2 duplicates [301][151][Document Moved]:
   ↳ https://redirect.buhlergroup.com
   ↳ https://renew.buhlergroup.com
-[DEDUP] https://gde-service.canadapost-postescanada.ca represents 2 duplicates [403][42][]:
-  ↳ https://int-gde-service.canadapost-postescanada.ca
-  ↳ https://stg-gde-service.canadapost-postescanada.ca
-[DEDUP] https://frm-pr.bpost.cloud represents 2 duplicates [200][1517][JBoss EAP 7]:
-  ↳ https://frm-pub-ac1.bpost.cloud
+[DEDUP] https://frm-pub-ac1.bpost.cloud represents 2 duplicates [200][1517][JBoss EAP 7]:
+  ↳ https://frm-pr.bpost.cloud
   ↳ https://rzv-pr.bpost.cloud
-[DEDUP] https://fondservice-demo.biarrinetworks.com represents 5 duplicates [403][555][403 Forbidden]:
-  ↳ https://fondservice-dev.biarrinetworks.com
-  ↳ https://fondservice-preprod.biarrinetworks.com
-  ↳ https://fondservice-blue.biarrinetworks.com
-  ↳ https://fondservice-staging.biarrinetworks.com
-  ↳ https://fondservice.biarrinetworks.com
-[DEDUP] https://health.ac.bpost.cloud represents 1 duplicates [200][14407][Sender Dashboard | bpost]:
-  ↳ https://health.bpost.cloud
-[DEDUP] https://geo.canadapost-postescanada.ca represents 1 duplicates [200][3142][ArcGIS]:
-  ↳ https://pub.geo.canadapost-postescanada.ca
+[DEDUP] https://fond-demo.biarrinetworks.com represents 5 duplicates [200][3152][FOND | Fiber Optic Network Design Simplified]:
+  ↳ https://fond-dev.biarrinetworks.com
+  ↳ https://fond.biarrinetworks.com
+  ↳ https://fond-preprod.biarrinetworks.com
+  ↳ https://fond-staging.biarrinetworks.com
+  ↳ https://magnum-prod.biarrinetworks.com
 [DEDUP] https://franking.bpost.be represents 1 duplicates [200][2040][Network Error]:
   ↳ https://mdt.bpost.be
-[DEDUP] http://helpdesk.citymesh.be:8443 represents 3 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
-  ↳ http://order.citymesh.be:8443
-  ↳ http://support.citymesh.be:8443
-  ↳ http://www.citymesh.be:8443
-[DEDUP] https://fulfilment-np-internal.bpost.cloud represents 2 duplicates [200][8405][Radial Client Portal]:
-  ↳ https://fulfilment-np.bpost.cloud
-  ↳ https://radial-st1.bpost.cloud
 [DEDUP] https://fulfilment-internal.bpost.cloud represents 2 duplicates [200][13343][Radial Client Portal]:
   ↳ https://fulfilment.bpost.cloud
   ↳ https://radial.bpost.cloud
-[DEDUP] http://help.biarrinetworks.com represents 1 duplicates [301][0][]:
-  ↳ https://www.biarrinetworks.com
-[DEDUP] https://hrdocuments-cf-ds1.bpost.cloud represents 1 duplicates [403][146][]:
-  ↳ https://hrdocuments-cf-pr.bpost.cloud
+[DEDUP] https://fondservice-dev.biarrinetworks.com represents 4 duplicates [403][555][403 Forbidden]:
+  ↳ https://fondservice-preprod.biarrinetworks.com
+  ↳ https://fondservice-green.biarrinetworks.com
+  ↳ https://fondservice.biarrinetworks.com
+  ↳ https://fondservice-staging.biarrinetworks.com
+[DEDUP] https://gde-service.canadapost-postescanada.ca represents 2 duplicates [403][42][]:
+  ↳ https://int-gde-service.canadapost-postescanada.ca
+  ↳ https://stg-gde-service.canadapost-postescanada.ca
+[DEDUP] https://fondservice-demo.biarrinetworks.com represents 1 duplicates [403][153][403 Forbidden]:
+  ↳ https://fondservice-blue.biarrinetworks.com
+[DEDUP] https://geo.canadapost-postescanada.ca represents 1 duplicates [200][3142][ArcGIS]:
+  ↳ https://pub.geo.canadapost-postescanada.ca
+[DEDUP] https://health.ac.bpost.cloud represents 1 duplicates [200][14407][Sender Dashboard | bpost]:
+  ↳ https://health.bpost.cloud
+[DEDUP] https://fulfilment-np.bpost.cloud represents 2 duplicates [200][8405][Radial Client Portal]:
+  ↳ https://fulfilment-np-internal.bpost.cloud
+  ↳ https://radial-st1.bpost.cloud
+[DEDUP] http://helpdesk.citymesh.be:8443 represents 2 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://order.citymesh.be:8443
+  ↳ http://support.citymesh.be:8443
 [DEDUP] https://guest.buhlertest.ch represents 2 duplicates [303][123][]:
   ↳ https://mybuhlerdev1.buhlertest.ch
   ↳ https://sapcueconcept.buhlertest.ch
+[DEDUP] https://hrdocuments-cf-pr.bpost.cloud represents 1 duplicates [403][146][]:
+  ↳ https://hrdocuments-cf-ds1.bpost.cloud
+[DEDUP] http://help.biarrinetworks.com represents 1 duplicates [301][0][]:
+  ↳ https://www.biarrinetworks.com
+[DEDUP] https://hn-np-alb.bpost.cloud represents 1 duplicates [503][13][]:
+  ↳ https://hn-dv2-search-outbound.bpost.cloud
+[DEDUP] https://hn-pr-adminconsole.bpost.cloud represents 1 duplicates [302][0][]:
+  ↳ https://it-handbook.ssdlc.bpost.cloud
 [DEDUP] https://hilsense.docs.alm.buhlergroup.com represents 2 duplicates [302][525][Document Moved]:
   ↳ https://internal.docs.alm.buhlergroup.com
   ↳ https://insights.docs.alm.buhlergroup.com
-[DEDUP] https://hn-dv2-search-outbound.bpost.cloud represents 1 duplicates [503][13][]:
-  ↳ https://hn-np-alb.bpost.cloud
-[DEDUP] https://hn-pr-adminconsole.bpost.cloud represents 1 duplicates [302][0][]:
-  ↳ https://it-handbook.ssdlc.bpost.cloud
+[DEDUP] https://hub-dev.playone.buhlergroup.com represents 2 duplicates [200][36433][]:
+  ↳ https://hub.playone.buhlergroup.com
+  ↳ https://identity.playone.buhlergroup.com
 [DEDUP] https://go2020.buhlergroup.com represents 2 duplicates [302][138][302 Found]:
   ↳ https://workspace.buhlergroup.com
   ↳ https://www.virtualworld.buhlergroup.com
-[DEDUP] https://hub.playone.buhlergroup.com represents 2 duplicates [200][36433][]:
-  ↳ https://hub-dev.playone.buhlergroup.com
-  ↳ https://identity.playone.buhlergroup.com
-[DEDUP] https://iot.citymesh.com represents 1 duplicates [200][3176][]:
-  ↳ https://thingsboard.citymesh.com
 [DEDUP] https://disable-api-primary.bitvavo.com represents 4 duplicates [520][16][]:
   ↳ https://disable-api-secondary.bitvavo.com
   ↳ https://disable-ws-primary.bitvavo.com
   ↳ https://disable-ws-secondary.bitvavo.com
   ↳ https://staging.wordpress.learn.bitvavo.com
+[DEDUP] https://iot.citymesh.com represents 1 duplicates [200][3176][]:
+  ↳ https://thingsboard.citymesh.com
+[DEDUP] https://itp.docs.alm.buhlergroup.com represents 2 duplicates [302][520][Document Moved]:
+  ↳ https://mybuhler.docs.alm.buhlergroup.com
+  ↳ https://plm.docs.alm.buhlergroup.com
 [DEDUP] https://landing.bitvavo.com represents 4 duplicates [403][17][]:
   ↳ http://support2.bitvavo.com:8080
   ↳ https://support2.bitvavo.com
   ↳ https://wildcard.eu-central-1.internal.bitvavo.com
   ↳ https://wildcard.r2.internal.bitvavo.com
-[DEDUP] https://itp.docs.alm.buhlergroup.com represents 2 duplicates [302][520][Document Moved]:
-  ↳ https://mybuhler.docs.alm.buhlergroup.com
-  ↳ https://plm.docs.alm.buhlergroup.com
-[DEDUP] https://kinepolisbelgie.citymesh.com represents 2 duplicates [200][12037][Citymesh]:
-  ↳ https://kinepolisnederland.citymesh.com
-  ↳ https://trixxoarena.citymesh.com
 [DEDUP] https://kmda.citymesh.com represents 1 duplicates [200][12035][Citymesh]:
   ↳ https://micx.citymesh.com
-[DEDUP] https://m.notifications.canadapost-postescanada.ca represents 3 duplicates [404][236][404 Not Found]:
-  ↳ https://m.communications.canadapost-postescanada.ca
-  ↳ https://t.communications.canadapost-postescanada.ca
+[DEDUP] https://kinepolisnederland.citymesh.com represents 2 duplicates [200][12037][Citymesh]:
+  ↳ https://kinepolisbelgie.citymesh.com
+  ↳ https://trixxoarena.citymesh.com
+[DEDUP] https://m.communications.canadapost-postescanada.ca represents 3 duplicates [404][236][404 Not Found]:
+  ↳ https://m.notifications.canadapost-postescanada.ca
   ↳ https://t.notifications.canadapost-postescanada.ca
+  ↳ https://t.communications.canadapost-postescanada.ca
 [DEDUP] http://mappi.bpost.be:8443 represents 1 duplicates [302][154][302 Found]:
   ↳ http://plugandsend.bpost.be:8443
 [DEDUP] http://medattest-pr.bpost.be represents 1 duplicates [403][915][ERROR: The request could not be satisfied]:
   ↳ http://survey2.bpost.be
-[DEDUP] https://mas-dv2.bpost.cloud represents 2 duplicates [200][485][MasAngularUi]:
-  ↳ https://mas-ac2.bpost.cloud
+[DEDUP] https://mas-ac2.bpost.cloud represents 2 duplicates [200][485][MasAngularUi]:
   ↳ https://mas.bpost.cloud
+  ↳ https://mas-dv2.bpost.cloud
+[DEDUP] https://mve-ac2.bpost.cloud represents 2 duplicates [200][180][]:
+  ↳ https://mve-dv2.bpost.cloud
+  ↳ https://mve-st2.bpost.cloud
 [DEDUP] https://mobileoa.bpost.be represents 2 duplicates [200][2122][Migration to Exchange 2010]:
   ↳ https://track-test.bpost.be
   ↳ https://webmail.bpost.be
+[DEDUP] https://mybuhler.buhlergroup.com represents 1 duplicates [301][433][301 Moved Permanently]:
+  ↳ https://xn--mybhler-p2a.buhlergroup.com
 [DEDUP] https://mybuhler.buhlertest.ch represents 1 duplicates [301][443][301 Moved Permanently]:
   ↳ https://www.mybuhler.buhlertest.ch
 [DEDUP] http://newsite.biarrinetworks.com:8080 represents 3 duplicates [409][16][]:
   ↳ http://newsite.biarrinetworks.com
   ↳ http://redesign.biarrinetworks.com:8080
   ↳ http://redesign.biarrinetworks.com
-[DEDUP] https://mybuhler.buhlergroup.com represents 1 duplicates [301][433][301 Moved Permanently]:
-  ↳ https://xn--mybhler-p2a.buhlergroup.com
-[DEDUP] https://mve-st2.bpost.cloud represents 2 duplicates [200][180][]:
-  ↳ https://mve-ac2.bpost.cloud
-  ↳ https://mve-dv2.bpost.cloud
-[DEDUP] http://omni.bitvavo.com:8080 represents 1 duplicates [403][5836][Attention Required! | Cloudflare]:
-  ↳ https://omni.bitvavo.com
 [DEDUP] https://nero-st1.bpost.cloud represents 1 duplicates [200][3020][NeroAdminFrontend]:
   ↳ https://nero-ac1.bpost.cloud
-[DEDUP] https://networkingdays.buhlergroup.com represents 1 duplicates [301][220][Document Moved]:
-  ↳ https://networkingdays2022.buhlergroup.com
-[DEDUP] https://parcel2.bpost.be represents 1 duplicates [200][43387][]:
-  ↳ https://parcel.bpost.be
+[DEDUP] http://omni.bitvavo.com:8080 represents 1 duplicates [403][5837][Attention Required! | Cloudflare]:
+  ↳ https://omni.bitvavo.com
+[DEDUP] https://networkingdays2022.buhlergroup.com represents 1 duplicates [301][220][Document Moved]:
+  ↳ https://networkingdays.buhlergroup.com
 [DEDUP] https://npr-buz.buhlergroup.com represents 1 duplicates [303][123][]:
   ↳ https://sapcueconcept.buhlergroup.com
+[DEDUP] https://parcel.bpost.be represents 1 duplicates [200][43387][]:
+  ↳ https://parcel2.bpost.be
 [DEDUP] https://osp.bpost.be represents 1 duplicates [302][275][302 Found]:
   ↳ https://ospvalidation.bpost.be
-[DEDUP] https://parcellockers.bpost.be represents 2 duplicates [403][520][403 Forbidden]:
+[DEDUP] https://parcellocker-partner.bpost.be represents 2 duplicates [403][118][403 Forbidden]:
   ↳ https://pl.bpost.be
-  ↳ https://plterminal.bpost.be
-[DEDUP] https://peautomation.docs.alm.buhlergroup.com represents 1 duplicates [302][524][Document Moved]:
-  ↳ https://sandbox.docs.alm.buhlergroup.com
+  ↳ https://ppo.bpost.be
 [DEDUP] https://plcgcs.docs.alm.buhlergroup.com represents 1 duplicates [302][518][Document Moved]:
   ↳ https://schxip.docs.alm.buhlergroup.com
-[DEDUP] https://pmserviceportal-ds01.bpost.cloud represents 8 duplicates [200][29730][Points]:
-  ↳ https://pmserviceportal.bpost.cloud
+[DEDUP] https://peautomation.docs.alm.buhlergroup.com represents 1 duplicates [302][524][Document Moved]:
+  ↳ https://sandbox.docs.alm.buhlergroup.com
+[DEDUP] https://pmserviceportal.bpost.cloud represents 8 duplicates [200][29730][Points]:
   ↳ https://pmserviceportal-ac01.bpost.cloud
+  ↳ https://pmserviceportal-ds01.bpost.cloud
   ↳ https://points-ac01.bpost.cloud
-  ↳ https://points-mobi-ac01.bpost.cloud
   ↳ https://points-ds01.bpost.cloud
+  ↳ https://points.bpost.cloud
   ↳ https://points-mobi-ds01.bpost.cloud
   ↳ https://points-mobi.bpost.cloud
-  ↳ https://points.bpost.cloud
+  ↳ https://points-mobi-ac01.bpost.cloud
 [DEDUP] https://prm.bpost.cloud represents 1 duplicates [200][997][Product Management]:
   ↳ https://prm-st2.bpost.cloud
-[DEDUP] https://pudo-ac01.bpost.cloud represents 3 duplicates [200][1036][GeoLocator]:
-  ↳ https://pudo-st01.bpost.cloud
-  ↳ https://pudo-ac02.bpost.cloud
-  ↳ https://pudo.bpost.cloud
-[DEDUP] https://portal.prep.buhlergroup.io represents 4 duplicates [200][46827][Bühler Insights]:
+[DEDUP] https://portal.dev.buhlergroup.io represents 4 duplicates [200][46827][Bühler Insights]:
+  ↳ https://portal.prep.buhlergroup.io
   ↳ https://portal.systest.buhlergroup.io
-  ↳ https://portal.uat.buhlergroup.io
-  ↳ https://portal.dev.buhlergroup.io
   ↳ https://portal.buhlergroup.io
-[DEDUP] http://prospection.bpost.be represents 1 duplicates [404][0][]:
-  ↳ https://shippingmanager.bpost.be
+  ↳ https://portal.uat.buhlergroup.io
 [DEDUP] http://prometheus.buhler-datascience.ch represents 2 duplicates [301][162][301 Moved Permanently]:
   ↳ http://sentry.buhler-datascience.ch
   ↳ http://staging-librechat.buhler-datascience.ch
+[DEDUP] http://prospection.bpost.be represents 1 duplicates [404][0][]:
+  ↳ https://shippingmanager.bpost.be
+[DEDUP] https://pudo-ac01.bpost.cloud represents 3 duplicates [200][1036][GeoLocator]:
+  ↳ https://pudo-ac02.bpost.cloud
+  ↳ https://pudo-st01.bpost.cloud
+  ↳ https://pudo.bpost.cloud
 [DEDUP] https://registered.api-st2.bpost.cloud represents 1 duplicates [404][159][]:
   ↳ https://sen-st2.bpost.cloud
-[DEDUP] https://pricepilot-ac.bpost.cloud represents 2 duplicates [200][997796][PricePilot]:
-  ↳ https://pricepilot-demo.bpost.cloud
+[DEDUP] https://pricepilot-demo.bpost.cloud represents 2 duplicates [200][997796][PricePilot]:
+  ↳ https://pricepilot-ac.bpost.cloud
   ↳ https://pricepilot-dv.bpost.cloud
+[DEDUP] https://rqa-ac1.bpost.cloud represents 2 duplicates [200][880][ChatBot]:
+  ↳ https://rqa-st1.bpost.cloud
+  ↳ https://rqa.bpost.cloud
+[DEDUP] https://sandbox-sonar.alm.buhlergroup.com represents 1 duplicates [200][1698][SonarQube]:
+  ↳ https://sonar.alm.buhlergroup.com
 [DEDUP] https://sandbox-scrumpoker.alm.buhlergroup.com represents 2 duplicates [200][8068][Sign In]:
   ↳ https://sandbox-yopass.alm.buhlergroup.com
   ↳ https://scrumpoker.alm.buhlergroup.com
-[DEDUP] https://sandbox-sonar.alm.buhlergroup.com represents 1 duplicates [200][1698][SonarQube]:
-  ↳ https://sonar.alm.buhlergroup.com
-[DEDUP] https://rqa-ac1.bpost.cloud represents 2 duplicates [200][880][ChatBot]:
-  ↳ https://rqa.bpost.cloud
-  ↳ https://rqa-st1.bpost.cloud
 [DEDUP] https://sandbox-yaade.alm.buhlergroup.com represents 1 duplicates [200][496][Yaade]:
   ↳ https://yaade.alm.buhlergroup.com
 [DEDUP] https://schs.docs.alm.buhlergroup.com represents 1 duplicates [302][521][Document Moved]:
   ↳ https://storybook.alm.buhlergroup.com
-[DEDUP] https://sml-ac1-redirect.bpost.cloud represents 1 duplicates [200][42622][]:
-  ↳ https://sml-ac1.bpost.cloud
+[DEDUP] https://signforme-ac2.bpost.cloud represents 3 duplicates [200][762][Sign For Me]:
+  ↳ https://signforme-dv2.bpost.cloud
+  ↳ https://signforme.bpost.cloud
+  ↳ https://signforme-st2.bpost.cloud
+[DEDUP] https://sml-ac1.bpost.cloud represents 1 duplicates [200][42622][]:
+  ↳ https://sml-ac1-redirect.bpost.cloud
 [DEDUP] https://sml-ac2-redirect.bpost.cloud represents 3 duplicates [200][80364][]:
-  ↳ https://sml-ac2.bpost.cloud
   ↳ https://sml-dv2.bpost.cloud
   ↳ https://sml-st2.bpost.cloud
-[DEDUP] https://signforme.bpost.cloud represents 3 duplicates [200][762][Sign For Me]:
-  ↳ https://signforme-ac2.bpost.cloud
-  ↳ https://signforme-st2.bpost.cloud
-  ↳ https://signforme-dv2.bpost.cloud
+  ↳ https://sml-ac2.bpost.cloud
 [DEDUP] https://sonar-2.bpost.cloud represents 1 duplicates [200][1850][SonarQube]:
   ↳ https://sonar-ios.bpost.cloud
 [DEDUP] http://staging-act.buhlergroup.ai represents 1 duplicates [301][359][301 Moved Permanently]:
@@ -1616,53 +1621,51 @@
   ↳ http://staging-productguru.buhler-datascience.ch
 [DEDUP] https://staging.api.learn.bitvavo.com represents 1 duplicates [303][0][]:
   ↳ https://staging.learn.bitvavo.com
-[DEDUP] https://stg001-sso-osu.canadapost-postescanada.ca represents 7 duplicates [403][3187][Canada Post/Postes Canada – Service Unavailable/Service non disponible]:
-  ↳ https://stg003-sso-osu.canadapost-postescanada.ca
-  ↳ https://stg002-sso-osu.canadapost-postescanada.ca
+[DEDUP] https://stg003-sso-osu.canadapost-postescanada.ca represents 7 duplicates [403][3187][Canada Post/Postes Canada – Service Unavailable/Service non disponible]:
   ↳ https://stg004-sso-osu.canadapost-postescanada.ca
   ↳ https://stg10.canadapost-postescanada.ca
-  ↳ https://stg12.canadapost-postescanada.ca
+  ↳ https://stg001-sso-osu.canadapost-postescanada.ca
+  ↳ https://stg002-sso-osu.canadapost-postescanada.ca
   ↳ https://stg13.canadapost-postescanada.ca
+  ↳ https://stg12.canadapost-postescanada.ca
   ↳ https://stg14.canadapost-postescanada.ca
-[DEDUP] https://stg10.forums.canadapost-postescanada.ca represents 1 duplicates [200][547][JForum - Java Discussion Board]:
-  ↳ https://stg11.forums.canadapost-postescanada.ca
 [DEDUP] https://stg10-maps-cartes.canadapost-postescanada.ca represents 4 duplicates [200][251][]:
   ↳ https://stg11-maps-cartes.canadapost-postescanada.ca
   ↳ https://stg12-maps-cartes.canadapost-postescanada.ca
-  ↳ https://stg13-maps-cartes.canadapost-postescanada.ca
   ↳ https://stg14-maps-cartes.canadapost-postescanada.ca
+  ↳ https://stg13-maps-cartes.canadapost-postescanada.ca
+[DEDUP] https://stg10.forums.canadapost-postescanada.ca represents 1 duplicates [200][547][JForum - Java Discussion Board]:
+  ↳ https://stg11.forums.canadapost-postescanada.ca
 [DEDUP] https://stg12.forums.canadapost-postescanada.ca represents 1 duplicates [200][11270][]:
   ↳ https://stg13.forums.canadapost-postescanada.ca
-[DEDUP] https://streetnetting-ds.bpost.cloud represents 2 duplicates [200][9802][Street Netting App]:
-  ↳ https://streetnetting-ac.bpost.cloud
+[DEDUP] https://streetnetting-ac.bpost.cloud represents 2 duplicates [200][9802][Street Netting App]:
   ↳ https://streetnetting.bpost.cloud
+  ↳ https://streetnetting-ds.bpost.cloud
 [DEDUP] https://sum-pr.bpost.cloud represents 2 duplicates [302][110][302 Found]:
-  ↳ https://sustainability-np.bpost.cloud
   ↳ https://sustainability.bpost.cloud
-[DEDUP] https://sut-tab-dv.bpost.cloud represents 3 duplicates [200][626][SubcoTab]:
-  ↳ https://sut-tab-st.bpost.cloud
-  ↳ https://sut-tab-ac.bpost.cloud
+  ↳ https://sustainability-np.bpost.cloud
+[DEDUP] https://sut-tab-ac.bpost.cloud represents 3 duplicates [200][626][SubcoTab]:
+  ↳ https://sut-tab-dv.bpost.cloud
   ↳ https://sut-tab.bpost.cloud
-[DEDUP] https://test06.cdcautoproctestpcss.azure.buhlergroup.com represents 1 duplicates [404][581][404 Not Found]:
-  ↳ https://test02.cdcautoproctestpcss.azure.buhlergroup.com
+  ↳ https://sut-tab-st.bpost.cloud
+[DEDUP] https://test01.cdcautoproctestpcss.azure.buhlergroup.com represents 1 duplicates [404][581][404 Not Found]:
+  ↳ https://test06.cdcautoproctestpcss.azure.buhlergroup.com
 [DEDUP] https://testapi2.bpost.be represents 1 duplicates [403][87][]:
   ↳ https://turnhouttest.bpost.be
 [DEDUP] https://track-ac1.bpost.cloud represents 1 duplicates [200][2009][Track your shipment]:
   ↳ https://track-st2.bpost.cloud
-[DEDUP] https://track.bpost.cloud represents 1 duplicates [200][4558][Track your shipment]:
-  ↳ https://track-dv2.bpost.cloud
-[DEDUP] https://ux.est-oee.canadapost-postescanada.ca represents 1 duplicates [200][510][]:
-  ↳ https://ux.forums.canadapost-postescanada.ca
-[DEDUP] http://whoami.citymesh.guide:8443 represents 1 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
-  ↳ http://wildcard.citymesh.guide:8443
+[DEDUP] https://track-dv2.bpost.cloud represents 1 duplicates [200][4558][Track your shipment]:
+  ↳ https://track.bpost.cloud
+[DEDUP] https://ux.forums.canadapost-postescanada.ca represents 1 duplicates [200][510][]:
+  ↳ https://ux.est-oee.canadapost-postescanada.ca
 [DEDUP] http://whoami.citymesh.guide:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
   ↳ http://wildcard.citymesh.guide:8080
-[DEDUP] https://wle.bpost.cloud represents 2 duplicates [200][2016][TrackingItem]:
-  ↳ https://wle-dv2.bpost.cloud
-  ↳ https://wle-ac2.bpost.cloud
 [DEDUP] https://webservices-ctrl-ma.bpost.be represents 1 duplicates [400][263][400 No required SSL certificate was sent]:
   ↳ https://webservices.bpost.be
-[DEDUP] http://www.citymesh.net:8080 represents 1 duplicates [302][496][302 Found]:
-  ↳ https://www.citymesh.net
+[DEDUP] https://wle.bpost.cloud represents 2 duplicates [200][2016][TrackingItem]:
+  ↳ https://wle-ac2.bpost.cloud
+  ↳ https://wle-dv2.bpost.cloud
+[DEDUP] https://www.citymesh.net represents 1 duplicates [302][496][302 Found]:
+  ↳ http://www.citymesh.net:8080
 [DEDUP] https://xb-ai-ivm-st01.bpost.cloud represents 1 duplicates [200][1749][Invoice Monitoring AI]:
   ↳ https://xb-ai-ivm-ac01.bpost.cloud

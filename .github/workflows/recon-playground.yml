@@ -1,0 +1,253 @@
+name: Smart Recon — Unified Enumeration & Central Baseline
+
+on:
+  schedule:
+    - cron: '0 1 */4 * *'   # Every 4 days at 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recon-incremental
+  cancel-in-progress: true
+
+jobs:
+  recon:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      CHAOS_KEY: ${{ secrets.CHAOS_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y libpcap-dev jq python3-pip
+          pip3 install tldextract
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21.x'
+
+      - name: Install ProjectDiscovery tools + anew
+        run: |
+          go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          go install -v github.com/projectdiscovery/chaos-client/cmd/chaos@latest
+          go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
+          go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+          go install -v github.com/projectdiscovery/tlsx/cmd/tlsx@latest
+          go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+          go install -v github.com/tomnomnom/anew@latest
+          go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+          nuclei -update-templates
+
+      # === الخطوة المعدلة: تحضير الفولدر والملف المركزي ===
+      - name: Prepare directories and baseline
+        run: |
+          export DATE_DIR=$(date +'%Y-%m-%d')
+          echo "DATE_DIR=$DATE_DIR" >> $GITHUB_ENV
+          mkdir -p $DATE_DIR
+          echo "Today's results will be saved in: $DATE_DIR"
+          # بنضمن إن ملف الـ baseline موجود (لو لأ، بنعمله فاضي)
+          touch subs.txt
+
+      # === الخطوة الأولى: استكشاف موحد لكل النطاقات (إصدار متين) ===
+      - name: Unified Subdomain Enumeration (Ultra-Resilient)
+        run: |
+          set -e
+          set -x
+          
+          echo "[+] Starting unified subdomain enumeration..."
+          
+          # 1. subfinder
+          echo "[+] Running subfinder in parallel..."
+          cat roots.txt | xargs -P 10 -I {} subfinder -d {} -silent > subfinder_output.txt
+          echo "[+] Subfinder finished."
+          
+          # 2. chaos
+          echo "[+] Running chaos..."
+          if [ -n "${CHAOS_KEY}" ]; then
+            cat roots.txt | chaos -key "${CHAOS_KEY}" -silent > chaos_output.txt
+            echo "[+] Chaos finished."
+          else
+            echo "[-] CHAOS_KEY not set, skipping."
+            touch chaos_output.txt
+          fi
+          
+          # 3. crt.sh (مع حماية كاملة من الأخطاء)
+          echo "[+] Running crt.sh..."
+          touch crtsh_output.txt
+          set +e 
+          while IFS= read -r domain; do
+            echo "  - Querying crt.sh for $domain"
+            JSON_RESPONSE=$(curl -s --connect-timeout 10 "https://crt.sh/json?q=${domain}")
+            
+            if [[ "$JSON_RESPONSE" == [* ]]; then
+              if echo "$JSON_RESPONSE" | jq -r '.[] | .common_name, (.name_value | split("\n")[] )' | sed 's/\*\.//g' | sort -u | grep -Ff roots.txt >> crtsh_output.txt; then
+                echo "  - Successfully processed $domain."
+              else
+                echo "  - [!] Failed to process JSON for $domain. Skipping."
+              fi
+            else
+              echo "  - [!] crt.sh returned an error or no data for $domain. Skipping."
+            fi
+            sleep 2
+          done < roots.txt
+          set -e
+          echo "[+] crt.sh finished."
+          
+          # 4. tlsx
+          echo "[+] Running tlsx on port 443 for discovered subdomains..."
+          cat subfinder_output.txt chaos_output.txt crtsh_output.txt | sort -u > temp_initial_subs.txt
+          tlsx -l temp_initial_subs.txt -silent -san -cn -c 1000 -resp-only | grep -Ff roots.txt | sort -u > tlsx_output.txt
+          echo "[+] tlsx finished."
+          
+          # 5. دمج كل المصادر
+          echo "[+] Merging all enumeration sources..."
+          # إنشاء نمط Regex من roots.txt للبحث عن النطاقات التي تنتهي به
+          PATTERN=$(sed 's/\./\\./g; s/^/.*\\./; s/$/$/' roots.txt | tr '\n' '|' | sed 's/|$//')
+          
+          # استخدام النمط لفلترة النتائج، مع التعامل مع حالة ملف roots.txt الفارغ
+          if [ -n "$PATTERN" ]; then
+            cat subfinder_output.txt chaos_output.txt crtsh_output.txt tlsx_output.txt | sort -u |grep -v '^\*\.'| grep -E "$PATTERN" > all_found_subdomains.txt
+          else
+            echo "[-] roots.txt is empty, no subdomains will be matched."
+            touch all_found_subdomains.txt
+          fi
+
+          echo "Total unique subdomains found from all sources: $(wc -l < all_found_subdomains.txt)"
+
+      # === الخطوة الثانية: فلترة النتائج الجديدة باستخدام الملف المركزي ===
+      - name: Filter for new subdomains
+        run: |
+          echo "[+] Filtering for new subdomains against subs.txt..."
+          # anew هتعامل مع حالتين: لو الملف فاضي أو لو فيه بيانات
+          cat all_found_subdomains.txt | anew subs.txt > ${{ env.DATE_DIR }}/new_subdomains.txt
+          echo "Found $(wc -l < ${{ env.DATE_DIR }}/new_subdomains.txt) new subdomains to scan today."
+
+      # === الخطوة الثالثة: فحص المنافذ والثغرات على الجديد فقط ===
+      - name: Scan new subdomains for open ports
+        run: |
+          if [ -s "${{ env.DATE_DIR }}/new_subdomains.txt" ] && [ "$(wc -l < "${{ env.DATE_DIR }}/new_subdomains.txt")" -lt 20000 ]; then
+            echo "[+] Scanning only new subdomains for open ports..."
+            naabu -l ${{ env.DATE_DIR }}/new_subdomains.txt -p 80,443,8443,8080,8000,4443,7443,9443,10443,1443 -silent | awk -F: '{dom=$1;port=$2; has443[dom]+= (port==443); lines[dom]=(lines[dom]?lines[dom]RS:"")$0} END{for(d in lines){split(lines[d],L,RS); for(i in L) if(!(has443[d] && L[i] ~ /:80$/)) print L[i]}}' | sort -u > ${{ env.DATE_DIR }}/new_ports.txt
+            echo "Found $(wc -l < ${{ env.DATE_DIR }}/new_ports.txt) new open ports."
+          else
+            echo "[-] No new subdomains to scan for ports or more than 20k."
+            touch ${{ env.DATE_DIR }}/new_ports.txt
+          fi
+
+      # === خطوة إضافية: فلترة وتكرار المنافذ والمواقع المتطابقة ===
+      - name: Deduplicate open ports with host_dedup
+        run: |
+          if [ -s "${{ env.DATE_DIR }}/new_ports.txt" ]; then
+            echo "[+] Probing open ports and deduplicating hosts..."
+            cat ${{ env.DATE_DIR }}/new_ports.txt | httpx -sc -cl -title -nc -silent | python3 host_dedup.py > ${{ env.DATE_DIR }}/unique_httpx.txt 2> ${{ env.DATE_DIR }}/dedup_groups.txt || true
+            
+            if [ -s "${{ env.DATE_DIR }}/unique_httpx.txt" ]; then
+              cat ${{ env.DATE_DIR }}/unique_httpx.txt | cut -d " " -f 1 | sort -u -o ${{ env.DATE_DIR }}/new_ports_dedup.txt
+            else
+              echo "[!] Deduplication yielded no output, falling back to original ports with schema prepended."
+              awk '{print "http://" $0 "\nhttps://" $0}' ${{ env.DATE_DIR }}/new_ports.txt | sort -u > ${{ env.DATE_DIR }}/new_ports_dedup.txt
+            fi
+          else
+            echo "[-] No open ports to deduplicate."
+            touch ${{ env.DATE_DIR }}/new_ports_dedup.txt
+          fi
+          echo "Deduplicated to $(wc -l < ${{ env.DATE_DIR }}/new_ports_dedup.txt) unique hosts for scanning."
+
+      # === الخطوة الرابعة: فحص الثغرات بالشدة المطلوبة (مع شرط التخطي) ===
+      - name: Run nuclei (Optimized & Resilient - Medium+ Severity)
+        if: hashFiles('${{ env.DATE_DIR }}/new_ports_dedup.txt') != ''
+        run: |
+          HOSTS_COUNT=$(wc -l < ${{ env.DATE_DIR }}/new_ports_dedup.txt)
+          echo "[+] Found ${HOSTS_COUNT} unique hosts to scan with nuclei."
+          
+          # التحقق من عدد الأهداف
+          if [ "${HOSTS_COUNT}" -le 100 ]; then
+            echo "[+] Host count is within limit. Starting nuclei scan..."
+            nuclei -l ${{ env.DATE_DIR }}/new_ports_dedup.txt -c 200 -timeout 3 -retries 1 -s critical,high,medium -stats -o ${{ env.DATE_DIR }}/nuclei.log
+            echo "[+] Nuclei scan finished."
+          else
+            echo "[-] Host count (${HOSTS_COUNT}) exceeds the limit of 100. Skipping nuclei scan to save time and resources."
+            # إنشاء ملف nuclei.log فارغ لتجنب الأخطاء في الخطوات التالية
+            touch ${{ env.DATE_DIR }}/nuclei.log
+            # إنشاء ملف علامة لإعلام خطوة الديسكورد بالتخطي
+            touch ${{ env.DATE_DIR }}/nuclei_skipped.txt
+          fi
+          
+      # === الخطوة الأخيرة: تحديث الملف المركزي والإبلاغ (مع حل مشكلة الـ push) ===
+      - name: Update baseline and commit results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add ${{ env.DATE_DIR }}/ subs.txt
+          
+          if ! git diff --staged --quiet; then
+            # === التعديل الرئيسي هنا ===
+            # 1. اعمل commit للتغييرات الموجودة في الـ staging
+            echo "[+] Committing new results..."
+            git commit -m "Auto-update: Add recon results for ${{ env.DATE_DIR }}"
+            
+            # 2. اسحب التغييرات الجديدة واعمل rebase لتغييراتك فوقها
+            echo "[+] Pulling latest changes from remote..."
+            git pull --rebase origin main
+            
+            # 3. ارفع كل التغييرات (commitك الجديد + أي تحديثات جت من الريمو)
+            echo "[+] Pushing results to remote..."
+            git push origin main
+          else
+            echo "No new results to commit for ${{ env.DATE_DIR }}."
+          fi
+
+      - name: Build Discord payload and send (with file attachment)
+        if: always()
+        run: |
+          NEW_SUBDOMAINS_COUNT=$(wc -l < ${{ env.DATE_DIR }}/new_subdomains.txt 2>/dev/null || echo 0)
+          NEW_PORTS_COUNT=$(wc -l < ${{ env.DATE_DIR }}/new_ports.txt 2>/dev/null || echo 0)
+          DEDUP_PORTS_COUNT=$(wc -l < ${{ env.DATE_DIR }}/new_ports_dedup.txt 2>/dev/null || echo 0)
+          
+          # التحقق إذا كان فحص nuclei قد تم تخطيه
+          if [ -f "${{ env.DATE_DIR }}/nuclei_skipped.txt" ]; then
+            NUCLEI_LINES=0
+            PREVIEW="Nuclei scan was skipped due to too many targets."
+          else
+            if [ -f ${{ env.DATE_DIR }}/nuclei.log ]; then
+              NUCLEI_LINES=$(wc -l < ${{ env.DATE_DIR }}/nuclei.log || echo 0)
+              PREVIEW=$(head -n 20 ${{ env.DATE_DIR }}/nuclei.log || true)
+            else
+              NUCLEI_LINES=0
+              PREVIEW="No new vulnerabilities found on new services."
+            fi
+          fi
+          
+          if [ -z "${DISCORD_WEBHOOK}" ]; then
+            echo "DISCORD_WEBHOOK not set, skipping Discord notify."
+            exit 0
+          fi
+
+          # === التعديل الرئيسي: بناء ملف JSON للرسالة ===
+          cat <<EOF > payload.json
+          {
+            "content": "**Daily Smart Recon finished for macahern **\n• New Subdomains: ${NEW_SUBDOMAINS_COUNT}\n• New open Ports (Raw): ${NEW_PORTS_COUNT}\n• Unique HTTP/S Hosts (Deduplicated): ${DEDUP_PORTS_COUNT}\n• New Vulnerabilities Found: ${NUCLEI_LINES}\n\nNuclei findings (preview):\n\`\`\`\n${PREVIEW}\n\`\`\`"
+          }
+          EOF
+
+          # التحقق من وجود ملف المنافذ وإرساله كملف مرفق
+          if [ -s "${{ env.DATE_DIR }}/new_ports_dedup.txt" ]; then
+            echo "[+] Sending Discord message with deduplicated ports file attachment..."
+            curl -s -F 'payload_json=<payload.json' -F "file1=@${{ env.DATE_DIR }}/new_ports_dedup.txt" "${DISCORD_WEBHOOK}" || true
+          elif [ -s "${{ env.DATE_DIR }}/new_ports.txt" ]; then
+            echo "[+] Sending Discord message with raw ports file attachment..."
+            curl -s -F 'payload_json=<payload.json' -F "file1=@${{ env.DATE_DIR }}/new_ports.txt" "${DISCORD_WEBHOOK}" || true
+          else
+            echo "[+] Sending Discord message without file attachment (no new ports found)."
+            curl -s -H "Content-Type: application/json" -d @payload.json "${DISCORD_WEBHOOK}" || true
+          fi

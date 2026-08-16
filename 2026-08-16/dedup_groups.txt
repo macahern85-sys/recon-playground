@@ -1,7 +1,76 @@
-[DEDUP] https://internal-buick-uat.aecloud.io represents 4 duplicates [403][1484][Service unavailable]:
-  ↳ https://internal-chevrolet-stage-beta.aecloud.io
-  ↳ https://hermes-cd.aecloud.io
-  ↳ https://internal-cadillac-dev-beta.aecloud.io
-  ↳ http://internal-studio.aecloud.io
-[DEDUP] https://preprod-gm.aecloud.io represents 1 duplicates [404][548][404 Not Found]:
-  ↳ https://aeceu-preprod.aecloud.io
+[DEDUP] http://customer-list-tt.azcpggpc.ca represents 19 duplicates [404][581][404 Not Found]:
+  ↳ http://dev-notificationorch-tt.azcpggpc.ca
+  ↳ http://dev-prometheus-tt.azcpggpc.ca
+  ↳ http://dev-notificationsubscription-tt.azcpggpc.ca
+  ↳ http://dev-reference-data-api-tt.azcpggpc.ca
+  ↳ http://qa-delivery-options-and-preferences-tt.azcpggpc.ca
+  ↳ http://dev-search-api-tt.azcpggpc.ca
+  ↳ http://dev-alertmanager-tt.azcpggpc.ca
+  ↳ http://dev-subscriptiongateway-tt.azcpggpc.ca
+  ↳ https://geo-npd.azcpggpc.ca
+  ↳ http://stg-alertmanager-tt.azcpggpc.ca
+  ↳ http://stg-search-api-tt.azcpggpc.ca
+  ↳ http://stg-nearestexchangeoffice-tt.azcpggpc.ca
+  ↳ http://stg-admin-tt.azcpggpc.ca
+  ↳ http://stg-prometheus-tt.azcpggpc.ca
+  ↳ http://stg-notificationsubscription-tt.azcpggpc.ca
+  ↳ http://stg-search-tt.azcpggpc.ca
+  ↳ http://stg02-alertmanager-tt.azcpggpc.ca
+  ↳ http://stg02-search-tt.azcpggpc.ca
+  ↳ http://stg02-subscriptiongateway-tt.azcpggpc.ca
+[DEDUP] http://dev-kibana-logging-tt.azcpggpc.ca represents 38 duplicates [404][179][404 Not Found]:
+  ↳ http://qa-notificationsubscription-tt.azcpggpc.ca
+  ↳ http://delivery-options-and-preferences-tt.azcpggpc.ca
+  ↳ http://dev-delivery-options-and-preferences-tt.azcpggpc.ca
+  ↳ http://nexus-tt.azcpggpc.ca
+  ↳ http://qa-reference-data-api-tt.azcpggpc.ca
+  ↳ http://dev-estimated-parcel-delivery-date-tt.azcpggpc.ca
+  ↳ http://dev-grafana-monitoring-tt.azcpggpc.ca
+  ↳ http://dev-notificationgateway-tt.azcpggpc.ca
+  ↳ http://dev-admin-tt.azcpggpc.ca
+  ↳ http://search-api-tt.azcpggpc.ca
+  ↳ http://dev-search-tt.azcpggpc.ca
+  ↳ http://prd-alertmanager-tt.azcpggpc.ca
+  ↳ http://dev-customer-list-tt.azcpggpc.ca
+  ↳ http://dev-nearestexchangeoffice-tt.azcpggpc.ca
+  ↳ http://search-tt.azcpggpc.ca
+  ↳ http://stg-delivery-options-and-preferences-tt.azcpggpc.ca
+  ↳ http://stg-reference-data-api-tt.azcpggpc.ca
+  ↳ http://stg-grafana-monitoring-tt.azcpggpc.ca
+  ↳ http://stg-notificationorch-tt.azcpggpc.ca
+  ↳ http://stg-kibana-logging-tt.azcpggpc.ca
+  ↳ http://stg-customer-list-tt.azcpggpc.ca
+  ↳ http://stg-subscriptiongateway-tt.azcpggpc.ca
+  ↳ http://stg-notificationgateway-tt.azcpggpc.ca
+  ↳ http://stg-estimated-parcel-delivery-date-tt.azcpggpc.ca
+  ↳ http://stg02-admin-tt.azcpggpc.ca
+  ↳ http://stg02-customer-list-tt.azcpggpc.ca
+  ↳ http://stg02-delivery-options-and-preferences-tt.azcpggpc.ca
+  ↳ http://stg02-estimated-parcel-delivery-date-tt.azcpggpc.ca
+  ↳ http://stg02-nearestexchangeoffice-tt.azcpggpc.ca
+  ↳ http://stg02-prometheus-tt.azcpggpc.ca
+  ↳ http://stg02-notificationorch-tt.azcpggpc.ca
+  ↳ http://subscriptiongateway-tt.azcpggpc.ca
+  ↳ http://stg02-reference-data-api-tt.azcpggpc.ca
+  ↳ http://stg02-notificationgateway-tt.azcpggpc.ca
+  ↳ http://stg02-grafana-monitoring-tt.azcpggpc.ca
+  ↳ http://stg02-kibana-logging-tt.azcpggpc.ca
+  ↳ http://stg02-notificationsubscription-tt.azcpggpc.ca
+  ↳ http://stg02-search-api-tt.azcpggpc.ca
+[DEDUP] http://dev-argocd-tt.azcpggpc.ca represents 7 duplicates [301][195][301 Moved Permanently]:
+  ↳ http://dev-signature-management-api-tt.azcpggpc.ca
+  ↳ http://qa-signature-management-api-tt.azcpggpc.ca
+  ↳ http://signature-management-api-tt.azcpggpc.ca
+  ↳ http://stg-argocd-tt.azcpggpc.ca
+  ↳ http://stg-signature-management-api-tt.azcpggpc.ca
+  ↳ http://stg02-argocd-tt.azcpggpc.ca
+  ↳ http://stg02-signature-management-api-tt.azcpggpc.ca
+[DEDUP] https://cpc-account-id-svc.prd01.retail-api.azcpggpc.ca represents 1 duplicates [403][179][403 Forbidden]:
+  ↳ https://commercial-barcode-svc.prd01.retail-api.azcpggpc.ca
+[DEDUP] http://stg-tosca.azcpggpc.ca:8443 represents 1 duplicates [400][281][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://tosca.azcpggpc.ca:8443
+[DEDUP] https://commercial-verification-svc.prd01.retail-api.azcpggpc.ca represents 2 duplicates [403][581][403 Forbidden]:
+  ↳ https://sessionsvc.prd01.retail-cs.azcpggpc.ca
+  ↳ https://shipping-svc.prd01.retail-api.azcpggpc.ca
+[DEDUP] https://career.axelspringer.com represents 1 duplicates [307][0][]:
+  ↳ https://career.inside.axelspringer.com

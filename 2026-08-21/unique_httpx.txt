@@ -1,0 +1,4 @@
+https://setcenter.buhlertest.ch [303] [284] [303 See Other]
+https://d-aml-customer-screening-api.enterprise.storebrand.no [404] [179] [404 Not Found]
+https://apps.gamma.cep.coca-cola.com [200] [769] [Connectivity Test]
+https://select.dhl.com [404] [0]

@@ -1,0 +1,5 @@
+a-aml-customer-screening-api.enterprise.storebrand.no:443
+apps.gamma.cep.coca-cola.com:443
+d-aml-customer-screening-api.enterprise.storebrand.no:443
+select.dhl.com:443
+setcenter.buhlertest.ch:443

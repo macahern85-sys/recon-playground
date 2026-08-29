@@ -1,0 +1,292 @@
+[DEDUP] https://gcp.cid.gamma.emea.gcds.coke.com represents 2 duplicates [301][0][]:
+  ↳ http://ingestion-gcp.prospect.gamma.global.gcds.coke.com
+  ↳ http://services-gcp.prospect.alpha.global.gcds.coke.com
+[DEDUP] https://geigy-hagenbach.ub.unibas.ch represents 8 duplicates [307][0][]:
+  ↳ https://halbwahrheiten.philhist.unibas.ch
+  ↳ https://iberoromanistik.philhist.unibas.ch
+  ↳ https://interreligio.theologie.unibas.ch
+  ↳ https://hofmannlab.physik.unibas.ch
+  ↳ https://italianistik.philhist.unibas.ch
+  ↳ https://kulturmanagement.philhist.unibas.ch
+  ↳ https://wbk-theologie-religion.weiterbildung.unibas.ch
+  ↳ https://wbk-kraft-kids.dsbg.unibas.ch
+[DEDUP] https://ew-stage.lho.philhist.unibas.ch represents 3 duplicates [403][146][403 Forbidden]:
+  ↳ https://ew-stage.saek2019.philhist.unibas.ch
+  ↳ https://ew-stage.daz-v.psychologie.unibas.ch
+  ↳ https://ew-stage.pssp.dsbg.unibas.ch
+[DEDUP] https://ew-stage.genderstudies.philhist.unibas.ch represents 2 duplicates [403][548][403 Forbidden]:
+  ↳ https://ew-stage.dslw.philhist.unibas.ch
+  ↳ https://ew-stage.phc.weiterbildung.unibas.ch
+[DEDUP] https://ingestion-gcp.prospect.beta.global.gcds.coke.com represents 4 duplicates [404][18][]:
+  ↳ https://internal-gcp.gamma.apac.gcds.coke.com
+  ↳ https://enrichment-gcp.gamma.naou.gcds.coke.com
+  ↳ https://internal-gcp.alpha.global.gcds.coke.com
+  ↳ https://internal-gcp.gamma.naou.gcds.coke.com
+[DEDUP] https://keycloak.keycloak-system-test.k8s.ub.unibas.ch represents 5 duplicates [302][0][]:
+  ↳ https://keycloak.keycloak-system.k8s.ub.unibas.ch
+  ↳ https://login.psychologie.unibas.ch
+  ↳ https://labkey-collab.scicore.unibas.ch
+  ↳ https://support.scicore.unibas.ch
+  ↳ https://tales.nmc.unibas.ch
+[DEDUP] https://fp-dmz-limey.psycho.unibas.ch represents 4 duplicates [301][162][301 Moved Permanently]:
+  ↳ https://kpps.psychologie.unibas.ch
+  ↳ http://www.functional-kinetics.weiterbildung.unibas.ch
+  ↳ http://www.shapemodelling.dmi.unibas.ch
+  ↳ http://www.spotnat.nursing.unibas.ch
+[DEDUP] https://keycloak.teams.psychologie.unibas.ch represents 1 duplicates [404][548][404 Not Found]:
+  ↳ https://survey-1.psychologie.unibas.ch
+[DEDUP] https://fpdev.medizin.unibas.ch represents 1 duplicates [200][8875][UNIverse]:
+  ↳ https://universe-od6.medizin.unibas.ch
+[DEDUP] http://mail.assets-api.twoja.zabka.pl:8080 represents 16 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://mail.dev.sap.zabka.pl:8080
+  ↳ http://mail.assets-api.intranet-test.zabka.pl
+  ↳ http://mail.tst.app-sap.zabka.pl:8080
+  ↳ http://mail.tst.sap.zabka.pl:8080
+  ↳ http://www.assets-api.twoja.zabka.pl:8080
+  ↳ https://www.assets-api.twoja.zabka.pl
+  ↳ http://www.acit.zabka.pl:8080
+  ↳ https://www.acit.zabka.pl
+  ↳ http://www.assets-api.intranet-test.zabka.pl:8080
+  ↳ https://www.assets-api.intranet-test.zabka.pl
+  ↳ http://www.dev.app-sap.zabka.pl:8080
+  ↳ https://www.dev.app-sap.zabka.pl
+  ↳ http://www.botko.zabka.pl
+  ↳ https://www.botko.zabka.pl:8443
+  ↳ http://www.pytania.zabka.pl
+  ↳ https://www.pytania.zabka.pl:8443
+[DEDUP] http://mail.assets-api.twoja.zabka.pl:8443 represents 4 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://mail.dev.sap.zabka.pl:8443
+  ↳ http://mail.tst.app-sap.zabka.pl:8443
+  ↳ http://www.assets-api.twoja.zabka.pl:8443
+  ↳ http://www.assets-api.intranet-test.zabka.pl:8443
+[DEDUP] https://dav.vals-asla2018.philhist.unibas.ch represents 4 duplicates [403][199][403 Forbidden]:
+  ↳ https://werkzeugkasten.dg.philhist.unibas.ch
+  ↳ https://www.kulturtechniken-glossar.philhist.unibas.ch
+  ↳ https://www.redirects.psycho.unibas.ch
+  ↳ https://www.stadtspazierklang.philhist.unibas.ch
+[DEDUP] https://kultop.philhist.unibas.ch represents 1 duplicates [200][42396][Home | Kulturelle Topographien | Universität Basel]:
+  ↳ https://www.kultop.philhist.unibas.ch
+[DEDUP] https://mail.bildungsgeschichte.ub.k8s-001.unibas.ch represents 16 duplicates [404][0][]:
+  ↳ https://mail.memobase-test.ub.k8s-001.unibas.ch
+  ↳ https://mail.puzzles.ub.unibas.ch
+  ↳ https://mail.swisscollections.ub.k8s-001.unibas.ch
+  ↳ https://mail.memobase-stage.ub.k8s-001.unibas.ch
+  ↳ https://mail.memobase-prod.ub.k8s-001.unibas.ch
+  ↳ https://mail.ub-dd-prod.ub.k8s-001.unibas.ch
+  ↳ https://mail.ub-dlza-prod.ub.k8s-001.unibas.ch
+  ↳ https://mail.ub-digitale-dienste.ub.k8s-001.unibas.ch
+  ↳ https://www.memobase-stage.ub.k8s-001.unibas.ch
+  ↳ https://www.memobase-prod.ub.k8s-001.unibas.ch
+  ↳ https://www.puzzles.ub.unibas.ch
+  ↳ https://www.ub-mediaserver-prod.ub.k8s-001.unibas.ch
+  ↳ https://www.swisscollections.ub.k8s-001.unibas.ch
+  ↳ https://www.ub-dlza-test.ub.k8s-001.unibas.ch
+  ↳ https://www.ub-rdv2-test.ub.k8s-001.unibas.ch
+  ↳ https://www.ub-mediaserver-test.ub.k8s-001.unibas.ch
+[DEDUP] http://mail.ctmsh.co:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://mail.ctmsh.co
+[DEDUP] http://mail.eu-central-1.internal.bitvavo.com:8443 represents 5 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://mail.preprod.bitvavo.com:8443
+  ↳ http://www.eu-central-1.bitvavo.com:8443
+  ↳ http://www.eu-central-1.internal.bitvavo.com:8443
+  ↳ http://www.r2.bitvavo.com:8443
+  ↳ http://www.r2.internal.bitvavo.com:8443
+[DEDUP] http://mail.eu-central-1.internal.bitvavo.com:8080 represents 7 duplicates [301][520][301 Moved Permanently]:
+  ↳ http://mail.monitoring.bitvavo.com:8080
+  ↳ http://mail.eu-central-1.bitvavo.com:8080
+  ↳ http://mail.r2.bitvavo.com:8080
+  ↳ http://www.eu-central-1.bitvavo.com:8080
+  ↳ http://www.eu-central-1.internal.bitvavo.com:8080
+  ↳ http://www.r2.bitvavo.com:8080
+  ↳ http://www.r2.internal.bitvavo.com:8080
+[DEDUP] https://mail.eu-central-1.internal.bitvavo.com represents 2 duplicates [403][17][]:
+  ↳ https://www.eu-central-1.internal.bitvavo.com
+  ↳ https://www.r2.internal.bitvavo.com
+[DEDUP] https://klassarch.philhist.unibas.ch represents 2 duplicates [302][227][302 Found]:
+  ↳ https://www.bobath.weiterbildung.unibas.ch
+  ↳ https://www.klassarch.philhist.unibas.ch
+[DEDUP] https://mail.fos-dev.wartsila.com represents 3 duplicates [404][64][]:
+  ↳ https://mail.fos-preprod.wartsila.com
+  ↳ https://www.fos-demo.wartsila.com
+  ↳ https://www.fos-preprod.wartsila.com
+[DEDUP] https://mail.dev.sap.zabka.pl represents 2 duplicates [404][73][]:
+  ↳ https://mail.app-sap.zabka.pl
+  ↳ https://mail.tst.sap.zabka.pl
+[DEDUP] http://mail.monitoring.bitvavo.com:8443 represents 2 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://mail.eu-central-1.bitvavo.com:8443
+  ↳ http://mail.r2.bitvavo.com:8443
+[DEDUP] https://mail.np.velox.storebrand.no represents 2 duplicates [404][15][]:
+  ↳ https://www.np.velox.storebrand.no
+  ↳ https://www.mgmt.velox.storebrand.no
+[DEDUP] https://mail.monitoring.bitvavo.com represents 4 duplicates [404][0][]:
+  ↳ https://mail.eu-central-1.bitvavo.com
+  ↳ https://mail.r2.bitvavo.com
+  ↳ https://www.eu-central-1.bitvavo.com
+  ↳ https://www.r2.bitvavo.com
+[DEDUP] http://jatos.psychologie.unibas.ch represents 1 duplicates [301][169][301 Moved Permanently]:
+  ↳ http://teams.psychologie.unibas.ch
+[DEDUP] https://mail.miniapps.dhl.com represents 2 duplicates [503][2503][]:
+  ↳ https://www.miniapps.dhl.com
+  ↳ https://www.miniapps-uat.dhl.com
+[DEDUP] https://mail.tests.new.digi-belgium.be represents 2 duplicates [401][172][401 Authorization Required]:
+  ↳ https://mail.tests.auth.digi-belgium.be
+  ↳ https://mail.tests.api.digi-belgium.be
+[DEDUP] http://mail.preprod.bitvavo.com:8080 represents 1 duplicates [403][5836][Attention Required! | Cloudflare]:
+  ↳ https://mail.preprod.bitvavo.com
+[DEDUP] http://ew-stage.greenreligion.theologie.unibas.ch represents 140 duplicates [301][0][]:
+  ↳ https://www.bibliomaiengasse.philhist.unibas.ch
+  ↳ https://www.beckett-media.philhist.unibas.ch
+  ↳ https://www.advantage.nursing.unibas.ch
+  ↳ https://www.d-scribes.philhist.unibas.ch
+  ↳ https://www.dg.philhist.unibas.ch
+  ↳ https://www.ecovillages.theologie.unibas.ch
+  ↳ https://www.cas-functional-movement-science.weiterbildung.unibas.ch
+  ↳ https://www.delley.chemie.unibas.ch
+  ↳ https://www.eco.duw.unibas.ch
+  ↳ https://www.dkmp.philhist.unibas.ch
+  ↳ http://www.anglo-genres-atlantic-futures.philhist.unibas.ch
+  ↳ https://www.englishinbasel.philhist.unibas.ch
+  ↳ https://www.epicentre.nursing.unibas.ch
+  ↳ https://www.daz-v.psychologie.unibas.ch
+  ↳ https://www.ew-stage.dslw.philhist.unibas.ch
+  ↳ https://www.ew-stage.d-scribes.philhist.unibas.ch
+  ↳ https://www.ew-stage.ancientclimate.philhist.unibas.ch
+  ↳ https://www.ew-stage.dhlab.philhist.unibas.ch
+  ↳ https://www.ew-stage.atom.physik.unibas.ch
+  ↳ https://www.ew-stage.colloqnum17.dmi.unibas.ch
+  ↳ https://www.ew-stage.astro.physik.unibas.ch
+  ↳ https://www.ew-stage.cranio-facial.weiterbildung.unibas.ch
+  ↳ https://www.ew-stage.complete.dsbg.unibas.ch
+  ↳ https://www.ew-stage.germanistik.philhist.unibas.ch
+  ↳ https://www.ew-stage.english.philhist.unibas.ch
+  ↳ https://www.ew-stage.iberoromanistik.philhist.unibas.ch
+  ↳ https://www.ew-stage.bibliomaiengasse.philhist.unibas.ch
+  ↳ https://www.ew-stage.daw.philhist.unibas.ch
+  ↳ https://www.ew-stage.easyweb-test08.its.unibas.ch
+  ↳ https://www.ew-stage.interreligio.theologie.unibas.ch
+  ↳ https://www.ew-stage.eikones.philhist.unibas.ch
+  ↳ https://www.ew-stage.geigy-hagenbach.ub.unibas.ch
+  ↳ https://www.ew-stage.dgw.philhist.unibas.ch
+  ↳ https://www.ew-stage.comphys.physik.unibas.ch
+  ↳ https://www.ew-stage.halbwahrheiten.philhist.unibas.ch
+  ↳ https://www.ew-stage.franzoesistik.philhist.unibas.ch
+  ↳ https://www.ew-stage.energieimalltag.philhist.unibas.ch
+  ↳ https://www.ew-stage.dg.philhist.unibas.ch
+  ↳ https://www.ew-stage.italianistik.philhist.unibas.ch
+  ↳ https://www.ew-stage.ethnologie.philhist.unibas.ch
+  ↳ https://www.ew-stage.francavilla.philhist.unibas.ch
+  ↳ http://www.easyweb-staging02.its.unibas.ch
+  ↳ https://www.ew-stage.greening-dynamics-of-religion.theologie.unibas.ch
+  ↳ https://www.ew-stage.greenreligion.theologie.unibas.ch
+  ↳ https://www.ew-stage.filmind.philhist.unibas.ch
+  ↳ https://www.ew-stage.musikwissenschaft.philhist.unibas.ch
+  ↳ https://www.ew-stage.hofmannlab.physik.unibas.ch
+  ↳ https://www.ew-stage.omls.dmi.unibas.ch
+  ↳ https://www.ew-stage.molq.physik.unibas.ch
+  ↳ https://www.ew-stage.mappingthescriptures.philhist.unibas.ch
+  ↳ https://www.ew-stage.kulturmanagement.philhist.unibas.ch
+  ↳ https://www.ew-stage.lho.philhist.unibas.ch
+  ↳ https://www.ew-stage.nahoststudien.philhist.unibas.ch
+  ↳ https://www.ew-stage.philhist.unibas.ch
+  ↳ https://www.ew-stage.kunstgeschichte.philhist.unibas.ch
+  ↳ https://www.ew-stage.particlesandcosmology.physik.unibas.ch
+  ↳ https://www.ew-stage.neurophysio.weiterbildung.unibas.ch
+  ↳ https://www.ew-stage.nordistik.philhist.unibas.ch
+  ↳ https://www.ew-stage.nightmuse.musikwissenschaft.philhist.unibas.ch
+  ↳ https://www.ew-stage.physik.unibas.ch
+  ↳ https://www.ew-stage.medienwissenschaft.philhist.unibas.ch
+  ↳ https://www.ew-stage.slavistik.philhist.unibas.ch
+  ↳ https://www.ew-stage.philosophie.philhist.unibas.ch
+  ↳ https://www.ew-stage.psychoonkologie.weiterbildung.unibas.ch
+  ↳ https://www.ew-stage.kfs.medizin.unibas.ch
+  ↳ https://www.ew-stage.quantum-opto-electronics.physik.unibas.ch
+  ↳ https://www.ew-stage.primalogo.dmi.unibas.ch
+  ↳ https://www.ew-stage.swell.philhist.unibas.ch
+  ↳ https://www.ew-stage.sympol-imean21.philhist.unibas.ch
+  ↳ https://www.ew-stage.quantumtheory-bruder.physik.unibas.ch
+  ↳ https://www.ew-stage.romegyptcities.philhist.unibas.ch
+  ↳ https://www.germanistik.philhist.unibas.ch
+  ↳ https://www.ew-stage.tracr-in.nursing.unibas.ch
+  ↳ https://www.ew-stage.weiterbildung.pharma.unibas.ch
+  ↳ https://www.ew-stage.soziologie.philhist.unibas.ch
+  ↳ https://www.geigy-hagenbach.ub.unibas.ch
+  ↳ http://www.ew-stage.nanolino.physik.unibas.ch
+  ↳ https://www.ew-stage.urbanwaterworlds.philhist.unibas.ch
+  ↳ https://www.ew-stage.saek2019.philhist.unibas.ch
+  ↳ https://www.ew-stage.villadeicasoni.philhist.unibas.ch
+  ↳ https://www.ew-stage.ub-easyweb.ub.unibas.ch
+  ↳ https://www.infotag.weiterbildung.unibas.ch
+  ↳ http://www.ew-stage.greljogroup.physik.unibas.ch
+  ↳ http://www.ew-stage.financialdecisions.psychologie.unibas.ch
+  ↳ https://www.francavilla.philhist.unibas.ch
+  ↳ http://www.ew-stage.pharma.unibas.ch
+  ↳ https://www.kulturmanagement.philhist.unibas.ch
+  ↳ http://www.ew-stage.illnarr.philhist.unibas.ch
+  ↳ https://www.financialdecisions.psychologie.unibas.ch
+  ↳ https://www.iberoromanistik.philhist.unibas.ch
+  ↳ https://www.franzoesistik.philhist.unibas.ch
+  ↳ https://www.mediaevistik.philhist.unibas.ch
+  ↳ https://www.interreligio.theologie.unibas.ch
+  ↳ https://www.halbwahrheiten.philhist.unibas.ch
+  ↳ https://www.greenreligion.theologie.unibas.ch
+  ↳ https://www.filmind.philhist.unibas.ch
+  ↳ https://www.kunstgeschichte.philhist.unibas.ch
+  ↳ https://www.hofmannlab.physik.unibas.ch
+  ↳ https://www.illnarr.philhist.unibas.ch
+  ↳ https://www.medienwissenschaft.philhist.unibas.ch
+  ↳ https://www.kulturwissenschaft.philhist.unibas.ch
+  ↳ https://www.housecroft.chemie.unibas.ch
+  ↳ http://www.ew-stage.sportphysio.weiterbildung.unibas.ch
+  ↳ https://www.matchrnpsychiatrie.nursing.unibas.ch
+  ↳ https://www.osteuropa.philhist.unibas.ch
+  ↳ https://www.persuasion-conference.philhist.unibas.ch
+  ↳ https://www.phd.physik.unibas.ch
+  ↳ https://www.lho.philhist.unibas.ch
+  ↳ https://www.meuwly.chemie.unibas.ch
+  ↳ https://www.palliativecare.weiterbildung.unibas.ch
+  ↳ https://www.openaccessweek.ub.unibas.ch
+  ↳ https://www.medren2019.philhist.unibas.ch
+  ↳ https://www.mantis.nursing.unibas.ch
+  ↳ https://www.nordistik.philhist.unibas.ch
+  ↳ https://www.particlesandcosmology.physik.unibas.ch
+  ↳ https://www.nanomanipulationworkshop2026.physik.unibas.ch
+  ↳ https://www.phc.weiterbildung.unibas.ch
+  ↳ https://www.physik.unibas.ch
+  ↳ https://www.philosophie.philhist.unibas.ch
+  ↳ https://www.quantum-opto-electronics.physik.unibas.ch
+  ↳ https://www.qtd.physik.unibas.ch
+  ↳ https://www.quaint.physik.unibas.ch
+  ↳ https://www.smile.nursing.unibas.ch
+  ↳ https://www.rrsm.dsbg.unibas.ch
+  ↳ https://www.sedseminar.psychologie.unibas.ch
+  ↳ https://www.quantumtheory-bruder.physik.unibas.ch
+  ↳ https://www.slavistik.philhist.unibas.ch
+  ↳ https://www.sportphysio.weiterbildung.unibas.ch
+  ↳ https://www.soziologie.philhist.unibas.ch
+  ↳ https://www.redesign-eskript.ius.unibas.ch
+  ↳ https://www.saek2019.philhist.unibas.ch
+  ↳ http://www.nightmuse.musikwissenschaft.philhist.unibas.ch
+  ↳ http://www.nanolino.physik.unibas.ch
+  ↳ http://www.musikwissenschaft.philhist.unibas.ch
+  ↳ https://www.spiritual-care.weiterbildung.unibas.ch
+  ↳ https://www.stromvertragswahl.psychologie.unibas.ch
+  ↳ http://www.politikwissenschaft.philhist.unibas.ch
+  ↳ http://www.sexualtherapie.weiterbildung.unibas.ch
+  ↳ http://www.romegyptcities.philhist.unibas.ch
+  ↳ http://www.stadler.medizin.unibas.ch
+[DEDUP] http://mail.tst.sap.zabka.pl:8443 represents 2 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://www.acit.zabka.pl:8443
+  ↳ http://www.dev.app-sap.zabka.pl:8443
+[DEDUP] https://mail.git-test.dhl.com represents 1 duplicates [200][192589][GitHub Enterprise is in replication mode.]:
+  ↳ https://www.git-test.dhl.com
+[DEDUP] https://ub-resolver24.ub.unibas.ch represents 1 duplicates [404][207][404 Not Found]:
+  ↳ https://ub-resolver.ub.unibas.ch
+[DEDUP] https://storybook-demo-gcp.gamma.apac.gcds.coke.com represents 1 duplicates [403][111][]:
+  ↳ https://tempauth-gcp.gamma.apac.gcds.coke.com
+[DEDUP] http://universe-od8.medizin.unibas.ch:8080 represents 1 duplicates [401][74][]:
+  ↳ http://universe-od6.medizin.unibas.ch:8080
+[DEDUP] http://mail.prd.sap.zabka.pl represents 1 duplicates [301][0][]:
+  ↳ http://www.sap.zabka.pl
+[DEDUP] https://www.km.iqoption.com represents 2 duplicates [204][0][]:
+  ↳ https://www.sc.iqoption.com
+  ↳ http://www.tracker.affiliate.iqoption.com

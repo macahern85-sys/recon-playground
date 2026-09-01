@@ -1,0 +1,2 @@
+https://mail.peek.lax.liferay.com
+https://www.smtp-rdsmail.rcs-rds.ro

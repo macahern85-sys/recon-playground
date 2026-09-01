@@ -1,0 +1,2 @@
+mail.peek.lax.liferay.com:443
+www.smtp-rdsmail.rcs-rds.ro:443

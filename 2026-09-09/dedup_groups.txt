@@ -1,0 +1,26 @@
+[DEDUP] https://pg3exp-api.mos.coke.com represents 1 duplicates [200][12][]:
+  ↳ https://user-profile-api.mos.coke.com
+[DEDUP] https://erm.grc.storebrand.no represents 1 duplicates [302][0][]:
+  ↳ https://snowseeker.dev.grc.storebrand.no
+[DEDUP] https://swekolloquium.psychologie.unibas.ch represents 1 duplicates [302][224][302 Found]:
+  ↳ https://www.swekolloquium.psychologie.unibas.ch
+[DEDUP] https://survey.psycho.unibas.ch represents 1 duplicates [404][548][404 Not Found]:
+  ↳ https://survey-1.psycho.unibas.ch
+[DEDUP] https://ew-stage.musikphilosophie.philhist.unibas.ch represents 1 duplicates [403][548][403 Forbidden]:
+  ↳ https://ew-stage.bla.ub.unibas.ch
+[DEDUP] https://sured.wwz.unibas.ch represents 1 duplicates [302][208][302 Found]:
+  ↳ https://www.sured.wwz.unibas.ch
+[DEDUP] https://www.altegeschichte.philhist.unibas.ch represents 1 duplicates [302][232][302 Found]:
+  ↳ https://altegeschichte.philhist.unibas.ch
+[DEDUP] https://hvs.philhist.unibas.ch represents 1 duplicates [302][221][302 Found]:
+  ↳ https://www.hvs.philhist.unibas.ch
+[DEDUP] https://www.ew-stage.bla.ub.unibas.ch represents 3 duplicates [301][0][]:
+  ↳ https://www.ew-stage.kurzvideos-tagung.philhist.unibas.ch
+  ↳ https://www.bla.ub.unibas.ch
+  ↳ https://www.ew-stage.musikphilosophie.philhist.unibas.ch
+[DEDUP] https://graezistik.philhist.unibas.ch represents 3 duplicates [302][228][302 Found]:
+  ↳ https://latinistik.philhist.unibas.ch
+  ↳ https://www.graezistik.philhist.unibas.ch
+  ↳ https://www.latinistik.philhist.unibas.ch
+[DEDUP] https://aegyptologie.philhist.unibas.ch represents 1 duplicates [302][230][302 Found]:
+  ↳ https://www.aegyptologie.philhist.unibas.ch

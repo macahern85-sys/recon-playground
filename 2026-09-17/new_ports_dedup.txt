@@ -1,0 +1,5 @@
+https://kargo-dev.wpengine.io
+https://privacy-gcp.latam.gcds.coke.com
+https://storybook-demo-gcp.latam.gcds.coke.com
+https://wp-stg.houseofhr.com
+https://xtnd-admin.alpha.cep.coca-cola.com

@@ -1,0 +1,8 @@
+demo-gcp.emea.gcds.coke.com:443
+kargo-dev.wpengine.io:443
+privacy-gcp.emea.gcds.coke.com:443
+privacy-gcp.latam.gcds.coke.com:443
+services-gcp.prospect.global.gcds.coke.com:443
+storybook-demo-gcp.latam.gcds.coke.com:443
+wp-stg.houseofhr.com:443
+xtnd-admin.alpha.cep.coca-cola.com:443

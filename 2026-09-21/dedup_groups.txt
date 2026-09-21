@@ -1,0 +1,29 @@
+[DEDUP] https://bodyarmor-us-en.gamma.cep.coca-cola.com represents 1 duplicates [200][5981][Superior Hydration | BODYARMOR Sports Drink]:
+  ↳ https://bodyarmor-ca-fr.prod.cep.coca-cola.com
+[DEDUP] https://bodyarmor-ca-en.gamma.cep.coca-cola.com represents 2 duplicates [401][22][]:
+  ↳ https://ccrrc.beta.cep.coca-cola.com
+  ↳ https://bodyarmor-ca-fr.beta.cep.coca-cola.com
+[DEDUP] https://coworker-origin.prd.bee.wpesvc.net represents 1 duplicates [302][0][]:
+  ↳ https://coworker-origin.dev.bee.wpesvc.net
+[DEDUP] http://www.nano.zabka.pl:8080 represents 2 duplicates [301][167][301 Moved Permanently]:
+  ↳ https://www.nano.zabka.pl
+  ↳ https://www.nano.zabka.pl:8443
+[DEDUP] https://img.post.speakap.com represents 1 duplicates [301][0][]:
+  ↳ https://r.post.speakap.com
+[DEDUP] https://stage.cmscrud.ccfsfirm.coke.com represents 1 duplicates [302][0][]:
+  ↳ https://qa1.cmscrud.ccfsfirm.coke.com
+[DEDUP] https://securitycheck.dev.grc.storebrand.no represents 2 duplicates [302][0][]:
+  ↳ https://lederbekreftelsen.dev.grc.storebrand.no
+  ↳ https://egenberedskap.dev.grc.storebrand.no
+[DEDUP] https://feedback-api.fos.wartsila.com represents 4 duplicates [404][0][]:
+  ↳ https://fleet-tracking-report.fos.wartsila.com
+  ↳ https://cdmo.fos.wartsila.com
+  ↳ https://dataexport.fos.wartsila.com
+  ↳ https://newvdbapi.fos.wartsila.com
+[DEDUP] http://www.marinelogistics.dhl.com:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://www.marinelogistics.dhl.com
+[DEDUP] https://dav.new-cs108.dmi.unibas.ch represents 2 duplicates [403][199][403 Forbidden]:
+  ↳ https://www.new-cs108.dmi.unibas.ch
+  ↳ https://new-cs108.dmi.unibas.ch
+[DEDUP] https://www.tests.api-dealercare.digi-belgium.be represents 1 duplicates [401][172][401 Authorization Required]:
+  ↳ https://mail.tests.api-dealercare.digi-belgium.be

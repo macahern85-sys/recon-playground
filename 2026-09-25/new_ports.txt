@@ -1,0 +1,1 @@
+loyalty.test-qualifio.nestle.com:443

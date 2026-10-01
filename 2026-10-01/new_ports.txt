@@ -1,0 +1,4 @@
+api.alpha.activations.latam.coca-cola.com:443
+www.connectingsenses.be:443
+www.connectingsenses.be:8080
+www.connectingsenses.be:8443

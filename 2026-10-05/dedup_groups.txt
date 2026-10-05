@@ -1,0 +1,29 @@
+[DEDUP] http://go-global-braze-ams-staging.nestle.com:8080 represents 2 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://go-global-braze-eur-training.nestle.com:8080
+  ↳ http://go-global-braze-eur-staging.nestle.com:8080
+[DEDUP] http://www.myiot.be:8080 represents 2 duplicates [302][143][302 Found]:
+  ↳ https://www.myiot.be
+  ↳ https://www.myiot.be:8443
+[DEDUP] https://azurewebapps.testko.com represents 1 duplicates [404][0][]:
+  ↳ https://compass.testko.com
+[DEDUP] http://www.citymesh-connect.com:8080 represents 2 duplicates [302][143][302 Found]:
+  ↳ https://www.citymesh-connect.com
+  ↳ https://www.citymesh-connect.com:8443
+[DEDUP] https://api.activations.latam.coca-cola.com represents 1 duplicates [404][134][404]:
+  ↳ https://api.trivia.latam.coca-cola.com
+[DEDUP] https://go-global-braze-ams-staging.nestle.com represents 2 duplicates [404][1290][404 | Not Found or Expired]:
+  ↳ https://go-global-braze-eur-training.nestle.com
+  ↳ https://go-global-braze-eur-staging.nestle.com
+[DEDUP] https://www.ncentric.be represents 1 duplicates [302][510][302 Found]:
+  ↳ https://www.ncentric.be:8443
+[DEDUP] https://gep-noctis-api-dev.coke.com represents 2 duplicates [200][33][]:
+  ↳ https://gep-noctis-api-qa.coke.com
+  ↳ https://gep-noctis-api.coke.com
+[DEDUP] http://www.citymeshconnect.be:8080 represents 2 duplicates [302][143][302 Found]:
+  ↳ https://www.citymeshconnect.be
+  ↳ https://www.citymeshconnect.be:8443
+[DEDUP] https://tag-hu-linker.wartsila.com represents 2 duplicates [200][517][Tag-HU Linker]:
+  ↳ https://tag-hu-linker-qa.wartsila.com
+  ↳ https://tag-hu-linker-dev.wartsila.com
+[DEDUP] http://go-global-braze-eur-training.nestle.com:8443 represents 1 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://go-global-braze-eur-staging.nestle.com:8443

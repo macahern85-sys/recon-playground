@@ -1,0 +1,422 @@
+[DEDUP] https://adpo.app.usa.speakap.io represents 59 duplicates [404][146][404 Not Found]:
+  ↳ https://app-kronos-wfcm.app.usa.speakap.io
+  ↳ https://app-kronosc.app.usa.speakap.io
+  ↳ https://app-distributor3u.app.speakap.io
+  ↳ https://app-distributor23.app.speakap.io
+  ↳ https://apps.app.app.speakap.io
+  ↳ https://app.app.speakap.io
+  ↳ https://birthdaywidgete.app.speakap.io
+  ↳ https://awardcoo.app.speakap.io
+  ↳ https://cccu.app.speakap.io
+  ↳ https://axonify5.app.speakap.io
+  ↳ https://google-sheet9.app.usa.speakap.io
+  ↳ https://google-drivei.app.usa.speakap.io
+  ↳ https://google-docm.app.usa.speakap.io
+  ↳ https://google-sheete.app.speakap.io
+  ↳ https://leaveso.app.speakap.io
+  ↳ https://manuse.app.speakap.io
+  ↳ https://google-calendare.app.speakap.io
+  ↳ https://ms-exceli.app.usa.speakap.io
+  ↳ https://outlook-calendarc.app.usa.speakap.io
+  ↳ https://planday7.app.usa.speakap.io
+  ↳ https://ms-wordk.app.speakap.io
+  ↳ https://plandayu.app.speakap.io
+  ↳ https://sharepointo.app.usa.speakap.io
+  ↳ https://syndicator9.app.usa.speakap.io
+  ↳ https://test-sharepointm.app.usa.speakap.io
+  ↳ https://tamigoc.app.speakap.io
+  ↳ https://tinqwisec.app.usa.speakap.io
+  ↳ https://www.app-kronos.app.usa.speakap.io
+  ↳ https://www.7shifts.app.usa.speakap.io
+  ↳ https://ukg-dimensionsm.app.speakap.io
+  ↳ https://www.appspace.app.usa.speakap.io
+  ↳ https://vicog.app.speakap.io
+  ↳ https://www.app.usa.speakap.io
+  ↳ https://www.app-kronos-wfc.app.speakap.io
+  ↳ https://www.google-maps.app.usa.speakap.io
+  ↳ https://www.kazoo.app.usa.speakap.io
+  ↳ https://www.kronos-wfc-v8.app.usa.speakap.io
+  ↳ https://www.google-doc.app.usa.speakap.io
+  ↳ https://www.ms-excel.app.usa.speakap.io
+  ↳ https://www.google-sheet.app.usa.speakap.io
+  ↳ https://www.google-forms.app.usa.speakap.io
+  ↳ https://www.ms-powerpoint.app.usa.speakap.io
+  ↳ https://www.app-distributor3.app.speakap.io
+  ↳ https://www.kronos-wfc.app.usa.speakap.io
+  ↳ https://www.bamboohr.app.speakap.io
+  ↳ https://www.outlook-calendar.app.usa.speakap.io
+  ↳ https://www.google-drive.app.usa.speakap.io
+  ↳ https://www.ukg-dimensions.app.usa.speakap.io
+  ↳ https://www.tettra.app.usa.speakap.io
+  ↳ https://www.manus.app.speakap.io
+  ↳ https://www.ms-powerpoint.app.speakap.io
+  ↳ https://www.ms-excel.app.speakap.io
+  ↳ https://www.ms-word.app.speakap.io
+  ↳ https://www.querlo.app.speakap.io
+  ↳ https://www.storeforce.app.speakap.io
+  ↳ https://www.outlook-calendar.app.speakap.io
+  ↳ https://www.syndicator.app.speakap.io
+  ↳ https://www.ukg-dimensions.app.speakap.io
+  ↳ https://zenputw.app.speakap.io
+[DEDUP] http://accountwwwhwo.feedback.water-link.be represents 19 duplicates [403][915][ERROR: The request could not be satisfied]:
+  ↳ http://aca.feedback.water-link.be
+  ↳ http://acac.feedback.water-link.be
+  ↳ http://accountwwwhw-engineeringk.feedback.water-link.be
+  ↳ http://10-www-vpn5.cdn-pantheon.feedback.water-link.be
+  ↳ http://accountwwwhwmtontoure.feedback.water-link.be
+  ↳ http://april-wwwdesktop-docsm.feedback.water-link.be
+  ↳ http://april-wwwapi-docs.feedback.water-link.be
+  ↳ http://april-wwwapi-jabbers.feedback.water-link.be
+  ↳ http://accv3untwwwhwm.feedback.water-link.be
+  ↳ http://aprbarracudal-wwwapbarracuda-docs.feedback.water-link.be
+  ↳ http://cdn-pantheons.feedback.water-link.be
+  ↳ http://cdn-pantheon.feedback.water-link.be
+  ↳ http://cdnstatic-wwwq.feedback.water-link.be
+  ↳ http://beta-april-wwwapi-docsk.feedback.water-link.be
+  ↳ http://containerc.feedback.water-link.be
+  ↳ http://if177a.aca.feedback.water-link.be
+  ↳ http://rpcc.april-wwwapi-docs.feedback.water-link.be
+  ↳ http://www.feedback.water-link.be
+  ↳ http://www.wildcard.feedback.water-link.be
+[DEDUP] http://09isw.hf.coca-cola.com represents 14 duplicates [404][1561][Error 404 (Not Found)!!1]:
+  ↳ http://aa7.hf.coca-cola.com
+  ↳ http://2025.hf.coca-cola.com
+  ↳ http://2018k.hf.coca-cola.com
+  ↳ http://13.hf.coca-cola.com
+  ↳ http://4.hf.coca-cola.com
+  ↳ http://79.hf.coca-cola.com
+  ↳ http://189.hf.coca-cola.com
+  ↳ http://89.hf.coca-cola.com
+  ↳ http://2015.hf.coca-cola.com
+  ↳ http://containerg.hf.coca-cola.com
+  ↳ http://dec.hf.coca-cola.com
+  ↳ http://dbg.hf.coca-cola.com
+  ↳ http://ewr19.hf.coca-cola.com
+  ↳ http://formsa.hf.coca-cola.com
+[DEDUP] http://api-primaryu.eu-central-1.bitvavo.com:8080 represents 6 duplicates [301][528][301 Moved Permanently]:
+  ↳ http://magma-router.eu-central-1.internal.bitvavo.com:8080
+  ↳ http://ws-primaryg.eu-central-1.bitvavo.com:8080
+  ↳ http://www.api-secondary.eu-central-1.bitvavo.com:8080
+  ↳ http://www.api-secondary.eu-central-1.bitvavo.com
+  ↳ http://www.wildcard.monitoring.bitvavo.com:8080
+  ↳ http://www.wildcard.monitoring.bitvavo.com
+[DEDUP] https://api.beta.trivia.latam.coca-cola.com represents 1 duplicates [404][134][404]:
+  ↳ https://api.alpha.trivia.latam.coca-cola.com
+[DEDUP] http://aquawardsoperateacc.water-link.be:8080 represents 63 duplicates [301][0][]:
+  ↳ http://aquawardsoperateacc.water-link.be:1443
+  ↳ http://aquawardsoperateacc.water-link.be:10443
+  ↳ http://aquawardsoperateacc.water-link.be:4443
+  ↳ http://aquawardsoperateacc.water-link.be:8443
+  ↳ http://aquawardsoperateacc.water-link.be:8000
+  ↳ http://aquawardsoperateacc.water-link.be:7443
+  ↳ http://aquawardsoperateacc.water-link.be:9443
+  ↳ http://esb-a.water-link.be:10443
+  ↳ http://esb-a.water-link.be:8000
+  ↳ http://esb-a.water-link.be:1443
+  ↳ http://esb-a.water-link.be:7443
+  ↳ http://esb-a.water-link.be:8443
+  ↳ http://esb-a.water-link.be:4443
+  ↳ http://esb-a.water-link.be:8080
+  ↳ http://esb-a.water-link.be:9443
+  ↳ http://gis.water-link.be:8443
+  ↳ http://gis.water-link.be:1443
+  ↳ http://gis.water-link.be:10443
+  ↳ http://gis.water-link.be:8080
+  ↳ http://gis.water-link.be:4443
+  ↳ http://gis.water-link.be:9443
+  ↳ http://gis.water-link.be:7443
+  ↳ http://gis.water-link.be:8000
+  ↳ http://gis1.water-link.be:10443
+  ↳ http://gis1.water-link.be:9443
+  ↳ http://gis1.water-link.be:8443
+  ↳ http://gis1.water-link.be:8080
+  ↳ http://gis2.water-link.be:10443
+  ↳ http://gis2.water-link.be:7443
+  ↳ http://gis2.water-link.be:8443
+  ↳ http://gis2.water-link.be:8000
+  ↳ http://gis2.water-link.be:8080
+  ↳ http://gis2.water-link.be:4443
+  ↳ http://gis2.water-link.be:9443
+  ↳ http://gis2.water-link.be:1443
+  ↳ http://gis3.water-link.be:10443
+  ↳ http://gisacc1.water-link.be:10443
+  ↳ http://gisacc1.water-link.be:8080
+  ↳ http://gisacc1.water-link.be:7443
+  ↳ http://gisacc1.water-link.be:8000
+  ↳ http://gisacc1.water-link.be:1443
+  ↳ http://gisacc1.water-link.be:9443
+  ↳ http://gisacc1.water-link.be:4443
+  ↳ http://gisacc1.water-link.be:8443
+  ↳ http://gis3.water-link.be:8080
+  ↳ http://gis3.water-link.be:7443
+  ↳ http://gis3.water-link.be:9443
+  ↳ http://gis3.water-link.be:8000
+  ↳ http://gis3.water-link.be:1443
+  ↳ http://gis1.water-link.be:4443
+  ↳ http://gis3.water-link.be:4443
+  ↳ http://gis1.water-link.be:1443
+  ↳ http://gisacc2.water-link.be:9443
+  ↳ http://gisacc2.water-link.be:4443
+  ↳ http://gisacc2.water-link.be:7443
+  ↳ http://gis3.water-link.be:8443
+  ↳ http://gis1.water-link.be:8000
+  ↳ http://gisacc2.water-link.be:8080
+  ↳ http://gisacc2.water-link.be:8000
+  ↳ http://gisacc2.water-link.be:1443
+  ↳ http://gisacc2.water-link.be:10443
+  ↳ http://gis1.water-link.be:7443
+  ↳ http://gisacc2.water-link.be:8443
+[DEDUP] https://aquawardsoperateacc.water-link.be represents 10 duplicates [403][862][]:
+  ↳ https://esb-t.water-link.be
+  ↳ https://gis.water-link.be
+  ↳ https://gis1.water-link.be
+  ↳ https://gis2.water-link.be
+  ↳ https://sam-o.water-link.be
+  ↳ http://sam-o.water-link.be:1443
+  ↳ http://sam-o.water-link.be:8443
+  ↳ https://sam.water-link.be
+  ↳ http://sam-o.water-link.be:8000
+  ↳ http://sam-o.water-link.be:7443
+[DEDUP] https://app-distributor2o.app.usa.speakap.io represents 32 duplicates [404][548][404 Not Found]:
+  ↳ https://argocda.integrations.speakap.io
+  ↳ https://awardcoy.app.usa.speakap.io
+  ↳ https://ccc2i.app.speakap.io
+  ↳ https://customsm.app.speakap.io
+  ↳ https://google-forms9.app.usa.speakap.io
+  ↳ https://kronos-wfc-v8q.app.usa.speakap.io
+  ↳ https://kronos-wfcu.app.usa.speakap.io
+  ↳ https://google-mapsc.app.speakap.io
+  ↳ https://jirac.app.speakap.io
+  ↳ https://jotforma.app.speakap.io
+  ↳ https://ms-powerpointi.app.usa.speakap.io
+  ↳ https://storeforcew.app.usa.speakap.io
+  ↳ https://speakap-bridgea.app.speakap.io
+  ↳ https://ukg-dimensions9.app.usa.speakap.io
+  ↳ https://www.argocd.integrations.speakap.io
+  ↳ https://www.app.speakap.io
+  ↳ https://www.appspace.app.speakap.io
+  ↳ https://www.google-calendar.app.usa.speakap.io
+  ↳ https://www.axonify.app.usa.speakap.io
+  ↳ https://www.ms-word.app.usa.speakap.io
+  ↳ https://www.customs.app.speakap.io
+  ↳ https://www.ccc.app.speakap.io
+  ↳ https://www.sharepoint.app.usa.speakap.io
+  ↳ https://www.planday.app.usa.speakap.io
+  ↳ https://www.google-doc.app.speakap.io
+  ↳ https://www.google-maps.app.speakap.io
+  ↳ https://www.tamigo.app.usa.speakap.io
+  ↳ https://www.querlo.app.usa.speakap.io
+  ↳ https://www.google-calendar.app.speakap.io
+  ↳ https://www.surveymonkey.app.speakap.io
+  ↳ https://www.sharepoint.app.speakap.io
+  ↳ https://www.tinqwise.app.speakap.io
+[DEDUP] https://api-primaryu.eu-central-1.bitvavo.com represents 1 duplicates [404][0][]:
+  ↳ https://ws-primaryg.eu-central-1.bitvavo.com
+[DEDUP] http://227.sylvin.com represents 3 duplicates [301][55][]:
+  ↳ http://ftp.sylvin.com
+  ↳ http://www.mail.sylvin.com
+  ↳ http://www.remote.sylvin.com
+[DEDUP] http://auth-auth-apia.aws-prod-api-realtime-2.moralis.io:8080 represents 15 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://www.aws-prod-api-1.moralis.io:8080
+  ↳ http://www.aws-prod-api-1.moralis.io
+  ↳ http://www.aws-dev-admin-1.moralis.io:8080
+  ↳ http://www.aws-prod-api-consumers-2.moralis.io:8080
+  ↳ http://www.aws-prod-api-consumers-2.moralis.io
+  ↳ http://www.aws-prod-cbc-data-1.moralis.io:8080
+  ↳ http://www.aws-prod-streams-worker-1.moralis.io:8080
+  ↳ http://www.aws-prod-payments-1.moralis.io:8080
+  ↳ http://www.aws-prod-streams-worker-1.moralis.io
+  ↳ http://www.aws-prod-payments-1.moralis.io
+  ↳ http://www.aws-prod-cbc-data-1.moralis.io
+  ↳ http://www.aws-prod-streams-worker-4.moralis.io:8080
+  ↳ http://www.aws-prod-streams-worker-4.moralis.io
+  ↳ http://www.aws-prod-platform-1.moralis.io:8080
+  ↳ http://www.aws-prod-platform-1.moralis.io
+[DEDUP] https://ar-api.pg3-alpha.coke.com represents 1 duplicates [200][4901][Congratulations | Cloud Run]:
+  ↳ https://mt-api.pg3-alpha.coke.com
+[DEDUP] https://3g.demo.fra.liferay.com represents 7 duplicates [302][207][302 Found]:
+  ↳ https://backend9.ac.demo.fra.liferay.com
+  ↳ https://demo-7m.fra.liferay.com
+  ↳ https://demo-8-testc.fra.liferay.com
+  ↳ https://demo-3-testc.fra.liferay.com
+  ↳ https://demo-8m.fra.liferay.com
+  ↳ https://www.git.fra.liferay.com
+  ↳ https://www.drive.fra.liferay.com
+[DEDUP] http://auth.citymeshconnect.com:8080 represents 1 duplicates [301][528][301 Moved Permanently]:
+  ↳ http://portal.citymeshconnect.com:8080
+[DEDUP] https://ai-risk.dev.grc.storebrand.no represents 1 duplicates [302][0][]:
+  ↳ https://ai-risk.grc.storebrand.no
+[DEDUP] http://citrix.water-link.be:8080 represents 2 duplicates [301][167][301 Moved Permanently]:
+  ↳ https://citrix.water-link.be
+  ↳ https://citrix.water-link.be:8443
+[DEDUP] https://aucro.dhl.com represents 1 duplicates [403][199][403 Forbidden]:
+  ↳ https://auscb.dhl.com
+[DEDUP] https://bva.pg3-alpha.coke.com represents 16 duplicates [404][127][]:
+  ↳ https://pg3agencyroster.pg3-alpha.coke.com
+  ↳ https://pg3mtep.pg3-alpha.coke.com
+  ↳ https://pg3exprofile.pg3-alpha.coke.com
+  ↳ https://pg3generalinformation.pg3-alpha.coke.com
+  ↳ https://pg3brief-status.pg3-alpha.coke.com
+  ↳ https://pg3exploop.pg3-alpha.coke.com
+  ↳ https://pg3ourwork.pg3-alpha.coke.com
+  ↳ https://pg3cos.pg3-alpha.coke.com
+  ↳ https://pg3masteroftaste.pg3-alpha.coke.com
+  ↳ https://pg3prioprocess.pg3-alpha.coke.com
+  ↳ https://pg3innovation.pg3-alpha.coke.com
+  ↳ https://pg3nmagalleryindex.pg3-alpha.coke.com
+  ↳ https://pg3onboarding.pg3-alpha.coke.com
+  ↳ https://pg3toolsandsupport.pg3-alpha.coke.com
+  ↳ https://pg3nmalanding.pg3-alpha.coke.com
+  ↳ https://spa.pg3-alpha.coke.com
+[DEDUP] http://clicks.global-braze-ams-staging.nestle.com:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://clicks.global-braze-eur-staging.nestle.com:8080
+[DEDUP] https://cloudportal-fwlogs.ko.com represents 1 duplicates [403][911][]:
+  ↳ https://cloudportal-fwlogs-test.ko.com
+[DEDUP] https://community.speakap.com represents 2 duplicates [200][6607][Speakap]:
+  ↳ https://geodis.speakap.com
+  ↳ https://png.speakap.com
+[DEDUP] https://autoconfig.digi-belgium.be represents 1 duplicates [403][548][403 Forbidden]:
+  ↳ https://autodiscover.digi-belgium.be
+[DEDUP] http://dante.revolut.com:8080 represents 3 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://dev.revolut.com:8080
+  ↳ http://ee.revolut.com:8080
+  ↳ http://vader.revolut.com:8080
+[DEDUP] https://cop-api.pg3-alpha.coke.com represents 2 duplicates [200][4904][Congratulations | Cloud Run]:
+  ↳ https://pg3exp-api.pg3-alpha.coke.com
+  ↳ https://tas-api.pg3-alpha.coke.com
+[DEDUP] http://dashboard.citymesh.net:8080 represents 1 duplicates [301][528][301 Moved Permanently]:
+  ↳ http://gitlab.citymesh.net:8080
+[DEDUP] https://dante.revolut.com represents 1 duplicates [403][872932][Just a quick security check | Revolut]:
+  ↳ https://vader.revolut.com
+[DEDUP] https://columbus.revolut.com represents 4 duplicates [403][134][403]:
+  ↳ https://postbox.revolut.com
+  ↳ https://test-backoffice.revolut.com
+  ↳ https://test-id.revolut.com
+  ↳ https://wallee.revolut.com
+[DEDUP] https://dashboard.citymesh.net represents 1 duplicates [302][29][]:
+  ↳ https://dashboard.citymesh.net:8443
+[DEDUP] https://clicks.global-braze-ams-staging.nestle.com represents 1 duplicates [400][0][]:
+  ↳ https://clicks.global-braze-eur-staging.nestle.com
+[DEDUP] https://about.edpnet.com represents 1 duplicates [302][308][302 Found]:
+  ↳ https://users.edpnet.com
+[DEDUP] https://bpostsurrendezvous.bpost.be represents 3 duplicates [200][2040][Network Error]:
+  ↳ https://bpo.bpost.be
+  ↳ https://customerservice.bpost.be
+  ↳ https://reverse.bpost.be
+[DEDUP] http://esb-t.water-link.be:4443 represents 7 duplicates [403][859][]:
+  ↳ http://esb.water-link.be:1443
+  ↳ http://esb.water-link.be:9443
+  ↳ http://sam-o.water-link.be:4443
+  ↳ http://sam-o.water-link.be:8080
+  ↳ http://sam-o.water-link.be:9443
+  ↳ http://sam-o.water-link.be:10443
+  ↳ http://sam.water-link.be:10443
+[DEDUP] http://esb-t.water-link.be:10443 represents 15 duplicates [403][860][]:
+  ↳ http://esb-t.water-link.be:8443
+  ↳ http://esb-t.water-link.be:8000
+  ↳ http://esb-t.water-link.be:8080
+  ↳ http://esb-t.water-link.be:7443
+  ↳ http://esb.water-link.be:4443
+  ↳ http://esb.water-link.be:8080
+  ↳ http://esb.water-link.be:8000
+  ↳ http://esb.water-link.be:10443
+  ↳ http://esb.water-link.be:8443
+  ↳ http://sam.water-link.be:1443
+  ↳ http://sam.water-link.be:8443
+  ↳ http://sam.water-link.be:4443
+  ↳ http://sam.water-link.be:8080
+  ↳ http://sam.water-link.be:9443
+  ↳ http://sam.water-link.be:8000
+[DEDUP] http://esb-t.water-link.be:1443 represents 2 duplicates [403][861][]:
+  ↳ http://esb.water-link.be:7443
+  ↳ http://sam.water-link.be:7443
+[DEDUP] https://dev1k.controller.growsphere.netafim.com represents 1 duplicates [302][0][]:
+  ↳ https://www.stag.controller.growsphere.netafim.com
+[DEDUP] https://esb-a.water-link.be represents 2 duplicates [403][863][]:
+  ↳ https://esb.water-link.be
+  ↳ https://gisacc1.water-link.be
+[DEDUP] https://autodiscover.digimobil.it represents 1 duplicates [403][146][403 Forbidden]:
+  ↳ https://autoconfig.digimobil.it
+[DEDUP] https://facade-api.pg3-poc.coke.com represents 1 duplicates [404][63][]:
+  ↳ https://facade-api.pg3-alpha.coke.com
+[DEDUP] https://dav.lhtt-s.philhist.unibas.ch represents 2 duplicates [403][162][403 Forbidden]:
+  ↳ https://lhtt-s.philhist.unibas.ch
+  ↳ https://www.lhtt-s.philhist.unibas.ch
+[DEDUP] https://feedback.driessen.nl represents 1 duplicates [301][0][]:
+  ↳ https://webmail.driessen.nl
+[DEDUP] https://gitlab.citymesh.net represents 1 duplicates [403][38151][Error ・ Cloudflare Access]:
+  ↳ https://gitlab.citymesh.net:8443
+[DEDUP] https://magma-router.eu-central-1.internal.bitvavo.com represents 1 duplicates [403][17][]:
+  ↳ https://magma-router.eu-central-1.internal.bitvavo.com:8443
+[DEDUP] https://mail.metropolder.com represents 2 duplicates [200][38][]:
+  ↳ https://pop.metropolder.com
+  ↳ https://smtp.metropolder.com
+[DEDUP] https://pg3services-api.pg3-alpha.coke.com represents 1 duplicates [404][91][]:
+  ↳ https://user-profile-api.pg3-alpha.coke.com
+[DEDUP] https://portal.citymeshconnect.com:8443 represents 1 duplicates [403][5673][Just a moment...]:
+  ↳ https://portal.citymeshconnect.com
+[DEDUP] https://gsconnectcsm-stage.dhl.com represents 1 duplicates [302][0][]:
+  ↳ https://origin-myexpress-prg-pst.dhl.com
+[DEDUP] https://multitherm-ccv.apps.buhlergroup.io represents 2 duplicates [302][0][]:
+  ↳ https://pi-planner.apps.prep.buhlergroup.io
+  ↳ https://testappschedular.apps.dev.buhlergroup.io
+[DEDUP] https://observe9.storebrandfonder.se represents 9 duplicates [404][0][]:
+  ↳ https://www-atdv.storebrandfonder.se
+  ↳ https://www-ftdwn.storebrandfonder.se
+  ↳ https://www-ftw.storebrandfonder.se
+  ↳ https://www-az-ata.storebrandfonder.se
+  ↳ https://www-az-fta.storebrandfonder.se
+  ↳ https://www-ate.storebrandfonder.se
+  ↳ https://www-stdyy.storebrandfonder.se
+  ↳ https://www-st9.storebrandfonder.se
+  ↳ https://www.wildcard.storebrandfonder.se
+[DEDUP] https://multitherm-ccv.apps.buhlergroup.com represents 2 duplicates [302][0][]:
+  ↳ https://pi-planner.prep.apps.buhlergroup.com
+  ↳ https://testappschedular.dev.apps.buhlergroup.com
+[DEDUP] https://sso.citymesh.com represents 1 duplicates [403][38151][Error ・ Cloudflare Access]:
+  ↳ https://sso.citymesh.com:8443
+[DEDUP] http://mdt-as-ac.bpost.be represents 1 duplicates [302][0][]:
+  ↳ http://webservices-test.bpost.be
+[DEDUP] http://speedtest-or.rcs-rds.ro:8080 represents 1 duplicates [200][109][OoklaServer]:
+  ↳ http://speedtest-tm.rcs-rds.ro:8080
+[DEDUP] https://test-1-42.liferay.com represents 4 duplicates [401][421][401 Unauthorized]:
+  ↳ https://test-1-43.liferay.com
+  ↳ https://test-1-45.liferay.com
+  ↳ https://test-5-1.liferay.com
+  ↳ https://test-1-47.liferay.com
+[DEDUP] http://static.kiwa.nl:8080 represents 1 duplicates [403][323][403 Forbidden]:
+  ↳ http://static.kiwa.nl
+[DEDUP] https://stp009.redis.prod.dhl.com represents 11 duplicates [200][1983][]:
+  ↳ https://stp116.redis.prod.dhl.com
+  ↳ https://stp143.redis.prod.dhl.com
+  ↳ https://stp174.redis.prod.dhl.com
+  ↳ https://stp025.redis.prod.dhl.com
+  ↳ https://stp120.redis.prod.dhl.com
+  ↳ https://stp022.redis.prod.dhl.com
+  ↳ https://stp151.redis.prod.dhl.com
+  ↳ https://stp122.redis.prod.dhl.com
+  ↳ https://stp140.redis.prod.dhl.com
+  ↳ https://stp078.redis.prod.dhl.com
+  ↳ https://stp181.redis.prod.dhl.com
+[DEDUP] http://www.api-secondary.eu-central-1.bitvavo.com:8443 represents 2 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://www.wildcard.monitoring.bitvavo.com:8443
+  ↳ http://api-primaryu.eu-central-1.bitvavo.com:8443
+[DEDUP] http://www.aws-dev-admin-1.moralis.io:8443 represents 5 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://www.aws-prod-api-consumers-2.moralis.io:8443
+  ↳ http://www.aws-prod-cbc-data-1.moralis.io:8443
+  ↳ http://www.aws-prod-streams-worker-1.moralis.io:8443
+  ↳ http://www.aws-prod-streams-worker-4.moralis.io:8443
+  ↳ http://www.aws-prod-platform-1.moralis.io:8443
+[DEDUP] http://www.aws-prod-api-1.moralis.io:8443 represents 2 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://www.aws-prod-payments-1.moralis.io:8443
+  ↳ http://auth-auth-apia.aws-prod-api-realtime-2.moralis.io:8443
+[DEDUP] http://www.freedom.axelspringer.com:8080 represents 1 duplicates [409][16][]:
+  ↳ http://www.freedom.axelspringer.com
+[DEDUP] http://www.wildcard.ctmsh.co:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://www.wildcard.ctmsh.co
+[DEDUP] https://www.dev1.controller.growsphere.netafim.com represents 1 duplicates [404][2667][Microsoft Azure Web App - Error 404]:
+  ↳ https://www.qa1.controller.growsphere.netafim.com
+[DEDUP] https://www.tekioncdn.xyz represents 1 duplicates [403][111][]:
+  ↳ https://www.wildcard.tekioncdn.xyz
+[DEDUP] http://clicks.global-braze-ams-staging.nestle.com:8443 represents 1 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://clicks.global-braze-eur-staging.nestle.com:8443

@@ -1,0 +1,52 @@
+[DEDUP] http://helpg.citymesh.guide:8080 represents 15 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://baidu.citymesh.guide:8080
+  ↳ http://e.citymesh.guide:8080
+  ↳ http://maven.citymesh.guide:8080
+  ↳ http://cse.citymesh.guide:8080
+  ↳ http://homepage2.citymesh.guide:8080
+  ↳ http://cs.citymesh.guide:8080
+  ↳ http://groupsi.citymesh.guide:8080
+  ↳ http://blogs.citymesh.guide:8080
+  ↳ http://kk.citymesh.guide:8080
+  ↳ http://help.citymesh.guide:8080
+  ↳ http://www5d9.citymesh.guide:8080
+  ↳ http://server1.citymesh.guide:8080
+  ↳ http://server17.citymesh.guide:8080
+  ↳ http://uni.citymesh.guide:8080
+  ↳ http://blogs9.citymesh.guide
+[DEDUP] http://cdn3.hf.coca-cola.com represents 4 duplicates [404][1561][Error 404 (Not Found)!!1]:
+  ↳ http://cn9.hf.coca-cola.com
+  ↳ http://brand.hf.coca-cola.com
+  ↳ http://buckya.hf.coca-cola.com
+  ↳ http://fspi.hf.coca-cola.com
+[DEDUP] https://cdnm.az.ciam.nestle.com represents 1 duplicates [404][21][]:
+  ↳ https://system-watchere.az.ciam.nestle.com
+[DEDUP] https://helpg.citymesh.guide represents 3 duplicates [302][129][]:
+  ↳ https://baidu.citymesh.guide
+  ↳ https://maven.citymesh.guide
+  ↳ https://blogs.citymesh.guide
+[DEDUP] https://cse.citymesh.guide represents 1 duplicates [302][127][]:
+  ↳ https://uni.citymesh.guide
+[DEDUP] http://bg7.factory.nestle.com:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://bdm.factory.nestle.com
+[DEDUP] https://cs.citymesh.guide represents 1 duplicates [302][126][]:
+  ↳ https://kk.citymesh.guide
+[DEDUP] https://groupsi.citymesh.guide represents 1 duplicates [302][131][]:
+  ↳ https://server1.citymesh.guide
+[DEDUP] https://mm-2.acbpost.be represents 1 duplicates [302][0][]:
+  ↳ http://pass.acbpost.be
+[DEDUP] http://helpg.citymesh.guide:8443 represents 1 duplicates [400][655][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://www5d9.citymesh.guide:8443
+[DEDUP] http://baidu.citymesh.guide:8443 represents 12 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://e.citymesh.guide:8443
+  ↳ http://maven.citymesh.guide:8443
+  ↳ http://cse.citymesh.guide:8443
+  ↳ http://homepage2.citymesh.guide:8443
+  ↳ http://cs.citymesh.guide:8443
+  ↳ http://groupsi.citymesh.guide:8443
+  ↳ http://blogs.citymesh.guide:8443
+  ↳ http://kk.citymesh.guide:8443
+  ↳ http://help.citymesh.guide:8443
+  ↳ http://server1.citymesh.guide:8443
+  ↳ http://server17.citymesh.guide:8443
+  ↳ http://uni.citymesh.guide:8443

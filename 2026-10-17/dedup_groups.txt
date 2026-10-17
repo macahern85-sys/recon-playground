@@ -1,0 +1,37 @@
+[DEDUP] http://collider-api-tccc-dev-stagee.playground-stage.coke.com:8080 represents 3 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://campaign-genie-tccc-prod-coke9.playground.coke.com:8080
+  ↳ http://app-instance-api-tccc-prod-cokew.playground.coke.com:8080
+  ↳ http://notification-api-tccc-prod-cokes.playground.coke.com
+[DEDUP] https://mt-api.pg3-prod.coke.com represents 1 duplicates [200][4898][Congratulations | Cloud Run]:
+  ↳ https://ar-api.pg3-prod.coke.com
+[DEDUP] https://pg3cos.pg3-prod.coke.com represents 9 duplicates [404][127][]:
+  ↳ https://pg3nmalanding.pg3-prod.coke.com
+  ↳ https://pg3exprofile.pg3-prod.coke.com
+  ↳ https://pg3masteroftaste.pg3-prod.coke.com
+  ↳ https://pg3nmagalleryindex.pg3-prod.coke.com
+  ↳ https://pg3ourwork.pg3-prod.coke.com
+  ↳ https://pg3innovation.pg3-prod.coke.com
+  ↳ https://pg3brief-status.pg3-prod.coke.com
+  ↳ https://pg3mtep.pg3-prod.coke.com
+  ↳ https://pg3onboarding.pg3-prod.coke.com
+[DEDUP] http://http.aws-prod-api-realtime-2.moralis.io:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://www.aws-prod-nodes-1.moralis.io:8080
+[DEDUP] https://campaign-genie-tccc-prod-coke9.playground.coke.com represents 1 duplicates [200][1833][Welcome to The Playground]:
+  ↳ https://app-instance-api-tccc-prod-cokew.playground.coke.com
+[DEDUP] https://as.mmp.dhl.com represents 1 duplicates [404][19][]:
+  ↳ https://mmm.mmp.dhl.com
+[DEDUP] https://calendar-dev.houseofhr.com represents 2 duplicates [404][266389][Page not found]:
+  ↳ https://calendar.houseofhr.com
+  ↳ http://calendar-uat.houseofhr.com
+[DEDUP] http://certus.wavin.com represents 5 duplicates [301][0][]:
+  ↳ http://www.belarus-ru.wavin.com
+  ↳ http://www.overseas.wavin.com
+  ↳ http://www.ch.wavin.com
+  ↳ http://www.hu.wavin.com
+  ↳ http://www.it.wavin.com
+[DEDUP] http://pg3ideasbank.pg3-prod.coke.com represents 2 duplicates [301][0][]:
+  ↳ http://pg3toolsandsupport.pg3-prod.coke.com
+  ↳ http://pg3prioprocess.pg3-prod.coke.com
+[DEDUP] http://collider-api-tccc-dev-stagee.playground-stage.coke.com:8443 represents 2 duplicates [400][253][400 The plain HTTP request was sent to HTTPS port]:
+  ↳ http://campaign-genie-tccc-prod-coke9.playground.coke.com:8443
+  ↳ http://app-instance-api-tccc-prod-cokew.playground.coke.com:8443

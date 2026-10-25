@@ -1,0 +1,226 @@
+[DEDUP] https://api.nxtport.com represents 2 duplicates [403][1484][Service unavailable]:
+  ↳ https://api-bulkchain.nxtport.com
+  ↳ https://bulkchain-stg.nxtport.com
+[DEDUP] http://cms.hf.coca-cola.com represents 8 duplicates [404][1561][Error 404 (Not Found)!!1]:
+  ↳ http://11s.hf.coca-cola.com
+  ↳ http://15.hf.coca-cola.com
+  ↳ http://dell5.hf.coca-cola.com
+  ↳ http://eee.hf.coca-cola.com
+  ↳ http://eng.hf.coca-cola.com
+  ↳ http://esfi.hf.coca-cola.com
+  ↳ http://eu9.hf.coca-cola.com
+  ↳ http://euwe.hf.coca-cola.com
+[DEDUP] http://da-tools-mcp.automcp-c-uw2.cloudos.autodesk.com represents 26 duplicates [301][134][301 Moved Permanently]:
+  ↳ http://cp.cerv2-s-ue1.cloudos.autodesk.com
+  ↳ http://aps-workflow-mcp.apswrkfl-p-ue1.cloudos.autodesk.com
+  ↳ http://app-mcp.apps-s-ue1.cloudos.autodesk.com
+  ↳ http://cp.cerv2-p-ue1.cloudos.autodesk.com
+  ↳ http://da-tools-mcp.automcp-s-ue1.cloudos.autodesk.com
+  ↳ http://dcsec-mcp-server.dcsec-c-uw2.cloudos.autodesk.com
+  ↳ http://ee-graduation-poc.cosai-c-uw2.cloudos.autodesk.com
+  ↳ http://fission-api.wlc360ai-c-uw2-fi.cloudos.autodesk.com
+  ↳ http://fission-temporal-webui.wlc360ai-c-uw2-fi.cloudos.autodesk.com
+  ↳ http://fission-temporal-server.wlc360ai-c-uw2-fi.cloudos.autodesk.com
+  ↳ http://genbi-portal-api-alb.fds-c-uw2.cloudos.autodesk.com
+  ↳ http://fusion-hubs-adapter-alb.fushubs-p-ue1-as.cloudos.autodesk.com
+  ↳ http://eps-api.workflow-s-as2.cloudos.autodesk.com
+  ↳ http://fusion-hubs-adapter-alb.fushubs-p-ec1-as.cloudos.autodesk.com
+  ↳ http://fusion-hubs-adapter-alb.fushubs-p-ec1.cloudos.autodesk.com
+  ↳ http://lineage-adapter.amps-c-uw2.cloudos.autodesk.com
+  ↳ http://query-processing-service-debug.pdkg-c-uw2-qp.cloudos.autodesk.com
+  ↳ http://query-processing-service.pdkg-c-uw2-qp.cloudos.autodesk.com
+  ↳ http://fusion-hubs-adapter-alb.fushubs-p-is1-as.cloudos.autodesk.com
+  ↳ http://fusion-hubs-adapter-alb.fushubs-p-is1.cloudos.autodesk.com
+  ↳ http://pagezero.workflow-c-uw2.cloudos.autodesk.com
+  ↳ http://user-data-access-api-alb.adpcp-p-ue1.cloudos.autodesk.com
+  ↳ http://resolver.wipdm-s-is1-test.cloudos.autodesk.com
+  ↳ http://resolver.wipdm-s-is1.cloudos.autodesk.com
+  ↳ http://wfstudio-app.wfstudio-s-as2.cloudos.autodesk.com
+  ↳ http://wfstudio-app.wfstudio-s-ew1.cloudos.autodesk.com
+[DEDUP] https://cancel-quote-v1.ddws.autodesk.com represents 4 duplicates [403][42][]:
+  ↳ https://quote-finalize-external-v1.ddws.autodesk.com
+  ↳ https://quote-status-external.ddws.autodesk.com
+  ↳ https://roads-inference.aecinf-c-uw2.cloudos.autodesk.com
+  ↳ https://roads-inference.aecinf-s-ue1.cloudos.autodesk.com
+[DEDUP] https://assa-prod-use2.shared.us.ouraring.com represents 1 duplicates [404][146][404 Not Found]:
+  ↳ https://gp-prod-use2.shared.us.ouraring.com
+[DEDUP] https://cfgsloatz.classlibrary.datum-staging.autodesk.com represents 57 duplicates [302][28][]:
+  ↳ https://d2vajam2q.data.datum.autodesk.com
+  ↳ https://c6a486dzp.classlibrary.datum.autodesk.com
+  ↳ https://cmodfu0nd.classlibrary.datum-staging.autodesk.com
+  ↳ https://d27lyn8tu.ddm.datum.autodesk.com
+  ↳ https://d27lyn8tu.data.datum.autodesk.com
+  ↳ https://d2vajam2q.ddm.datum.autodesk.com
+  ↳ https://d3iy5n9ol.data.datum.autodesk.com
+  ↳ https://d3iy5n9ol.ddm.datum.autodesk.com
+  ↳ https://darlqejsa.ddm.datum-staging.autodesk.com
+  ↳ https://darlqejsa.data.datum-staging.autodesk.com
+  ↳ https://datum-cls-c6a486dzp.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-cls-cmodfu0nd.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-cls-ctl16xc2i.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://cunblkhtq.classlibrary.datum.autodesk.com
+  ↳ https://datum-cls-cfgsloatz.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://d11a3qu79.ddm.datum.autodesk.com
+  ↳ https://d11a3qu79.data.datum.autodesk.com
+  ↳ https://datum-cls-ctl16xc2i.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://cml9gn8z5.classlibrary.datum.autodesk.com
+  ↳ https://datum-ddm-d3iy5n9ol.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-d27lyn8tu.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-d27lyn8tu.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-d3iy5n9ol.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-darlqejsa.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dbmogm6q7.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-d2vajam2q.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-cls-c6a486dzp.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-d2vajam2q.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dshh9g8le.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-du77w45cf.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-du77w45cf.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dwow53cpe.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dwow53cpe.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-cls-cml9gn8z5.datum360-s-ew1.cloudos.autodesk.com
+  ↳ https://datum-cls-cml9gn8z5.datum360-p-ew1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dzcgqf9st.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-cls-cunblkhtq.datum360-p-ew1.cloudos.autodesk.com
+  ↳ https://datum-cls-cunblkhtq.datum360-s-ew1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dzcgqf9st.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://dbmogm6q7.data.datum-staging.autodesk.com
+  ↳ https://datum-ddm-d11a3qu79.datum360-s-ew1.cloudos.autodesk.com
+  ↳ https://datum-ddm-d11a3qu79.datum360-p-ew1.cloudos.autodesk.com
+  ↳ https://dbmogm6q7.ddm.datum-staging.autodesk.com
+  ↳ https://datum-ddm-ds12berfp.datum360-p-ew1.cloudos.autodesk.com
+  ↳ https://datum-ddm-ds12berfp.datum360-s-ew1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dihewrom8.datum360-p-ew1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dihewrom8.datum360-s-ew1.cloudos.autodesk.com
+  ↳ https://dshh9g8le.data.datum.autodesk.com
+  ↳ https://dshh9g8le.ddm.datum.autodesk.com
+  ↳ https://dwow53cpe.data.datum.autodesk.com
+  ↳ https://du77w45cf.data.datum.autodesk.com
+  ↳ https://du77w45cf.ddm.datum.autodesk.com
+  ↳ https://dzcgqf9st.data.datum.autodesk.com
+  ↳ https://dzcgqf9st.ddm.datum.autodesk.com
+  ↳ https://dihewrom8.data.datum.autodesk.com
+  ↳ https://ds12berfp.data.datum.autodesk.com
+  ↳ https://ctl16xc2i.classlibrary.datum.autodesk.com
+[DEDUP] https://api-uat-legacy.nxtport.com represents 2 duplicates [404][54][]:
+  ↳ https://api-bulkchain-uat.nxtport.com
+  ↳ https://api-uat.nxtport.com
+[DEDUP] https://console-stg.nxtport.com represents 2 duplicates [200][612][NxtPort Console]:
+  ↳ https://console.nxtport.com
+  ↳ https://console-uat.nxtport.com
+[DEDUP] https://cpu.nxtport.com represents 1 duplicates [200][682][Certified Release Process]:
+  ↳ https://crp-uat.nxtport.com
+[DEDUP] https://ads.speakap.com represents 2 duplicates [200][6694][Speakap]:
+  ↳ https://demo.speakap.com
+  ↳ https://eyesandmore-de.speakap.com
+[DEDUP] http://dtm.deutschepost.de:8080 represents 1 duplicates [409][17][]:
+  ↳ http://dtm.deutschepost.de
+[DEDUP] https://dwow53cpe.ddm.datum.autodesk.com represents 1 duplicates [200][29][]:
+  ↳ https://ds12berfp.ddm.datum.autodesk.com
+[DEDUP] https://demo-2m.fra.liferay.com represents 2 duplicates [302][207][302 Found]:
+  ↳ https://demo-9-testc.fra.liferay.com
+  ↳ https://demo3.fra.liferay.com
+[DEDUP] http://link.be.email.nestle.com:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://lp.be.email.nestle.com:8080
+[DEDUP] https://partner-agent.ddwsstg.autodesk.com represents 1 duplicates [403][919][ERROR: The request could not be satisfied]:
+  ↳ https://partner-agent.ddwsdev.autodesk.com
+[DEDUP] http://rabbitmq-01.internal.csmarket.zabka.pl:8080 represents 62 duplicates [403][5499][Attention Required! | Cloudflare]:
+  ↳ https://rabbitmq-01.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-01.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-01.pre.internal.csmarket.zabka.pl:8080
+  ↳ http://rabbitmq-01.perf.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-01.pre.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-01.perf.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-01.pre.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-01.perf.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-01.tst.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-01.tst.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-01.tst.internal.csmarket.zabka.pl:8443
+  ↳ http://rabbitmq-02.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-02.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-02.pre.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-02.pre.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-04.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-02.internal.csmarket.zabka.pl:8443
+  ↳ http://rabbitmq-04.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-02.pre.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-04.internal.csmarket.zabka.pl:8443
+  ↳ http://rabbitmq-05.internal.csmarket.zabka.pl:8080
+  ↳ http://rabbitmq-02.tst.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-05.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-05.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-03.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-03.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-06.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-03.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-02.tst.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-02.tst.internal.csmarket.zabka.pl:8443
+  ↳ http://rabbitmq-06.internal.csmarket.zabka.pl:8080
+  ↳ http://rabbitmq-08.internal.csmarket.zabka.pl:8080
+  ↳ http://rabbitmq-07.internal.csmarket.zabka.pl:8080
+  ↳ http://rabbitmq-09.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-06.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-07.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-08.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-09.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-08.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-09.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-07.internal.csmarket.zabka.pl:8443
+  ↳ http://rabbitmq-12.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-12.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-10.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-10.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-11.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-10.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-12.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-11.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-16.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-15.internal.csmarket.zabka.pl:8080
+  ↳ http://rabbitmq-13.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-11.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-13.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-15.internal.csmarket.zabka.pl
+  ↳ http://rabbitmq-16.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-16.internal.csmarket.zabka.pl:8443
+  ↳ http://rabbitmq-14.internal.csmarket.zabka.pl:8080
+  ↳ https://rabbitmq-13.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-15.internal.csmarket.zabka.pl:8443
+  ↳ https://rabbitmq-14.internal.csmarket.zabka.pl
+  ↳ https://rabbitmq-14.internal.csmarket.zabka.pl:8443
+[DEDUP] https://lp.be.email.nestle.com represents 1 duplicates [404][9][]:
+  ↳ https://lp.be.email.nestle.com:8443
+[DEDUP] https://ms-wordk.app.usa.speakap.io represents 3 duplicates [404][146][404 Not Found]:
+  ↳ https://www.birthdaywidget.app.usa.speakap.io
+  ↳ https://vico-test-webc.app.speakap.io
+  ↳ https://www.birthdaywidget.app.speakap.io
+[DEDUP] https://saas-inspection-management.wlc360a-p-uw2.autodesk.com represents 8 duplicates [403][23][]:
+  ↳ https://saas-inspection-management.wlc360a-c-uw2.autodesk.com
+  ↳ https://saas-risk-management.wlc360a-c-uw2.autodesk.com
+  ↳ https://saas-bulk-telem-data.wlc360p-c-uw2.autodesk.com
+  ↳ https://saas-inspection-management.wlc360a-s-uw2.autodesk.com
+  ↳ https://saas-risk-management.wlc360a-s-uw2.autodesk.com
+  ↳ https://saas-inspection-management.wlc360a-p-ew2.autodesk.com
+  ↳ https://saas-inspection-management.wlc360a-p-as2.autodesk.com
+  ↳ https://water-devops-support-bot.wlc360p-c-uw2.autodesk.com
+[DEDUP] https://tech-preview.contentcatalog.aus.autodesk.com represents 1 duplicates [200][547][Content Catalog (Tech Preview)]:
+  ↳ https://tech-preview.contentcatalog.autodesk.com
+[DEDUP] http://vault-p1-prd.nxtport.com represents 2 duplicates [301][246][301 Moved Permanently]:
+  ↳ http://vault-p1-stg.nxtport.com
+  ↳ http://vault-p1-uat.nxtport.com
+[DEDUP] https://login-uat.nxtport.com represents 3 duplicates [404][0][]:
+  ↳ https://ingestion.nxtport.com
+  ↳ https://ingestion-uat.nxtport.com
+  ↳ https://login.nxtport.com
+[DEDUP] https://dav.techno.pharma.unibas.ch represents 3 duplicates [403][199][403 Forbidden]:
+  ↳ https://dav.seb.dmi.unibas.ch
+  ↳ https://seb.dmi.unibas.ch
+  ↳ https://www.seb.dmi.unibas.ch
+[DEDUP] https://login-stg.nxtport.eu represents 1 duplicates [404][0][]:
+  ↳ https://login.nxtport.eu
+[DEDUP] https://edge30.rcs-rds.ro represents 2 duplicates [200][128646][Welcome to OpenResty!]:
+  ↳ https://edgen84.rcs-rds.ro
+  ↳ https://edgen81.rcs-rds.ro
+[DEDUP] https://zack.dev.dpcs.buhlergroup.com represents 1 duplicates [302][0][]:
+  ↳ https://zack.dpcs.buhlergroup.com
+[DEDUP] https://techno.pharma.unibas.ch represents 1 duplicates [401][381][401 Unauthorized]:
+  ↳ https://www.techno.pharma.unibas.ch

@@ -1,0 +1,42 @@
+[DEDUP] http://canvas-mcp.fusclai-p-ue1.cloudos.autodesk.com represents 25 duplicates [301][134][301 Moved Permanently]:
+  ↳ http://main.aecir-s-ue1.cloudos.autodesk.com
+  ↳ http://flow-as-mcp.flowai-s-ue1.cloudos.autodesk.com
+  ↳ http://irdms-alb.aecir-s-ue1.cloudos.autodesk.com
+  ↳ http://insights-studio-api.adminstd-s-ue1.cloudos.autodesk.com
+  ↳ http://ee-grad-harness.cosai-c-uw2.cloudos.autodesk.com
+  ↳ http://flow-as-mcp.flowai-s-ue1-test.cloudos.autodesk.com
+  ↳ http://flow-as-mcp.flowai-c-uw2.cloudos.autodesk.com
+  ↳ http://pc-agent-api.erpcon-c-uw2.cloudos.autodesk.com
+  ↳ http://email.dtt-c-uw2.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver-ext.aepsds-p-cc1.cloudos.autodesk.com
+  ↳ http://main.aor-s-ue1.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver.aepsds-p-cc1.cloudos.autodesk.com
+  ↳ http://pc-agent-api.erpcon-s-ew1.cloudos.autodesk.com
+  ↳ http://flow-as-mcp.flowai-c-uw2-test.cloudos.autodesk.com
+  ↳ http://pc-agent-api.erpcon-p-ew2.cloudos.autodesk.com
+  ↳ http://workflow-engine-lb.aumx-p-ue1.cloudos.autodesk.com
+  ↳ http://pstools-alb.ups-c-uw2.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver.aepsds-p-ec1.cloudos.autodesk.com
+  ↳ http://workflow-engine-lb.aumx-c-uw2.cloudos.autodesk.com
+  ↳ http://pc-agent-api.erpcon-p-as2.cloudos.autodesk.com
+  ↳ http://workflow-engine-lb.aumx-s-ue1.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver-ext.aepsds-p-ec1.cloudos.autodesk.com
+  ↳ http://apiw.pr.srch-p-as2-test.cloudos.autodesk.com
+  ↳ http://pc-agent-api.erpcon-s-as2.cloudos.autodesk.com
+  ↳ http://adminsync.bim360hq-s-is1.cloudos.autodesk.com
+[DEDUP] https://assistanceplusadmin.nmpsc-prod.aws.canadapost-postescanada.ca represents 1 duplicates [403][919][ERROR: The request could not be satisfied]:
+  ↳ https://assistanceplus.nmpsc-prod.aws.canadapost-postescanada.ca
+[DEDUP] https://data-canvas-assets.acc-staging.autodesk.com represents 1 duplicates [403][111][]:
+  ↳ https://svnweb-photos1-previews.acc-photos.acc-qa.autodesk.com
+[DEDUP] https://api.licfeat.prd.autodesk.com represents 1 duplicates [403][42][]:
+  ↳ https://gaia-constraintgen-ins.gaiainf-c-uw2.cloudos.autodesk.com
+[DEDUP] https://launchbrightly.autodesk.com represents 2 duplicates [200][724][Launch Brightly]:
+  ↳ https://launchbrightly.stg.autodesk.com
+  ↳ https://launchbrightly.dev.autodesk.com
+[DEDUP] https://saas-risk-management.wlc360a-p-uw2.autodesk.com represents 4 duplicates [403][23][]:
+  ↳ https://water-devops-support-bot.wlc360p-s-uw2.autodesk.com
+  ↳ https://saas-risk-management.wlc360a-p-ew2.autodesk.com
+  ↳ https://saas-risk-management.wlc360a-p-as2.autodesk.com
+  ↳ https://water-devops-support-bot.wlc360p-p-uw2.autodesk.com
+[DEDUP] https://ind.tandem-stg.autodesk.com represents 1 duplicates [404][19][]:
+  ↳ https://tandem-alb.tandem-s-is1.cloudos.autodesk.com

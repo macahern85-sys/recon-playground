@@ -1,0 +1,44 @@
+[DEDUP] http://item-catalog-ingester.licici-p-uw2.cloudos.autodesk.com represents 23 duplicates [301][134][301 Moved Permanently]:
+  ↳ http://cqht0n6hi.classlibrary.datum-dev.autodesk.com
+  ↳ http://query-processing-service.pdkg-s-ue1-qp.cloudos.autodesk.com
+  ↳ http://di-sk.cerv2-s-ue1.cloudos.autodesk.com
+  ↳ http://datum-cls-cqht0n6hi.datum360-c-uw2.cloudos.autodesk.com
+  ↳ http://datum-ddm-dt08sff1z.datum360-c-uw2.cloudos.autodesk.com
+  ↳ http://queue-service.insights-p-ue1-qs.cloudos.autodesk.com
+  ↳ http://console.acp.stg.is1.ind.autodesk.com
+  ↳ http://sds-http-delivery.aepsds-p-is1.cloudos.autodesk.com
+  ↳ http://mi.srch-p-ew1-mi.cloudos.autodesk.com
+  ↳ http://dataapi-alb.dsta-s-is1.cloudos.autodesk.com
+  ↳ http://dt08sff1z.data.datum-dev.autodesk.com
+  ↳ http://sds-event-publisher.aepsds-p-an1.cloudos.autodesk.com
+  ↳ http://dm.bim360hq-s-is1.cloudos.autodesk.com
+  ↳ http://ops-tools.medata-c-uw2-pf.cloudos.autodesk.com
+  ↳ http://sds-http-delivery.aepsds-p-an1.cloudos.autodesk.com
+  ↳ http://datum-ddm-d1vleho8g.datum360-s-ue1.cloudos.autodesk.com
+  ↳ http://sds-permission-checker.aepsds-p-cc1-test.cloudos.autodesk.com
+  ↳ http://datum-ddm-d1pcdkavd.datum360-s-ue1.cloudos.autodesk.com
+  ↳ http://datum-cls-c457rwuw9.datum360-p-ew1.cloudos.autodesk.com
+  ↳ http://datum-cls-c58glfy6q.datum360-s-ue1.cloudos.autodesk.com
+  ↳ http://datum-ddm-dck9z1zi4.datum360-p-ue1.cloudos.autodesk.com
+  ↳ http://datum-ddm-dlpg7t91i.datum360-s-ue1.cloudos.autodesk.com
+  ↳ http://core.aep-p-ew1-test.cloudos.autodesk.com
+[DEDUP] https://css-app-reno-d1f2c40-uw2.lem-dev.autodesk.com represents 4 duplicates [403][23][]:
+  ↳ https://css-app-mojo-15466-uw2.lem-dev.autodesk.com
+  ↳ https://css-app-mojo-15466.lem-dev.autodesk.com
+  ↳ https://saas-asset-mgmt.wlc360p-p-uw2.autodesk.com
+  ↳ https://css-app-reno-d9e8ecf.lem-dev.autodesk.com
+[DEDUP] https://datum-cls-c457rwuw9.datum360-s-ew1.cloudos.autodesk.com represents 5 duplicates [302][28][]:
+  ↳ https://datum-cls-crvro7v3n.datum360-p-ue1.cloudos.autodesk.com
+  ↳ https://datum-cls-crvro7v3n.datum360-s-ue1.cloudos.autodesk.com
+  ↳ https://dgfqn3fk7.ddm.datum.autodesk.com
+  ↳ https://datum-ddm-dgfqn3fk7.datum360-s-ew1.cloudos.autodesk.com
+  ↳ https://datum-ddm-dgfqn3fk7.datum360-p-ew1.cloudos.autodesk.com
+[DEDUP] https://inconsistency-data-tooli.az.ciam.nestle.com represents 2 duplicates [404][21][]:
+  ↳ https://dataflow-metrics-scrapera.az.ciam.nestle.com
+  ↳ http://dryrun.az.ciam.nestle.com
+[DEDUP] https://dnsq-agent-prd.autodesk.com represents 1 duplicates [403][42][]:
+  ↳ https://intc-egemma2.resioc-c-uw2.cloudos.autodesk.com
+[DEDUP] https://confluencec.devops.wartsila.com represents 1 duplicates [403][13][]:
+  ↳ https://www.devops.wartsila.com
+[DEDUP] http://www.au.factory.nestle.com:8080 represents 1 duplicates [301][167][301 Moved Permanently]:
+  ↳ http://www.au.factory.nestle.com

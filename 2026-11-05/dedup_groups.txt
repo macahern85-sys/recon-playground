@@ -1,0 +1,110 @@
+[DEDUP] https://aadb2c-gcp.naou.gcds.coke.com represents 1 duplicates [404][18][]:
+  ↳ https://enrichment-gcp.apac.gcds.coke.com
+[DEDUP] https://datum-ddm-dwov6y5bb.datum360-s-ue1.cloudos.autodesk.com represents 1 duplicates [503][564][503 Service Temporarily Unavailable]:
+  ↳ https://sds-control-plane.aepsds-p-ew1-test.cloudos.autodesk.com
+[DEDUP] http://bullion-alb.bullion-c-uw2.cloudos.autodesk.com represents 52 duplicates [301][134][301 Moved Permanently]:
+  ↳ http://datum-ddm-d02k3ri0i.datum360-c-uw2.cloudos.autodesk.com
+  ↳ http://accounts-samples-tos.autodesk.com
+  ↳ http://datum-cls-c2vucivbe.datum360-c-uw2.cloudos.autodesk.com
+  ↳ http://accounts-samples-pru.autodesk.com
+  ↳ http://accounts-samples-pph.autodesk.com
+  ↳ http://accounts-coppa2.autodesk.com
+  ↳ http://accounts-newui.autodesk.com
+  ↳ http://accounts-samples-cpp.autodesk.com
+  ↳ http://bot.idm-c-uw2-ir.cloudos.autodesk.com
+  ↳ http://app.shothome-s-ue1.cloudos.autodesk.com
+  ↳ http://accounts-coppa1.autodesk.com
+  ↳ http://d02k3ri0i.ddm.datum-dev.autodesk.com
+  ↳ http://app.shothome-c-uw2.cloudos.autodesk.com
+  ↳ http://csm-api-alb.csmdata-s-ue1.cloudos.autodesk.com
+  ↳ http://accounts-samples-recaptcha.autodesk.com
+  ↳ http://accounts-samples-eev.autodesk.com
+  ↳ http://d02k3ri0i.data.datum-dev.autodesk.com
+  ↳ http://c2vucivbe.classlibrary.datum-dev.autodesk.com
+  ↳ http://agentic-hub-test.iis-c-uw2.cloudos.autodesk.com
+  ↳ http://chaos-workflow-app.workflow-c-uw2.cloudos.autodesk.com
+  ↳ http://fops-mcp-server.prdsmart-c-uw2.cloudos.autodesk.com
+  ↳ http://agentworkspaceservicelb.nbsvc-s-is1.cloudos.autodesk.com
+  ↳ http://main.aor-p-ue1.cloudos.autodesk.com
+  ↳ http://nucleus-web.medata-c-uw2-pf.cloudos.autodesk.com
+  ↳ http://public-libraries-registry.lds-s-ue1.cloudos.autodesk.com
+  ↳ http://ds-api.insights-s-is1-ds.cloudos.autodesk.com
+  ↳ http://rvobs.acso-c-uw2.cloudos.autodesk.com
+  ↳ http://sda-mcp.sdamcp-s-ue1.cloudos.autodesk.com
+  ↳ http://sda-mcp.sdamcp-p-ue1.cloudos.autodesk.com
+  ↳ http://sda-mcp.sdamcp-c-uw2.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver-ext.aepsds-p-ew1.cloudos.autodesk.com
+  ↳ http://sds-event-publisher.aepsds-p-ew1-test.cloudos.autodesk.com
+  ↳ http://public-libraries-registry.lds-s-is1.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver-ext.aepsds-p-as2.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver.aepsds-p-ew1.cloudos.autodesk.com
+  ↳ http://sds-event-publisher.aepsds-p-ew1.cloudos.autodesk.com
+  ↳ http://sds-e2e-receiver.aepsds-p-as2.cloudos.autodesk.com
+  ↳ http://sds-http-delivery.aepsds-p-ew1-test.cloudos.autodesk.com
+  ↳ http://sds-permission-checker.aepsds-p-ew1-test.cloudos.autodesk.com
+  ↳ http://support-bot-engine-server-ecs.apigeex-p-ue1.cloudos.autodesk.com
+  ↳ http://sds-http-delivery.aepsds-p-ew1.cloudos.autodesk.com
+  ↳ http://support-bot-engine-server-ecs.apigeex-s-ue1.cloudos.autodesk.com
+  ↳ http://sds-http-delivery.aepsds-p-as2-test.cloudos.autodesk.com
+  ↳ http://software-factory.adaf-c-uw2.cloudos.autodesk.com
+  ↳ http://sds-event-publisher.aepsds-p-as2.cloudos.autodesk.com
+  ↳ http://sds-event-publisher.aepsds-p-as2-test.cloudos.autodesk.com
+  ↳ http://sds-http-delivery.aepsds-p-as2.cloudos.autodesk.com
+  ↳ http://sds-permission-checker.aepsds-p-ew1.cloudos.autodesk.com
+  ↳ http://ta-ai-hub-preview.autodesk.com
+  ↳ http://sds-permission-checker.aepsds-p-as2.cloudos.autodesk.com
+  ↳ http://vpn-dev.deprdns-c-uw2.cloudos.autodesk.com
+  ↳ http://sds-permission-checker.aepsds-p-as2-test.cloudos.autodesk.com
+[DEDUP] https://api.corp-vault-stg.autodesk.com represents 3 duplicates [403][42][]:
+  ↳ https://gaia-constraintgen-exp.amps-p-ec1.cloudos.autodesk.com
+  ↳ https://gaia-constraintgen-exp.amps-s-is1.cloudos.autodesk.com
+  ↳ https://gaia-constraintgen-exp.amps-p-is1.cloudos.autodesk.com
+[DEDUP] https://agent-wd-aurora.wdagent-s-ue1.cloudos.autodesk.com represents 2 duplicates [503][162][503 Service Temporarily Unavailable]:
+  ↳ https://core.aep-p-as2-test.cloudos.autodesk.com
+  ↳ https://sds-control-plane.aepsds-p-as2-test.cloudos.autodesk.com
+[DEDUP] https://adppa-ase-internal-harness-v1.adpcase-c-uw2.cloudos.autodesk.com represents 1 duplicates [404][0][]:
+  ↳ https://adppa-ase-internal-harness-v1.adpcase-s-ue1.cloudos.autodesk.com
+[DEDUP] https://core.aep-p-cc1.cloudos.autodesk.com represents 7 duplicates [404][43][]:
+  ↳ https://core.aep-p-ew1.cloudos.autodesk.com
+  ↳ https://core.aep-p-ec1.cloudos.autodesk.com
+  ↳ https://core.aep-p-an1.cloudos.autodesk.com
+  ↳ https://core.aep-p-as2.cloudos.autodesk.com
+  ↳ https://core.aep-p-is1.cloudos.autodesk.com
+  ↳ https://sds-control-plane.aepsds-p-ew1.cloudos.autodesk.com
+  ↳ https://sds-control-plane.aepsds-p-as2.cloudos.autodesk.com
+[DEDUP] https://explorer.info360-stg.autodesk.com represents 4 duplicates [200][288][Rsbuild App]:
+  ↳ https://explorer.info360-dev.autodesk.com
+  ↳ https://explorer.info360.autodesk.com
+  ↳ https://explorer.info360-eu.autodesk.com
+  ↳ https://explorer.info360-ap.autodesk.com
+[DEDUP] https://ggo-results.apps.buhlergroup.com represents 1 duplicates [302][0][]:
+  ↳ https://ggo-results.prep.apps.buhlergroup.com
+[DEDUP] https://lib-inno-map.info360.autodesk.com represents 3 duplicates [200][3483][storybook - Storybook]:
+  ↳ https://lib-inno-map.info360-stg.autodesk.com
+  ↳ https://lib-inno-map.info360-eu.autodesk.com
+  ↳ https://lib-inno-map.info360-ap.autodesk.com
+[DEDUP] https://omnihub-avanti.houseofhr.com represents 1 duplicates [403][1484][Service unavailable]:
+  ↳ https://omnihub-avanti-uat.houseofhr.com
+[DEDUP] https://ggo-results.apps.prep.buhlergroup.io represents 1 duplicates [302][0][]:
+  ↳ https://ggo-results.apps.buhlergroup.io
+[DEDUP] https://mm-ui-ecosystemation.dev.antifraud.claims.verisk.com represents 1 duplicates [200][1754][AFA Membership Management UI]:
+  ↳ https://s-mm-ui-ecosystemation.dev.antifraud.claims.verisk.com
+[DEDUP] https://s-use1-test-dmf-direct.test.antifraud.claims.verisk.com represents 2 duplicates [200][2519][Digital Media Forensics Portal]:
+  ↳ https://s-use1-accept-dmf-direct.accept.antifraud.claims.verisk.com
+  ↳ https://use1-accept-dmf-direct.accept.antifraud.claims.verisk.com
+[DEDUP] https://omnihub-avanti-dev.houseofhr.com represents 3 duplicates [200][8004][Omnichannel Hub]:
+  ↳ https://omnihub-pluss.houseofhr.com
+  ↳ https://omnihub-pluss-uat.houseofhr.com
+  ↳ https://omnihub-pluss-dev.houseofhr.com
+[DEDUP] https://sds-red-centrifugo.aepsds-p-cc1.cloudos.autodesk.com represents 1 duplicates [404][19][]:
+  ↳ https://sds-red-centrifugo.aepsds-p-an1.cloudos.autodesk.com
+[DEDUP] https://water-devops-support-bot.wlc360ai-p-uw2.autodesk.com represents 3 duplicates [403][23][]:
+  ↳ https://water-devops-support-bot.wlc360ai-c-uw2.autodesk.com
+  ↳ https://water-devops-support-bot.wlc360ai-s-uw2.autodesk.com
+  ↳ https://water-devops-support-bot.wlc360i-c-uw2.autodesk.com
+[DEDUP] https://ugr.theologie.unibas.ch represents 1 duplicates [302][227][302 Found]:
+  ↳ https://www.ugr.theologie.unibas.ch
+[DEDUP] https://vitrivr-web.dmi.unibas.ch represents 1 duplicates [200][4238][vitrivr]:
+  ↳ https://www.vitrivr-web.dmi.unibas.ch
+[DEDUP] http://devredliveai.coke.com represents 1 duplicates [307][0][]:
+  ↳ http://qaredliveai.coke.com
